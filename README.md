@@ -1,4 +1,11 @@
-### Hi there 👋
+
+### Hellow! 👋
+Development, design of web and mobile applications for startups and large companies.  Developing solutions is my fuel.
+
+### Useful links:
+<!-- 👉 Blog -->
+
+👉 <a href="https://www.linkedin.com/in/braianmendes/">Linkedin</a>
 
 <!--
 **BraianMendes/BraianMendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
