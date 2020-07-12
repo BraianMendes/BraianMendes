@@ -10,6 +10,8 @@ I truly believe in helping people with technology and code. My journey as a love
 <!-- 👉 Blog -->
 
 👉 <a href="https://www.linkedin.com/in/braianmendes/">Linkedin</a>
+👉 <a href="https://stackoverflow.com/users/12264893/braianmendes">StackOverflow</a>
+👉 <a href="https://stackexchange.com/users/16956678/braianmendes">StackExchange</a>
 
 [![Twitter](https://img.shields.io/twitter/follow/TsunamiBraian.svg?style=social)](https://twitter.com/TsunamiBraian)
 
