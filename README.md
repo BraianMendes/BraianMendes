@@ -10,7 +10,6 @@ I truly believe in helping people with technology and code. My journey as a love
 <!-- 👉 Blog -->
 
 👉 <a href="https://www.linkedin.com/in/braianmendes/">Linkedin</a>
-👉 <a href="00.braian.dev@gmail.com">Email</a>
 
 [![Twitter](https://img.shields.io/twitter/follow/TsunamiBraian.svg?style=social)](https://twitter.com/TsunamiBraian)
 
