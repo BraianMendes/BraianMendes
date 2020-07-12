@@ -12,9 +12,7 @@ I truly believe in helping people with technology and code. My journey as a love
 👉 <a href="https://www.linkedin.com/in/braianmendes/">Linkedin</a>
 👉 <a href="00.braian.dev@gmail.com">Email</a>
 
-![Twitter](https://img.shields.io/twitter/follow/TsunamiBraian.svg?style=social&label=@TsunamiBraian
-
-<!-- (https://twitter.com/TsunamiBraian) -->
+[![Twitter](https://img.shields.io/twitter/follow/TsunamiBraian.svg?style=social)](https://twitter.com/TsunamiBraian)
 
 <!--
 **BraianMendes/BraianMendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
