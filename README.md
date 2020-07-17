@@ -38,4 +38,7 @@ Here are some ideas to get you started:
 <!-- [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/BraianMendes)  -->
 <!-- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=BraianMendes)](https://github.com/BraianMendes)  -->
 <!-- [![Open Source Love png3](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/BraianMendes)  -->
+
+![Braian Mendes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BraianMendes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/BraianMendes/ama)
