@@ -12,13 +12,13 @@ I truly believe in helping people with technology and code. My journey as a love
 [![Braian Mendes](https://img.shields.io/badge/-braianmendes-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/braianmendes/)
 [![Braian Mendes](https://img.shields.io/badge/-TsunamiBraian-1da1f2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/TsunamiBraian)
 [![Braian Mendes](https://img.shields.io/badge/-mendesbraian-C13584?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mendesbraian)
-[![Braian Mendes](https://img.shields.io/badge/-Braian Portfolio-C13584?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/braian.portfolio)
+[![Braian Mendes](https://img.shields.io/badge/-Portfolio-C13584?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/braian.portfolio)
 
-👉 <a href="https://www.linkedin.com/in/braianmendes/">Linkedin</a>
+<!-- 👉 <a href="https://www.linkedin.com/in/braianmendes/">Linkedin</a>
 👉 <a href="https://stackoverflow.com/users/12264893/braianmendes">StackOverflow</a>
-👉 <a href="https://stackexchange.com/users/16956678/braianmendes">StackExchange</a>
+👉 <a href="https://stackexchange.com/users/16956678/braianmendes">StackExchange</a> -->
 
-[![Twitter](https://img.shields.io/twitter/follow/TsunamiBraian.svg?style=social)](https://twitter.com/TsunamiBraian)
+<!-- [![Twitter](https://img.shields.io/twitter/follow/TsunamiBraian.svg?style=social)](https://twitter.com/TsunamiBraian) -->
 
 <!--
 **BraianMendes/BraianMendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
