@@ -18,27 +18,31 @@ Call me in Social Media</h2><div><b>I answer very quickly!</b></div>
 <a href="https://www.linkedin.com/in/braianmendes/" target="_blank">
 	<img 
 		src="https://i.imgur.com/oxxxdYo.png" 
-		style="width: 70px; height: 70px"
+		width="70"
+		height="70"
 	/>
 </a>
 <a href="https://www.facebook.com/braian.mendes.1/" target="_blank">
 	<img 
 		src="https://i.imgur.com/P6F5gva.png" 
-		style="width: 70px; height: 70px"
+		width="70"
+		height="70"
 	/>
 </a>
 </a>
 <a href="https://www.instagram.com/braian_dev/" target="_blank">
 	<img 
 		src="https://i.imgur.com/3mfyOFB.png" 
-		style="width: 70px; height: 70px"
+		width="70"
+		height="70"
 	/>
 </a>
 </a>
 <a href="https://twitter.com/braian_dev" target="_blank">
 	<img 
 		src="https://i.imgur.com/rT5em0p.png" 
-		style="width: 70px; height: 70px"
+		width="70"
+		height="70"
 	/>
 </a>
 </div>
