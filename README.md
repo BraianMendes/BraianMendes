@@ -18,27 +18,27 @@ Call me in Social Media</h2><div><b>I answer very quickly!</b></div>
 <a href="https://www.linkedin.com/in/braianmendes/" target="_blank">
 	<img 
 		src="https://i.imgur.com/oxxxdYo.png" 
-		style="width: 70px"
+		style="width: 70px; height: 70px"
 	/>
 </a>
 <a href="https://www.facebook.com/braian.mendes.1/" target="_blank">
 	<img 
 		src="https://i.imgur.com/P6F5gva.png" 
-		style="width: 70px"
+		style="width: 70px; height: 70px"
 	/>
 </a>
 </a>
 <a href="https://www.instagram.com/braian_dev/" target="_blank">
 	<img 
 		src="https://i.imgur.com/3mfyOFB.png" 
-		style="width: 70px"
+		style="width: 70px; height: 70px"
 	/>
 </a>
 </a>
 <a href="https://twitter.com/braian_dev" target="_blank">
 	<img 
 		src="https://i.imgur.com/rT5em0p.png" 
-		style="width: 70px"
+		style="width: 70px; height: 70px"
 	/>
 </a>
 </div>
@@ -52,10 +52,12 @@ Call me in Social Media</h2><div><b>I answer very quickly!</b></div>
 Some Stats
 </h2>
 <div style="text-align: center">
+
 ![Braian Mendes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BraianMendes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
 </div>
 
-<h4 style="margin-top: 5rem">
+<!--<h4 style="margin-top: 5rem">
 Want to know a little more? Some curiosities of mine:
 </h4>
 
@@ -65,4 +67,4 @@ Want to know a little more? Some curiosities of mine:
 
 :tw-1f3ae: RPG Player
 
-:fa-rebel: Star Wars Rebel
+:fa-rebel: Star Wars Rebel-->
