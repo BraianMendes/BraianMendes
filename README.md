@@ -61,14 +61,12 @@ Some Stats
 
 </div>
 
-<!--<h4 style="margin-top: 5rem">
+<h4 style="margin-top: 5rem">
 Want to know a little more? Some curiosities of mine:
 </h4>
 
-:tw-1f34e: Vegan Fitness
+:apple: Vegan Fitness
 
-:tw-1f304: Passionate Traveler
+:camping: Passionate Traveler
 
-:tw-1f3ae: RPG Player
-
-:fa-rebel: Star Wars Rebel-->
+:video_game: RPG Player
