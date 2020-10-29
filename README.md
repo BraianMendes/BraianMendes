@@ -4,15 +4,12 @@
 <b>Working as a Remote Frontend Developer at <a href="https://beeleads.com.br/" target="_blank">Beeleads</a></b>
 
 
-
-### Hi! Wellcome to my Github Profile 👋
 I truly believe in helping people with technology and code. My journey as a lover began in 2012 with the first algorithm classes in college until I arrived in 2019 and discovered my vocation. Since then I breathe code 24 hours a day, every day of the week.
 
 <!-- <h2>Latest Articles</h2><b>Soon</b> -->
 
 
-<h2>
-Call me in Social Media</h2><div><b>I answer very quickly!</b></div>
+<div><b>Call me in Social Media. I answer very quickly!</b></div>
 
 <div style="display: flex">
 <a href="https://www.linkedin.com/in/braianmendes/" target="_blank">
