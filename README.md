@@ -58,10 +58,10 @@ Some Stats
 </h2>
 <div style="text-align: center">
 
-![Braian Mendes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BraianMendes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<!-- ![Braian Mendes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BraianMendes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
 
 <!-- GitHub stats -->  
-<b>⚡ My Dev Statistics</b>
+<b>⚡ My Github Statistics</b>
 
 <p>  
 <!-- GitHub Stats -->  
@@ -72,6 +72,10 @@ Some Stats
 </p>  
 
 </div>
+
+# My followers  
+<!--START_SECTION:top-followers-->   
+<!--END_SECTION:top-followers-->  
 
 <h4 style="margin-top: 5rem">
 Want to know a little more? Some curiosities of mine:
