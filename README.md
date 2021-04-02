@@ -10,7 +10,7 @@ I truly believe in helping people with technology and code. My journey as a love
 
 <!-- retro visitor counter -->  
 <p align="center">   
-  <img src="https://profile-counter.glitch.me/{user-name}/count.svg" />  
+  <img src="https://profile-counter.glitch.me/BraianMendes/count.svg" />  
 </p> 
 
 <div><b>Call me in Social Media. I answer very quickly!</b></div>
@@ -59,6 +59,17 @@ Some Stats
 <div style="text-align: center">
 
 ![Braian Mendes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BraianMendes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+<!-- GitHub stats -->  
+<b>⚡ My Dev Statistics</b>
+
+<p>  
+<!-- GitHub Stats -->  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BraianMendes&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+
+<!-- Most Used Languages -->  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BraianMendes&exclude_repo=&show_icons=true&hide_border=true&layout=compact&langs_count=8&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>  
+</p>  
 
 </div>
 
