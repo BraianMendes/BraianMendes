@@ -1,4 +1,4 @@
-![Banner](https://github.com/BraianMendes/BraianMendes/src/assets/banner.png)
+![Banner](https://github.com/BraianMendes/BraianMendes/blob/master/src/assets/banner.png)
 
 
 <!-- welcome message -->  
