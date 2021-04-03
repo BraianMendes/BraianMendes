@@ -1,5 +1,5 @@
-<h1 style="text-align: center">Braian Mendes</h1>
-<div class="test" style="width: 100vw"><b style="text-align: center">Full-Stack Javascript Developer</b></div>
+![Banner](https://github.com/BraianMendes/BraianMendes/src/assets/banner.png)
+
 
 <!-- welcome message -->  
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
