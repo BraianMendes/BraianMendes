@@ -9,12 +9,12 @@
 <h3>Glad to see you here!</h3>  
 
 <b>Working as a Remote FullStack Developer at Watt.io</b><br>
-I truly believe in helping people with technology and code. <br>
+I truly believe in helping people with technology and code. <br><br>
 My journey as a lover began in 2012 with the first algorithm classes in college, with low-level languages
 and math stuff.<br>
 Over time I moved to high-level languages, making projects, working, until 2019 and I started participating, organizing and mentoring hackatons with a wonderful team from CEU (Entrepreneurship Center) that I have been with ever since. <br>
-I was able to be in dozens of marathons, lead a pre-acceleration program for startups, mentor almost a hundred startups, I worked for some others and also for an already consolidated company. <br>
-Challenges in IoT, AI (both supervised and unsupervised), data science, embedded, web and mobile development, and a lot of cool stuff. <br>
+I was able to be in dozens of marathons, lead a pre-acceleration program for startups, mentor almost a hundred startups, I worked for some others and also for an already consolidated company.
+Challenges in IoT, AI (both supervised and unsupervised), data science, embedded, web and mobile development, and a lot of cool stuff. <br><br>
 It was a huge growth, I had incredible moments, and now I have a lot of friends that I carry as a family.
 
 <div><b>Call me in Social Media. I answer very quickly!</b></div>
@@ -336,3 +336,10 @@ Want to know a little more? Some curiosities of mine:
 :camping: Passionate Traveler
 
 :video_game: RPG Player
+
+
+<br>
+<em><b><p> I love connecting with different people from around the world, so if you want to be my friend, feel free to <a href="https://twitter.com/braian_dev">reach out</a> and introduce yourself and don’t just say hi, tell me about yourself. </p></b></em>
+<br>
+
+<img src="https://media.giphy.com/media/26FmQ6EOvLxp6cWyY/giphy.gif">
