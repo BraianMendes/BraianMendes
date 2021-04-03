@@ -1,9 +1,13 @@
 <h1 style="text-align: center">Braian Mendes</h1>
 <div class="test" style="width: 100vw"><b style="text-align: center">Full-Stack Javascript Developer</b></div>
 
+<!-- welcome message -->  
+<h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+
+<h3>Glad to see you here!</h3>  
+
+
 <b>Working as a Remote FullStack Developer at Watt.io</b>
-
-
 I truly believe in helping people with technology and code. My journey as a lover began in 2012 with the first algorithm classes in college until I arrived in 2019 and discovered my vocation. Since then I breathe code 24 hours a day, every day of the week.
 
 <!-- <h2>Latest Articles</h2><b>Soon</b> -->
@@ -225,7 +229,7 @@ PHP                      3 repos             █░░░░░░░░░░�
 <!-- ![Braian Mendes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BraianMendes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
 
 
-<h2> My followers  </h2>
+<h2> My top followers  </h2>
 <!--START_SECTION:top-followers-->
 <table>
   <tr>
