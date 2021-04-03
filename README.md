@@ -142,7 +142,80 @@ Some Stats
 </h2>
 <div style="text-align: center">
 
-<!--START_SECTION:waka-->  
+<!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 101 Contributions in the Year 2021
+ > 
+> 📦 656.3 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 150 Public Repositories 
+ > 
+> 🔑 12 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    21 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.96% 
+🌆 Daytime    57 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.48% 
+🌃 Evening    86 commits     █████░░░░░░░░░░░░░░░░░░░░   20.33% 
+🌙 Night      259 commits    ███████████████░░░░░░░░░░   61.23%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       27 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.38% 
+Tuesday      131 commits    ███████░░░░░░░░░░░░░░░░░░   30.97% 
+Wednesday    49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.58% 
+Thursday     86 commits     █████░░░░░░░░░░░░░░░░░░░░   20.33% 
+Friday       30 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.09% 
+Saturday     32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.57% 
+Sunday       68 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.08%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               45 repos            ██████████████░░░░░░░░░░░   56.25% 
+HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.5% 
+Python                   5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
+Ruby                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.0% 
+PHP                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   3.75%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/BraianMendes/BraianMendes/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->  
 
 <!-- ![Braian Mendes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BraianMendes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
