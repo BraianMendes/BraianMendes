@@ -161,7 +161,111 @@ Some Stats
 </div>
 
 # My followers  
-<!--START_SECTION:top-followers-->   
+<!--START_SECTION:top-followers-->
+<table>
+  <tr>
+    <td align="center">  
+      <a href="https://github.com/LendisFabri">  
+        <img src="https://avatars2.githubusercontent.com/u/16249870" width="100px;" alt="LendisFabri"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/LendisFabri">Kuro Neko (黒猫)</a>  
+    </td>  
+    <td align="center">  
+      <a href="https://github.com/ahmnouira">  
+        <img src="https://avatars2.githubusercontent.com/u/31603793" width="100px;" alt="ahmnouira"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/ahmnouira">Ahmed Nouira</a>  
+    </td>  
+    <td align="center">  
+      <a href="https://github.com/gabrieldejesus">  
+        <img src="https://avatars2.githubusercontent.com/u/59370348" width="100px;" alt="gabrieldejesus"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/gabrieldejesus">Gabriel de Jesus</a>  
+    </td>  
+    <td align="center">  
+      <a href="https://github.com/FerdinaKusumah">  
+        <img src="https://avatars2.githubusercontent.com/u/19812460" width="100px;" alt="FerdinaKusumah"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/FerdinaKusumah">Ferdy</a>  
+    </td>  
+    <td align="center">  
+      <a href="https://github.com/misbot">  
+        <img src="https://avatars2.githubusercontent.com/u/57812173" width="100px;" alt="misbot"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/misbot">misbot</a>  
+    </td>  
+    <td align="center">  
+      <a href="https://github.com/Oucema90">  
+        <img src="https://avatars2.githubusercontent.com/u/6604864" width="100px;" alt="Oucema90"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/Oucema90">Oucema Zitoun</a>  
+    </td>  
+    <td align="center">  
+      <a href="https://github.com/BatuhanYilmazzz">  
+        <img src="https://avatars2.githubusercontent.com/u/54447779" width="100px;" alt="BatuhanYilmazzz"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/BatuhanYilmazzz">Ahmet Batuhan Yılmaz</a>  
+    </td>  
+  </tr>
+  <tr>
+    <td align="center">  
+      <a href="https://github.com/viniciusfinger">  
+        <img src="https://avatars2.githubusercontent.com/u/51798742" width="100px;" alt="viniciusfinger"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/viniciusfinger">Vinicius Finger</a>  
+    </td>  
+    <td align="center">  
+      <a href="https://github.com/Henrique523">  
+        <img src="https://avatars2.githubusercontent.com/u/60272764" width="100px;" alt="Henrique523"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/Henrique523">Guilherme Henrique Lemes de Godoy</a>  
+    </td>  
+    <td align="center">  
+      <a href="https://github.com/alvesa">  
+        <img src="https://avatars2.githubusercontent.com/u/29579436" width="100px;" alt="alvesa"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/alvesa">Andre Alves</a>  
+    </td>  
+    <td align="center">  
+      <a href="https://github.com/poldeve">  
+        <img src="https://avatars2.githubusercontent.com/u/41173170" width="100px;" alt="poldeve"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/poldeve">Paulo Rodrigues</a>  
+    </td>  
+    <td align="center">  
+      <a href="https://github.com/maureento8888">  
+        <img src="https://avatars2.githubusercontent.com/u/51500550" width="100px;" alt="maureento8888"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/maureento8888">maureen_to (she/her)</a>  
+    </td>  
+    <td align="center">  
+      <a href="https://github.com/VamoCodar">  
+        <img src="https://avatars2.githubusercontent.com/u/51723157" width="100px;" alt="VamoCodar"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/VamoCodar">Adriano P</a>  
+    </td>  
+    <td align="center">  
+      <a href="https://github.com/webwizard99">  
+        <img src="https://avatars2.githubusercontent.com/u/35019318" width="100px;" alt="webwizard99"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/webwizard99">Michael Bragg</a>  
+    </td>  
+  </tr>
+</table>
 <!--END_SECTION:top-followers-->  
 
 <h4 style="margin-top: 5rem">
