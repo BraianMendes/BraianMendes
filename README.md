@@ -156,8 +156,6 @@ Some Statistics
 </div>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
-
 **🐱 My Github Data** 
 
 > 🏆 101 Contributions in the Year 2021
@@ -204,9 +202,6 @@ No Activity Tracked This Week
 🔥 Editors: 
 No Activity Tracked This Week
 
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
 💻 Operating System: 
 No Activity Tracked This Week
 
@@ -223,10 +218,6 @@ PHP                      3 repos             █░░░░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/BraianMendes/BraianMendes/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->  
