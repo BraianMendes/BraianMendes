@@ -138,9 +138,22 @@ I truly believe in helping people with technology and code. My journey as a love
 👉 <a href="https://stackexchange.com/users/16956678/braianmendes">StackExchange</a> -->
 
 <h2 style="text-align: center">
-Some Stats
+Some Statistics
 </h2>
 <div style="text-align: center">
+
+<!-- GitHub stats -->  
+<b>⚡ My Github Statistics</b>
+
+<p>  
+<!-- GitHub Stats -->  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BraianMendes&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+
+<!-- Most Used Languages -->  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BraianMendes&exclude_repo=&show_icons=true&hide_border=true&layout=compact&langs_count=8&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>  
+</p>  
+
+</div>
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
@@ -220,20 +233,8 @@ PHP                      3 repos             █░░░░░░░░░░�
 
 <!-- ![Braian Mendes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BraianMendes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
 
-<!-- GitHub stats -->  
-<b>⚡ My Github Statistics</b>
 
-<p>  
-<!-- GitHub Stats -->  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BraianMendes&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-
-<!-- Most Used Languages -->  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BraianMendes&exclude_repo=&show_icons=true&hide_border=true&layout=compact&langs_count=8&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>  
-</p>  
-
-</div>
-
-# My followers  
+<h2> My followers  </h2>
 <!--START_SECTION:top-followers-->
 <table>
   <tr>
