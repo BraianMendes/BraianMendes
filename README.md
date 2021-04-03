@@ -53,6 +53,7 @@ It was a huge growth, I had incredible moments, and now I have a lot of friends 
 </div>
 
 
+---
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
@@ -141,6 +142,7 @@ It was a huge growth, I had incredible moments, and now I have a lot of friends 
 👉 <a href="https://stackoverflow.com/users/12264893/braianmendes">StackOverflow</a>
 👉 <a href="https://stackexchange.com/users/16956678/braianmendes">StackExchange</a> -->
 
+---
 <h2 style="text-align: center">
 Some Statistics
 </h2>
@@ -218,7 +220,7 @@ PHP                      3 repos             █░░░░░░░░░░�
 
 <!-- ![Braian Mendes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BraianMendes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
 
-
+---
 <h2> My top followers  </h2>
 <!--START_SECTION:top-followers-->
 <table>
@@ -327,6 +329,7 @@ PHP                      3 repos             █░░░░░░░░░░�
 </table>
 <!--END_SECTION:top-followers-->  
 
+---
 <h4 style="margin-top: 5rem">
 Want to know a little more? Some curiosities of mine:
 </h4>
@@ -337,9 +340,10 @@ Want to know a little more? Some curiosities of mine:
 
 :video_game: RPG Player
 
-
+---
 <br>
 <em><b><p> I love connecting with different people from around the world, so if you want to be my friend, feel free to <a href="https://twitter.com/braian_dev">reach out</a> and introduce yourself and don’t just say hi, tell me about yourself. </p></b></em>
 <br>
 
-<img src="https://media.giphy.com/media/26FmQ6EOvLxp6cWyY/giphy.gif">
+---
+<img src="https://media.giphy.com/media/26FmQ6EOvLxp6cWyY/giphy.gif" style="margin: 0 auto" align="center">
