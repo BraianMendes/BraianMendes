@@ -1,21 +1,21 @@
 ![Banner](https://github.com/BraianMendes/BraianMendes/blob/master/src/assets/banner.png)
-
-
-<!-- welcome message -->  
-<h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
-
-<h3>Glad to see you here!</h3>  
-
-
-<b>Working as a Remote FullStack Developer at Watt.io</b>
-I truly believe in helping people with technology and code. My journey as a lover began in 2012 with the first algorithm classes in college until I arrived in 2019 and discovered my vocation. Since then I breathe code 24 hours a day, every day of the week.
-
-<!-- <h2>Latest Articles</h2><b>Soon</b> -->
-
 <!-- retro visitor counter -->  
 <p align="center">   
   <img src="https://profile-counter.glitch.me/BraianMendes/count.svg" />  
 </p> 
+
+<!-- welcome message -->  
+<h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<h3>Glad to see you here!</h3>  
+
+<b>Working as a Remote FullStack Developer at Watt.io</b><br>
+I truly believe in helping people with technology and code. <br>
+My journey as a lover began in 2012 with the first algorithm classes in college, with low-level languages
+and math stuff.<br>
+Over time I moved to high-level languages, making projects, working, until 2019 and I started participating, organizing and mentoring hackatons with a wonderful team from CEU (Entrepreneurship Center) that I have been with ever since. <br>
+I was able to be in dozens of marathons, lead a pre-acceleration program for startups, mentor almost a hundred startups, I worked for some others and also for an already consolidated company. <br>
+Challenges in IoT, AI (both supervised and unsupervised), data science, embedded, web and mobile development, and a lot of cool stuff. <br>
+It was a huge growth, I had incredible moments, and now I have a lot of friends that I carry as a family.
 
 <div><b>Call me in Social Media. I answer very quickly!</b></div>
 
