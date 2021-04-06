@@ -159,13 +159,15 @@ Some Statistics
 <!-- GitHub stats -->  
 <b>⚡ My Github Statistics</b>
 
-<p>  
+<div  align="center" style="display: flex;  align-items: center;  justify-content: center;">
+<p  align="center" style="display: flex;  align-items: center;  justify-content: center;">  
 <!-- GitHub Stats -->  
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BraianMendes&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 
 <!-- Most Used Languages -->  
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BraianMendes&exclude_repo=&show_icons=true&hide_border=true&layout=compact&langs_count=8&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>  
 </p>  
+</div>
 
 </div>
 
@@ -354,4 +356,6 @@ Want to know a little more? Some curiosities of mine:
 <br>
 
 ---
+<div  align="center" style="display: flex;  align-items: center;  justify-content: center;" >
 <img src="https://media.giphy.com/media/26FmQ6EOvLxp6cWyY/giphy.gif" style="margin: 0 auto" align="center">
+</div>
