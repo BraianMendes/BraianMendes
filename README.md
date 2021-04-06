@@ -19,7 +19,8 @@ It was a huge growth, I had incredible moments, and now I have a lot of friends 
 
 <div><b>Call me in Social Media. I answer very quickly!</b></div>
 
-<div style="align: center">
+<div align="center" style="display: flex;  align-items: center;  justify-content: center;">
+	<div style="width: 400px; heigth: 70px">
 <a href="https://www.linkedin.com/in/braianmendes/" target="_blank">
 	<img 
 		src="https://i.imgur.com/oxxxdYo.png" 
@@ -50,6 +51,7 @@ It was a huge growth, I had incredible moments, and now I have a lot of friends 
 		height="70"
 	/>
 </a>
+</div>
 </div>
 
 
