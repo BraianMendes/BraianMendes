@@ -214,11 +214,11 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               44 repos            ████████████████░░░░░░░░░   63.77% 
-HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.7% 
-Python                   5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.25% 
-Ruby                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.8% 
-Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.35%
+JavaScript               45 repos            ████████████████░░░░░░░░░   64.29% 
+HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.57% 
+Python                   5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
+Ruby                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.71% 
+Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.29%
 
 ```
 
