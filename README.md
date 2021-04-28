@@ -66,6 +66,8 @@ It was a huge growth, I had incredible moments, and now I have a lot of friends 
 </div>
 </div>
 </td>
+</table>
+
 </tr>
 
 <!-- ---
