@@ -1,5 +1,6 @@
 <table style="border: none">
 <tr>
+
 ![Banner](https://github.com/BraianMendes/BraianMendes/blob/master/src/assets/banner.png)
 <!-- retro visitor counter -->  
 <p align="center">   
@@ -152,6 +153,7 @@ It was a huge growth, I had incredible moments, and now I have a lot of friends 
 👉 <a href="https://stackexchange.com/users/16956678/braianmendes">StackExchange</a> -->
 
 <tr>
+
 ---
 
 <h2 style="text-align: center">
