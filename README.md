@@ -8,6 +8,7 @@
 
 <!-- SECTION 02: Welcome Message -->
 <div style="display: flex; flex-direction: row">
+<div>
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
 <h3>Glad to see you here!</h3>
@@ -22,6 +23,7 @@ Challenges in IoT, AI (both supervised and unsupervised), data science, embedded
 It was a huge growth, I had incredible moments, and now I have a lot of friends that I carry as a family.
 
 <div><b>Call me in Social Media. I answer very quickly!</b></div>
+</div>
 
 <div align="center" style="display: flex; flex-direction: column;  align-items: center;  justify-content: center;">
 	<div style="width: 400px; heigth: 70px">
