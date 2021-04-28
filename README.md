@@ -1,18 +1,15 @@
-<table style="border: none">
-<tr>
-
+<!-- SECTION 01: BANNER -->
 ![Banner](https://github.com/BraianMendes/BraianMendes/blob/master/src/assets/banner.png)
 <!-- retro visitor counter -->  
 <p align="center">   
   <img src="https://profile-counter.glitch.me/BraianMendes/count.svg" />  
 </p>
 
-</tr>
-<tr>
 
-<!-- welcome message -->
+<!-- SECTION 02: Welcome Message -->
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
-
+<table style="border: none">
+<tr>
 <td>
 
 <h3>Glad to see you here!</h3>
@@ -67,6 +64,9 @@ It was a huge growth, I had incredible moments, and now I have a lot of friends 
 </div>
 </td>
 </table>
+
+
+
 
 </tr>
 
