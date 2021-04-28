@@ -6,19 +6,9 @@
 </p>
 
 
-Transport | Favored by | Advantages
---- | --- | ---
-Swallow | Coconuts | Otherwise unladen
-Bicycle | Miss Gulch | Weatherproof
-X-34 landspeeder | Whiny farmboys | Cheap since the X-38 came out
-
-
 <!-- SECTION 02: Welcome Message -->
+<div style="display: flex; flex-direction: row">
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
-<table style="border: none">
-
-<tr border="none" style="border: none !important">
-<td border="none" style="border: none !important">
 
 <h3>Glad to see you here!</h3>
 
@@ -33,50 +23,41 @@ It was a huge growth, I had incredible moments, and now I have a lot of friends 
 
 <div><b>Call me in Social Media. I answer very quickly!</b></div>
 
-</td>
-<td style="border: none"> 
-
 <div align="center" style="display: flex; flex-direction: column;  align-items: center;  justify-content: center;">
 	<div style="width: 400px; heigth: 70px">
-<a href="https://www.linkedin.com/in/braianmendes/" target="_blank">
-	<img 
-		src="https://i.imgur.com/oxxxdYo.png" 
-		width="70"
-		height="70"
-	/>
-</a>
-<a href="https://www.facebook.com/braian.mendes.1/" target="_blank">
-	<img 
-		src="https://i.imgur.com/P6F5gva.png" 
-		width="70"
-		height="70"
-	/>
-</a>
-</a>
-<a href="https://www.instagram.com/braian_dev/" target="_blank">
-	<img 
-		src="https://i.imgur.com/3mfyOFB.png" 
-		width="70"
-		height="70"
-	/>
-</a>
-</a>
-<a href="https://twitter.com/braian_dev" target="_blank">
-	<img 
-		src="https://i.imgur.com/rT5em0p.png" 
-		width="70"
-		height="70"
-	/>
-</a>
+		<a href="https://www.linkedin.com/in/braianmendes/" target="_blank">
+			<img 
+				src="https://i.imgur.com/oxxxdYo.png" 
+				width="70"
+				height="70"
+			/>
+		</a>
+		<a href="https://www.facebook.com/braian.mendes.1/" target="_blank">
+			<img 
+				src="https://i.imgur.com/P6F5gva.png" 
+				width="70"
+				height="70"
+			/>
+		</a>
+		</a>
+		<a href="https://www.instagram.com/braian_dev/" target="_blank">
+			<img 
+				src="https://i.imgur.com/3mfyOFB.png" 
+				width="70"
+				height="70"
+			/>
+		</a>
+		</a>
+		<a href="https://twitter.com/braian_dev" target="_blank">
+			<img 
+				src="https://i.imgur.com/rT5em0p.png" 
+				width="70"
+				height="70"
+			/>
+		</a>
+	</div>
 </div>
 </div>
-</td>
-</table>
-
-
-
-
-</tr>
 
 <!-- ---
 <h3 align="left">Languages and Tools:</h3>
@@ -172,7 +153,6 @@ It was a huge growth, I had incredible moments, and now I have a lot of friends 
 👉 <a href="https://stackoverflow.com/users/12264893/braianmendes">StackOverflow</a>
 👉 <a href="https://stackexchange.com/users/16956678/braianmendes">StackExchange</a> -->
 
-<tr>
 
 ---
 
@@ -364,9 +344,6 @@ Jupyter Notebook         3 repos             █░░░░░░░░░░�
 </table>
 <!--END_SECTION:top-followers-->
 
-</tr>
-<tr>
-
 ---
 
 <h4 style="margin-top: 5rem">
@@ -390,6 +367,4 @@ Want to know a little more? Some curiosities of mine:
 <div  align="center" style="display: flex;  align-items: center;  justify-content: center;" >
 <img src="https://media.giphy.com/media/26FmQ6EOvLxp6cWyY/giphy.gif" style="margin: 0 auto" align="center">
 </div>
-</tr>
 
-</table>
