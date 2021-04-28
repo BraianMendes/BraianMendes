@@ -9,13 +9,10 @@
 <!-- SECTION 02: Welcome Message -->
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 <table style="border: none">
-<tr>
-<td>
+<tr style="border: none">
+<td style="border: none">
 
 <h3>Glad to see you here!</h3>
-
-</td>
-<td>
 
 <b>Working as a Remote FullStack Developer at Watt.io</b><br>
 I truly believe in helping people with technology and code. <br><br>
@@ -28,7 +25,10 @@ It was a huge growth, I had incredible moments, and now I have a lot of friends 
 
 <div><b>Call me in Social Media. I answer very quickly!</b></div>
 
-<div align="center" style="display: flex;  align-items: center;  justify-content: center;">
+</td>
+<td style="border: none">
+
+<div align="center" style="display: flex; flex-direction: column;  align-items: center;  justify-content: center;">
 	<div style="width: 400px; heigth: 70px">
 <a href="https://www.linkedin.com/in/braianmendes/" target="_blank">
 	<img 
