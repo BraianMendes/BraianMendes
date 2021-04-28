@@ -6,6 +6,13 @@
 </p>
 
 
+Transport | Favored by | Advantages
+--- | --- | ---
+Swallow | Coconuts | Otherwise unladen
+Bicycle | Miss Gulch | Weatherproof
+X-34 landspeeder | Whiny farmboys | Cheap since the X-38 came out
+
+
 <!-- SECTION 02: Welcome Message -->
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 <table style="border: none">
@@ -359,6 +366,7 @@ Jupyter Notebook         3 repos             █░░░░░░░░░░�
 
 </tr>
 <tr>
+
 ---
 
 <h4 style="margin-top: 5rem">
