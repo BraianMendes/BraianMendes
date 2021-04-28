@@ -9,8 +9,9 @@
 <!-- SECTION 02: Welcome Message -->
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 <table style="border: none">
-<tr style="border: none">
-<td style="border: none">
+
+<tr style="border: none !important">
+<td style="border: none !important">
 
 <h3>Glad to see you here!</h3>
 
