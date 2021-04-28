@@ -7,9 +7,18 @@
   <img src="https://profile-counter.glitch.me/BraianMendes/count.svg" />  
 </p>
 
+</tr>
+<tr>
+
 <!-- welcome message -->
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+
+<td>
+
 <h3>Glad to see you here!</h3>
+
+</td>
+<td>
 
 <b>Working as a Remote FullStack Developer at Watt.io</b><br>
 I truly believe in helping people with technology and code. <br><br>
@@ -56,6 +65,7 @@ It was a huge growth, I had incredible moments, and now I have a lot of friends 
 </a>
 </div>
 </div>
+</td>
 </tr>
 
 <!-- ---
