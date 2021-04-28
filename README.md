@@ -26,7 +26,7 @@ It was a huge growth, I had incredible moments, and now I have a lot of friends 
 <div><b>Call me in Social Media. I answer very quickly!</b></div>
 
 </td>
-<td style="border: none">
+<td style="border: none"> 
 
 <div align="center" style="display: flex; flex-direction: column;  align-items: center;  justify-content: center;">
 	<div style="width: 400px; heigth: 70px">
