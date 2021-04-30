@@ -202,13 +202,6 @@ Jupyter Notebook         3 repos             █░░░░░░░░░░�
       <a href="https://github.com/Henrique523">Guilherme Henrique Lemes de Godoy</a>  
     </td>  
     <td align="center">  
-      <a href="https://github.com/maureento8888">  
-        <img src="https://avatars2.githubusercontent.com/u/51500550" width="100px;" alt="maureento8888"/>  
-      </a>  
-      <br />  
-      <a href="https://github.com/maureento8888">maureen_to (she/her)</a>  
-    </td>  
-    <td align="center">  
       <a href="https://github.com/alvesa">  
         <img src="https://avatars2.githubusercontent.com/u/29579436" width="100px;" alt="alvesa"/>  
       </a>  
@@ -235,6 +228,13 @@ Jupyter Notebook         3 repos             █░░░░░░░░░░�
       </a>  
       <br />  
       <a href="https://github.com/webwizard99">Michael Bragg</a>  
+    </td>  
+    <td align="center">  
+      <a href="https://github.com/mrncstt">  
+        <img src="https://avatars2.githubusercontent.com/u/14565450" width="100px;" alt="mrncstt"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/mrncstt">Mariana Costa</a>  
     </td>  
   </tr>
 </table>
