@@ -1,8 +1,7 @@
 <!-- SECTION 01: BANNER -->
 ![Banner](https://github.com/BraianMendes/BraianMendes/blob/master/src/assets/banner.png)
 
-<!-- retro visitor counter -->  
-<p align="center">Visitors:</p>
+<!-- RETRO VISITOR COUNTER -->  
 <p align="center">   
   <img src="https://profile-counter.glitch.me/BraianMendes/count.svg" />  
 </p>
@@ -10,9 +9,7 @@
 
 <!-- SECTION 02: Welcome Message -->
 <div>
-<h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-
-<p>Here you will see a little of me, a little of my history, projects, study notes, and how to call me for a chat.</p>
+<b>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Here you will see a little of me, a little of my history, projects, study notes, and how to call me for a chat.</b>
 
 <h2>About Me</h2>
 
@@ -21,9 +18,7 @@
 	<li><b>Working as a Remote FullStack Developer at Watt.io</b></li>
 	<li><b>Finishing building my portfolio and website for initial presentation</b></li>
 	<li><b>Looking for opensource projects that I can contribute</b></li>
-	<li><b>Completing my two engineering degrees</b></li>
 </ul>
-
 I truly believe in helping people with technology and code. <br><br>
 My journey as a code lover began in 2012 with the first algorithm classes in college, with low-level languages
 and math stuff. Over time I moved to high-level languages, making projects, working, until 2019 and I started participating, organizing and mentoring hackatons with a wonderful team from CEU (Entrepreneurship Center) that I have been with ever since. I was able to be in dozens of marathons, lead a pre-acceleration program for startups, mentor almost a hundred startups, I worked for some others and also for an already consolidated company. Challenges in IoT, AI (both supervised and unsupervised), data science, embedded, web and mobile development, and a lot of cool stuff. <br><br>
@@ -31,55 +26,48 @@ It was a huge growth, I had incredible moments, and now I have a lot of friends 
 
 <div align="center"><b>Lets connect! I answer very quickly.</b></div>
 
-<div align="center" s>
-	<div style="width: 400px; heigth: 70px">
-		<a href="https://www.linkedin.com/in/braianmendes/" target="_blank">
-			<img 
-				src="https://i.imgur.com/oxxxdYo.png" 
-				width="70"
-				height="70"
-			/>
-		</a>
-		<a href="https://www.facebook.com/braian.mendes.1/" target="_blank">
-			<img 
-				src="https://i.imgur.com/P6F5gva.png" 
-				width="70"
-				height="70"
-			/>
-		</a>
-		</a>
-		<a href="https://www.instagram.com/braian_dev/" target="_blank">
-			<img 
-				src="https://i.imgur.com/3mfyOFB.png" 
-				width="70"
-				height="70"
-			/>
-		</a>
-		</a>
-		<a href="https://twitter.com/braian_dev" target="_blank">
-			<img 
-				src="https://i.imgur.com/rT5em0p.png" 
-				width="70"
-				height="70"
-			/>
-		</a>
-	</div>
+<div align="center">
+	<a href="https://www.linkedin.com/in/braianmendes/" target="_blank">
+		<img 
+			src="https://i.imgur.com/oxxxdYo.png" 
+			width="70"
+			height="70"
+		/>
+	</a>
+	<a href="https://www.facebook.com/braian.mendes.1/" target="_blank">
+		<img 
+			src="https://i.imgur.com/P6F5gva.png" 
+			width="70"
+			height="70"
+		/>
+	</a>
+	</a>
+	<a href="https://www.instagram.com/braian_dev/" target="_blank">
+		<img 
+			src="https://i.imgur.com/3mfyOFB.png" 
+			width="70"
+			height="70"
+		/>
+	</a>
+	</a>
+	<a href="https://twitter.com/braian_dev" target="_blank">
+		<img 
+			src="https://i.imgur.com/rT5em0p.png" 
+			width="70"
+			height="70"
+		/>
+	</a>
 </div>
-</div>
+
 ---
 
 <h2 style="text-align: center">
 Some Statistics
 </h2>
 
-<p>
-
-</p>
-
-<div style="text-align: center">
+<p>Some data taken from my own Github so you can take a look and get to know me better.</p>
 
 <!-- GitHub stats -->
-
 <b>⚡ My Github Statistics</b>
 
 <p>  
