@@ -209,18 +209,18 @@ Jupyter Notebook         3 repos             █░░░░░░░░░░�
       <a href="https://github.com/alvesa">Andre Alves</a>  
     </td>  
     <td align="center">  
-      <a href="https://github.com/VamoCodar">  
-        <img src="https://avatars2.githubusercontent.com/u/51723157" width="100px;" alt="VamoCodar"/>  
-      </a>  
-      <br />  
-      <a href="https://github.com/VamoCodar">Adriano P</a>  
-    </td>  
-    <td align="center">  
       <a href="https://github.com/poldeve">  
         <img src="https://avatars2.githubusercontent.com/u/41173170" width="100px;" alt="poldeve"/>  
       </a>  
       <br />  
       <a href="https://github.com/poldeve">Paulo Rodrigues</a>  
+    </td>  
+    <td align="center">  
+      <a href="https://github.com/VamoCodar">  
+        <img src="https://avatars2.githubusercontent.com/u/51723157" width="100px;" alt="VamoCodar"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/VamoCodar">Adriano P</a>  
     </td>  
     <td align="center">  
       <a href="https://github.com/webwizard99">  
