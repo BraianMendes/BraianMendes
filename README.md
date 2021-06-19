@@ -217,11 +217,11 @@ Jupyter Notebook         3 repos             █░░░░░░░░░░�
       <a href="https://github.com/VamoCodar">Adriano P</a>  
     </td>  
     <td align="center">  
-      <a href="https://github.com/poldeve">  
-        <img src="https://avatars2.githubusercontent.com/u/41173170" width="100px;" alt="poldeve"/>  
+      <a href="https://github.com/poldevelophardware">  
+        <img src="https://avatars2.githubusercontent.com/u/41173170" width="100px;" alt="poldevelophardware"/>  
       </a>  
       <br />  
-      <a href="https://github.com/poldeve">Paulo Rodrigues</a>  
+      <a href="https://github.com/poldevelophardware">Paulo Rodrigues</a>  
     </td>  
     <td align="center">  
       <a href="https://github.com/mrncstt">  
