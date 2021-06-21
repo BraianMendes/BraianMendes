@@ -9,13 +9,13 @@
 <h3 id="type">Portfolio By Type</h3>
 
 ### E-Commerce
-(Headless Project Eletronics Shop, using Next.js, Shopify and Builder.io)[https://github.com/BraianMendes/portfolio-advanced_e-commerce_nextjs-shopify-builderio]
+(Headless Project Eletronics Shop using Nextjs with Shopify and Builderio)[https://github.com/BraianMendes/portfolio-advanced_e-commerce_nextjs-shopify-builderio]
 
 <h3 id="tech">Portfolio By Technology</h3>
 
 ### React.js
 
 ### Next.js
-(Headless Project Eletronics Shop, using Next.js, Shopify and Builder.io)[https://github.com/BraianMendes/portfolio-advanced_e-commerce_nextjs-shopify-builderio]
+(Headless Project Eletronics Shop using Nextjs with Shopify and Builderio)[https://github.com/BraianMendes/portfolio-advanced_e-commerce_nextjs-shopify-builderio]
 
 ### Flutter
