@@ -66,10 +66,10 @@ It was a huge growth, I had incredible moments, and now I have a lot of friends 
 <p>Here you can navigate between projects and repositories much more easily.</p>
 <p>Just click and you will navigate to a page where you can see the specific projects more stratified.</p>
 <ol>
-	<li>[Advanced Portfolio](summary/advanced.md)</li>
-	<li>[Simple Portfolio](summary/simple.md)</li>
-	<li>[Study Notebooks](summary/study.md)</li>
-	<li>[Boilerplates and Templates](summary/boilerplate.md)</li>
+	<li><p>[Advanced Portfolio](./summary/advanced.md)</p></li>
+	<li><p>[Simple Portfolio](./summary/simple.md)</p></li>
+	<li><p>[Study Notebooks](./summary/study.md)</p></li>
+	<li><p>[Boilerplates and Templates](./summary/boilerplate.md)</p></li>
 </ol>
 
 
