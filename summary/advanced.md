@@ -6,6 +6,8 @@
 1. [Type](#type)
 2. [Technology](#tech)
 
+---
+
 <h3 id="type">Portfolio By Type</h3>
 
 ### E-Commerce
@@ -21,6 +23,8 @@ E-commerce (electronic commerce) is the activity of electronically buying or sel
 
 ### Tracker
 - [Crypto Currency Price Tracker](https://github.com/BraianMendes/portfolio-advanced_Cryptocurrency-Finance-Price-Tracker-App_React-Next.js)
+
+---
 
 <h3 id="tech">Portfolio By Technology</h3>
 
