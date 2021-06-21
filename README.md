@@ -15,7 +15,7 @@
 
 <b>Actually I'm:</b>
 <ul>
-	<li><b>Working as a Remote FullStack Developer at Watt.io</b></li>
+	<li><b>Working as a Sr FullStack Developer at <a href="https://www.sisconsultoria.com.br/">SIS Consultoria</a></b></li>
 	<li><b>Finishing building my portfolio and website for initial presentation</b></li>
 	<li><b>Looking for opensource projects that I can contribute</b></li>
 </ul>
@@ -24,7 +24,7 @@ My journey as a code lover began in 2012 with the first algorithm classes in col
 and math stuff. Over time I moved to high-level languages, making projects, working, until 2019 and I started participating, organizing and mentoring hackatons with a wonderful team from CEU (Entrepreneurship Center) that I have been with ever since. I was able to be in dozens of marathons, lead a pre-acceleration program for startups, mentor almost a hundred startups, I worked for some others and also for an already consolidated company. Challenges in IoT, AI (both supervised and unsupervised), data science, embedded, web and mobile development, and a lot of cool stuff. <br><br>
 It was a huge growth, I had incredible moments, and now I have a lot of friends that I carry as a family.
 
-<div align="center"><b>Lets connect! I answer very quickly.</b></div>
+<div align="center"><b>Lets connect. I'll answer very quickly.</b></div>
 
 <div align="center">
 	<a href="https://www.linkedin.com/in/braianmendes/" target="_blank">
@@ -61,7 +61,21 @@ It was a huge growth, I had incredible moments, and now I have a lot of friends 
 
 ---
 
-<h2 style="text-align: center">
+<h2>Repository Summary</h2>
+
+<p>Here you can navigate between projects and repositories much more easily.</p>
+<p>Just click and you will navigate to a page where you can see the specific projects more stratified.</p>
+<ol>
+	<li>[Advanced Portfolio](summary/advanced.md)</li>
+	<li>[Simple Portfolio](summary/simple.md)</li>
+	<li>[Study Notebooks](summary/study.md)</li>
+	<li>[Boilerplates and Templates](summary/boilerplate.md)</li>
+</ol>
+
+
+---
+
+<h2>
 Some Statistics
 </h2>
 
