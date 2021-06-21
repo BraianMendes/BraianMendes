@@ -65,12 +65,11 @@ It was a huge growth, I had incredible moments, and now I have a lot of friends 
 
 <p>Here you can navigate between projects and repositories much more easily.</p>
 <p>Just click and you will navigate to a page where you can see the specific projects more stratified.</p>
-1. [Advanced Portfolio](https://github.com/BraianMendes/BraianMendes/blob/master/summary/advanced.md)
-2. [Simple Portfolio](https://github.com/BraianMendes/BraianMendes/blob/master/summary/simple.md)
-3. [Hackaton Projects](https://github.com/BraianMendes/BraianMendes/blob/master/summary/hackaton.md)
-4. [Study Notebooks](https://github.com/BraianMendes/BraianMendes/blob/master/summary/study.md)
-5. [Boilerplates and Templates](https://github.com/BraianMendes/BraianMendes/blob/master/summary/boilerplate.md)
-6.  [Notebook - Análise de Clusters](https://github.com/BraianMendes/AME-Hackaton/blob/master/An%C3%A1lise_Clusters.ipynb)
+### [Advanced Portfolio](https://github.com/BraianMendes/BraianMendes/blob/master/summary/advanced.md)
+### [Simple Portfolio](https://github.com/BraianMendes/BraianMendes/blob/master/summary/simple.md)
+### [Hackaton Projects](https://github.com/BraianMendes/BraianMendes/blob/master/summary/hackaton.md)
+### [Study Notebooks](https://github.com/BraianMendes/BraianMendes/blob/master/summary/study.md)
+### [Boilerplates and Templates](https://github.com/BraianMendes/BraianMendes/blob/master/summary/boilerplate.md)
 
 
 ---
