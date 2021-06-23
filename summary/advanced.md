@@ -13,7 +13,7 @@
 ### E-Commerce
 E-commerce (electronic commerce) is the activity of electronically buying or selling of products on online services or over the Internet. E-commerce draws on technologies such as mobile commerce, electronic funds transfer, supply chain management, Internet marketing, online transaction processing, electronic data interchange (EDI), inventory management systems, and automated data collection systems.
 
-- [Headless Project Eletronics Shop, using Next.js, Shopify and Builder.io](https://github.com/BraianMendes/portfolio-advanced_e-commerce_nextjs-shopify-builderio)
+- [Headless Project Eletronics Shop, using Next.js, Shopify and Builder.io](https://github.com/BraianMendes/portfolio-advanced_e-commerce_nextjs-shopify-builderio) Under Construction
 
 ### Communication
 - [Whatsapp Clone for browser, using Next.js and Firebase](https://github.com/BraianMendes/portfolio-advanced_Whatsapp-2_React-Nextjs)
@@ -37,7 +37,7 @@ React is an open-source front-end JavaScript library for building user interface
 Next.js is an open-source React front-end development web framework created by Vercel that enables functionality such as server-side rendering and generating static websites for React based web applications.
 
 - [Whatsapp Clone for browser, using Next.js and Firebase](https://github.com/BraianMendes/portfolio-advanced_Whatsapp-2_React-Nextjs)
-- [Headless Project Eletronics Shop, using Next.js, Shopify and Builder.io](https://github.com/BraianMendes/portfolio-advanced_e-commerce_nextjs-shopify-builderio)
+- [Headless Project Eletronics Shop, using Next.js, Shopify and Builder.io](https://github.com/BraianMendes/portfolio-advanced_e-commerce_nextjs-shopify-builderio) Under Construction
 - [Crypto Currency Price Tracker](https://github.com/BraianMendes/portfolio-advanced_Cryptocurrency-Finance-Price-Tracker-App_React-Next.js)
 
 
