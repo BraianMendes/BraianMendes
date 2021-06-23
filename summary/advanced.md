@@ -40,6 +40,14 @@ Next.js is an open-source React front-end development web framework created by V
 - [Headless Project Eletronics Shop, using Next.js, Shopify and Builder.io](https://github.com/BraianMendes/portfolio-advanced_e-commerce_nextjs-shopify-builderio) Under Construction
 - [Crypto Currency Price Tracker](https://github.com/BraianMendes/portfolio-advanced_Cryptocurrency-Finance-Price-Tracker-App_React-Next.js)
 
+### React Native
+React Native is an open-source mobile application framework created by Facebook, Inc. It is used to develop applications for Android, Android TV, iOS, macOS, tvOS, Web, Windows and UWP by enabling developers to use React's framework along with native platform capabilities.
+
+
+### Expo
+Expo is a framework and a platform for universal React applications. It is a set of tools and services built around React Native and native platforms that help you develop, build, deploy, and quickly iterate on iOS, Android, and web apps from the same JavaScript/TypeScript codebase.
+- [Food Delivery App, using React Native and Expo](https://github.com/BraianMendes/portfolio-advanced_FoodDelivery-App_Expo) Under Construction
+
 
 ### Flutter
 Flutter is an open-source UI software development kit created by Google. It is used to develop cross platform applications for Android, iOS, Linux, Mac, Windows, Google Fuchsia, and the web from a single codebase. 
