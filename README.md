@@ -192,6 +192,13 @@ TypeScript               3 repos             █░░░░░░░░░░�
       <a href="https://github.com/misbot">misbot</a>  
     </td>  
     <td align="center">  
+      <a href="https://github.com/b1u3b3rr7">  
+        <img src="https://avatars2.githubusercontent.com/u/40413510" width="100px;" alt="b1u3b3rr7"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/b1u3b3rr7">Berry Kim</a>  
+    </td>  
+    <td align="center">  
       <a href="https://github.com/BatuhanYilmazzz">  
         <img src="https://avatars2.githubusercontent.com/u/54447779" width="100px;" alt="BatuhanYilmazzz"/>  
       </a>  
@@ -205,6 +212,8 @@ TypeScript               3 repos             █░░░░░░░░░░�
       <br />  
       <a href="https://github.com/Oucema90">Oucema Zitoun</a>  
     </td>  
+  </tr>
+  <tr>
     <td align="center">  
       <a href="https://github.com/viniciusfinger">  
         <img src="https://avatars2.githubusercontent.com/u/51798742" width="100px;" alt="viniciusfinger"/>  
@@ -212,8 +221,6 @@ TypeScript               3 repos             █░░░░░░░░░░�
       <br />  
       <a href="https://github.com/viniciusfinger">Vinicius Finger</a>  
     </td>  
-  </tr>
-  <tr>
     <td align="center">  
       <a href="https://github.com/Henrique523">  
         <img src="https://avatars2.githubusercontent.com/u/60272764" width="100px;" alt="Henrique523"/>  
@@ -255,13 +262,6 @@ TypeScript               3 repos             █░░░░░░░░░░�
       </a>  
       <br />  
       <a href="https://github.com/webwizard99">Michael Bragg</a>  
-    </td>  
-    <td align="center">  
-      <a href="https://github.com/alrtas">  
-        <img src="https://avatars2.githubusercontent.com/u/32065208" width="100px;" alt="alrtas"/>  
-      </a>  
-      <br />  
-      <a href="https://github.com/alrtas">Thiago Alberto da Silva</a>  
     </td>  
   </tr>
 </table>
