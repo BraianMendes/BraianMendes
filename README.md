@@ -126,8 +126,8 @@ Sunday       83 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               1 hr 8 mins         ███████████████████████░░   93.12% 
-JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.71% 
+JavaScript               1 hr 8 mins         ███████████████████████░░   93.11% 
+JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.72% 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.17% 
 SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
@@ -152,7 +152,7 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/07/2021
+ Last Updated on 04/07/2021
 <!--END_SECTION:waka-->
 
 <!-- ![Braian Mendes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BraianMendes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
