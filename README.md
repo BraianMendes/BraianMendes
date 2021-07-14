@@ -195,7 +195,7 @@ TypeScript               3 repos             █░░░░░░░░░░�
         <img src="https://avatars2.githubusercontent.com/u/40413510" width="100px;" alt="b1u3b3rr7"/>  
       </a>  
       <br />  
-      <a href="https://github.com/b1u3b3rr7">Berry Kim</a>  
+      <a href="https://github.com/b1u3b3rr7">Berry</a>  
     </td>  
     <td align="center">  
       <a href="https://github.com/BatuhanYilmazzz">  
