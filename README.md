@@ -258,11 +258,11 @@ TypeScript               3 repos             █░░░░░░░░░░�
       <a href="https://github.com/webwizard99">Michael Bragg</a>  
     </td>  
     <td align="center">  
-      <a href="https://github.com/alrtas">  
-        <img src="https://avatars2.githubusercontent.com/u/32065208" width="100px;" alt="alrtas"/>  
+      <a href="https://github.com/DAngelo-S">  
+        <img src="https://avatars2.githubusercontent.com/u/39326945" width="100px;" alt="DAngelo-S"/>  
       </a>  
       <br />  
-      <a href="https://github.com/alrtas">Thiago Alberto da Silva</a>  
+      <a href="https://github.com/DAngelo-S">Débora D'Angelo</a>  
     </td>  
   </tr>
 </table>
