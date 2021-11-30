@@ -141,7 +141,7 @@ No Activity Tracked This Week
 ```text
 JavaScript               52 repos            ████████████████░░░░░░░░░   64.2% 
 HTML                     6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.41% 
-Python                   5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.17% 
+Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.94% 
 Ruby                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.94% 
 TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.94%
 
@@ -149,7 +149,7 @@ TypeScript               4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/11/2021
+ Last Updated on 30/11/2021
 <!--END_SECTION:waka-->
 
 <!-- ![Braian Mendes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BraianMendes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
