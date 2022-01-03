@@ -15,7 +15,7 @@
 
 <b>Actually I'm:</b>
 <ul>
-	<li><b>Working as a Sr FullStack Developer at <a href="https://www.sisconsultoria.com.br/">SIS Consultoria</a></b></li>
+	<li><b>Working as a Sr FullStack Software Engineer/Tech Lead at Capitani</b></li>
 	<li><b>Finishing building my portfolio and website for initial presentation</b></li>
 	<li><b>Looking for opensource projects that I can contribute</b></li>
 </ul>
