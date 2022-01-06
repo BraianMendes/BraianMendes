@@ -10,8 +10,6 @@
 <!-- SECTION 02: Welcome Message -->
 <div>
 <b>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Here you will see a little of me, a little of my history, projects, study notes, and how to call me for a chat.</b>
-	
-<a href="https://app.daily.dev/BraianMendes"><img src="https://api.daily.dev/devcards/1de7b7effad6466f9d2b83be22810ff0.png?r=8l3" width="400" alt="Braian Mendes Corrêa's Dev Card"/></a>
 
 <h2>About Me</h2>
 
@@ -99,27 +97,25 @@ Some Statistics
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-146%20hrs%2015%20mins-blue)
-
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    58 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.15% 
-🌆 Daytime    153 commits    █████░░░░░░░░░░░░░░░░░░░░   21.49% 
-🌃 Evening    288 commits    ██████████░░░░░░░░░░░░░░░   40.45% 
-🌙 Night      213 commits    ███████░░░░░░░░░░░░░░░░░░   29.92%
+🌞 Morning    58 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.16% 
+🌆 Daytime    152 commits    █████░░░░░░░░░░░░░░░░░░░░   21.38% 
+🌃 Evening    288 commits    ██████████░░░░░░░░░░░░░░░   40.51% 
+🌙 Night      213 commits    ███████░░░░░░░░░░░░░░░░░░   29.96%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       133 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.68% 
-Tuesday      97 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.62% 
-Wednesday    94 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.2% 
-Thursday     89 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-Friday       80 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.24% 
-Saturday     100 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.04% 
-Sunday       119 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.71%
+Monday       133 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.71% 
+Tuesday      97 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
+Wednesday    94 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.22% 
+Thursday     88 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.38% 
+Friday       80 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.25% 
+Saturday     100 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.06% 
+Sunday       119 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.74%
 
 ```
 
@@ -292,8 +288,13 @@ Want to know a little more? Some curiosities of mine:
 <img src="https://media.giphy.com/media/26FmQ6EOvLxp6cWyY/giphy.gif" style="margin: 0 auto" align="center">
 </div>
 
+<br>
+<br>
 
-
+<div  align="center" style="display: flex;  align-items: center;  justify-content: center;" >
+<a href="https://app.daily.dev/BraianMendes"><img src="https://api.daily.dev/devcards/1de7b7effad6466f9d2b83be22810ff0.png?r=8l3" width="400" alt="Braian Mendes Corrêa's Dev Card"/></a>
+</div>
+	
 <!-- OLD CODE/FOR FUTURE USE -->
 <!-- ---
 <h3 align="left">Languages and Tools:</h3>
