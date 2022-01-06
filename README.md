@@ -10,6 +10,8 @@
 <!-- SECTION 02: Welcome Message -->
 <div>
 <b>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Here you will see a little of me, a little of my history, projects, study notes, and how to call me for a chat.</b>
+	
+<a href="https://app.daily.dev/BraianMendes"><img src="https://api.daily.dev/devcards/1de7b7effad6466f9d2b83be22810ff0.png?r=8l3" width="400" alt="Braian Mendes Corrêa's Dev Card"/></a>
 
 <h2>About Me</h2>
 
