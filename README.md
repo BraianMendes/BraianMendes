@@ -97,8 +97,6 @@ Some Statistics
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-146%20hrs%2015%20mins-blue)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -111,9 +109,9 @@ Some Statistics
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       133 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.58% 
+Monday       136 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.99% 
 Tuesday      97 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.55% 
-Wednesday    94 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.13% 
+Wednesday    91 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.71% 
 Thursday     89 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.43% 
 Friday       80 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.17% 
 Saturday     101 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.11% 
@@ -151,7 +149,7 @@ TypeScript               4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/01/2022
+ Last Updated on 11/01/2022
 <!--END_SECTION:waka-->
 
 <!-- ![Braian Mendes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BraianMendes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
