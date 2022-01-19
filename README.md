@@ -240,13 +240,6 @@ TypeScript               4 repos             █░░░░░░░░░░�
       <a href="https://github.com/alvesa">Andre Alves</a>  
     </td>  
     <td align="center">  
-      <a href="https://github.com/themisska">  
-        <img src="https://avatars2.githubusercontent.com/u/85758424" width="100px;" alt="themisska"/>  
-      </a>  
-      <br />  
-      <a href="https://github.com/themisska">MissKatiann</a>  
-    </td>  
-    <td align="center">  
       <a href="https://github.com/mrncstt">  
         <img src="https://avatars2.githubusercontent.com/u/14565450" width="100px;" alt="mrncstt"/>  
       </a>  
@@ -259,6 +252,13 @@ TypeScript               4 repos             █░░░░░░░░░░�
       </a>  
       <br />  
       <a href="https://github.com/webwizard99">Michael Bragg</a>  
+    </td>  
+    <td align="center">  
+      <a href="https://github.com/themisska">  
+        <img src="https://avatars2.githubusercontent.com/u/85758424" width="100px;" alt="themisska"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/themisska">MissKatiann</a>  
     </td>  
   </tr>
 </table>
