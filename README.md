@@ -7,6 +7,8 @@
 </p>
 
 
+
+
 <!-- SECTION 02: Welcome Message -->
 <div>
 <b>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Here you will see a little of me, a little of my history, projects, study notes, and how to call me for a chat.</b>
