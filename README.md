@@ -193,18 +193,18 @@ Ruby                     3 repos             █░░░░░░░░░░�
       <a href="https://github.com/misbot">misbot</a>  
     </td>  
     <td align="center">  
-      <a href="https://github.com/Oucema90">  
-        <img src="https://avatars2.githubusercontent.com/u/6604864" width="100px;" alt="Oucema90"/>  
-      </a>  
-      <br />  
-      <a href="https://github.com/Oucema90">Oucema Zitoun</a>  
-    </td>  
-    <td align="center">  
       <a href="https://github.com/BatuhanYilmazzz">  
         <img src="https://avatars2.githubusercontent.com/u/54447779" width="100px;" alt="BatuhanYilmazzz"/>  
       </a>  
       <br />  
       <a href="https://github.com/BatuhanYilmazzz">Ahmet Batuhan Yılmaz</a>  
+    </td>  
+    <td align="center">  
+      <a href="https://github.com/Oucema90">  
+        <img src="https://avatars2.githubusercontent.com/u/6604864" width="100px;" alt="Oucema90"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/Oucema90">Oucema Zitoun</a>  
     </td>  
     <td align="center">  
       <a href="https://github.com/viniciusfinger">  
@@ -244,18 +244,18 @@ Ruby                     3 repos             █░░░░░░░░░░�
       <a href="https://github.com/alvesa">Andre Alves</a>  
     </td>  
     <td align="center">  
-      <a href="https://github.com/webwizard99">  
-        <img src="https://avatars2.githubusercontent.com/u/35019318" width="100px;" alt="webwizard99"/>  
-      </a>  
-      <br />  
-      <a href="https://github.com/webwizard99">Michael Bragg</a>  
-    </td>  
-    <td align="center">  
       <a href="https://github.com/walisom360">  
         <img src="https://avatars2.githubusercontent.com/u/45033721" width="100px;" alt="walisom360"/>  
       </a>  
       <br />  
       <a href="https://github.com/walisom360">walisonmatheus</a>  
+    </td>  
+    <td align="center">  
+      <a href="https://github.com/webwizard99">  
+        <img src="https://avatars2.githubusercontent.com/u/35019318" width="100px;" alt="webwizard99"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/webwizard99">Michael Bragg</a>  
     </td>  
     <td align="center">  
       <a href="https://github.com/mrncstt">  
