@@ -165,18 +165,18 @@ Ruby                     3 repos             █░░░░░░░░░░�
 <table>
   <tr>
     <td align="center">  
-      <a href="https://github.com/LendisFabri">  
-        <img src="https://avatars2.githubusercontent.com/u/16249870" width="100px;" alt="LendisFabri"/>  
-      </a>  
-      <br />  
-      <a href="https://github.com/LendisFabri">Kuro Neko (黒猫)</a>  
-    </td>  
-    <td align="center">  
       <a href="https://github.com/ahmnouira">  
         <img src="https://avatars2.githubusercontent.com/u/31603793" width="100px;" alt="ahmnouira"/>  
       </a>  
       <br />  
       <a href="https://github.com/ahmnouira">Ahmed Nouira</a>  
+    </td>  
+    <td align="center">  
+      <a href="https://github.com/LendisFabri">  
+        <img src="https://avatars2.githubusercontent.com/u/16249870" width="100px;" alt="LendisFabri"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/LendisFabri">Kuro Neko (黒猫)</a>  
     </td>  
     <td align="center">  
       <a href="https://github.com/gabrieldejesus">  
