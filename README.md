@@ -251,18 +251,18 @@ Ruby                     3 repos             █░░░░░░░░░░�
       <a href="https://github.com/walisom360">walisonmatheus</a>  
     </td>  
     <td align="center">  
-      <a href="https://github.com/webwizard99">  
-        <img src="https://avatars2.githubusercontent.com/u/35019318" width="100px;" alt="webwizard99"/>  
-      </a>  
-      <br />  
-      <a href="https://github.com/webwizard99">Michael Bragg</a>  
-    </td>  
-    <td align="center">  
       <a href="https://github.com/nevo-david">  
         <img src="https://avatars2.githubusercontent.com/u/100117126" width="100px;" alt="nevo-david"/>  
       </a>  
       <br />  
       <a href="https://github.com/nevo-david">Nevo David</a>  
+    </td>  
+    <td align="center">  
+      <a href="https://github.com/webwizard99">  
+        <img src="https://avatars2.githubusercontent.com/u/35019318" width="100px;" alt="webwizard99"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/webwizard99">Michael Bragg</a>  
     </td>  
   </tr>
 </table>
