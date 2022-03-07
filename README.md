@@ -258,11 +258,11 @@ Ruby                     3 repos             █░░░░░░░░░░�
       <a href="https://github.com/webwizard99">Michael Bragg</a>  
     </td>  
     <td align="center">  
-      <a href="https://github.com/mrncstt">  
-        <img src="https://avatars2.githubusercontent.com/u/14565450" width="100px;" alt="mrncstt"/>  
+      <a href="https://github.com/nevo-david">  
+        <img src="https://avatars2.githubusercontent.com/u/100117126" width="100px;" alt="nevo-david"/>  
       </a>  
       <br />  
-      <a href="https://github.com/mrncstt">Mariana Costa</a>  
+      <a href="https://github.com/nevo-david">Nevo David</a>  
     </td>  
   </tr>
 </table>
