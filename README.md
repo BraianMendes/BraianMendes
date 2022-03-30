@@ -258,11 +258,11 @@ Ruby                     3 repos             █░░░░░░░░░░�
       <a href="https://github.com/mrncstt">Mariana Costa</a>  
     </td>  
     <td align="center">  
-      <a href="https://github.com/webwizard99">  
-        <img src="https://avatars2.githubusercontent.com/u/35019318" width="100px;" alt="webwizard99"/>  
+      <a href="https://github.com/themisska">  
+        <img src="https://avatars2.githubusercontent.com/u/85758424" width="100px;" alt="themisska"/>  
       </a>  
       <br />  
-      <a href="https://github.com/webwizard99">Michael Bragg</a>  
+      <a href="https://github.com/themisska">MissKatiann</a>  
     </td>  
   </tr>
 </table>
