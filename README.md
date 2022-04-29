@@ -143,8 +143,8 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               46 repos            ██████████████░░░░░░░░░░░   57.5% 
-TypeScript               12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   15.0% 
+JavaScript               45 repos            ██████████████░░░░░░░░░░░   56.25% 
+TypeScript               13 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.25% 
 HTML                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
 Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.0% 
 Ruby                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   3.75%
@@ -153,7 +153,7 @@ Ruby                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/04/2022 17:13:02 UTC
+ Last Updated on 29/04/2022 17:15:03 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![Braian Mendes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BraianMendes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
