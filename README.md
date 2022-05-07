@@ -99,8 +99,6 @@ Some Statistics
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-146%20hrs%2015%20mins-blue)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -153,7 +151,7 @@ Ruby                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/05/2022 03:02:23 UTC
+ Last Updated on 07/05/2022 03:04:05 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![Braian Mendes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BraianMendes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
