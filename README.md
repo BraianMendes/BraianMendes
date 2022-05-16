@@ -20,7 +20,10 @@ It was a huge growth, I had incredible moments, and now I have a lot of friends 
 
 <div align="center"><b>Lets connect. I'll answer very quickly.</b></div>
 
+<div align="center">
+[![WhatsApp](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=WhatsApp)](https://api.whatsapp.com/send?phone=5537991512954)
 [![Instagram](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Instagram)](https://www.instagram.com/braian.tech/)
+</div>
 	
 <div align="center">
 	<a href="https://www.linkedin.com/in/braianmendes/" target="_blank">
@@ -147,7 +150,7 @@ Ruby                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/05/2022 03:17:39 UTC
+ Last Updated on 16/05/2022 03:16:34 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![Braian Mendes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BraianMendes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
