@@ -21,41 +21,7 @@ It was a huge growth, I had incredible moments, and now I have a lot of friends 
 <div align="center"><b>Lets connect. I'll answer very quickly.</b></div>
 
 [![WhatsApp](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=WhatsApp)](https://api.whatsapp.com/send?phone=5537991512954)
-	.
 [![Instagram](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Instagram)](https://www.instagram.com/braian.tech/)
-	
-<div align="center">
-	<a href="https://www.linkedin.com/in/braianmendes/" target="_blank">
-		<img 
-			src="https://i.imgur.com/oxxxdYo.png" 
-			width="70"
-			height="70"
-		/>
-	</a>
-	<a href="https://www.facebook.com/braian.mendes.1/" target="_blank">
-		<img 
-			src="https://i.imgur.com/P6F5gva.png" 
-			width="70"
-			height="70"
-		/>
-	</a>
-	</a>
-	<a href="https://www.instagram.com/braian_dev/" target="_blank">
-		<img 
-			src="https://i.imgur.com/3mfyOFB.png" 
-			width="70"
-			height="70"
-		/>
-	</a>
-	</a>
-	<a href="https://twitter.com/braian_dev" target="_blank">
-		<img 
-			src="https://i.imgur.com/rT5em0p.png" 
-			width="70"
-			height="70"
-		/>
-	</a>
-</div>
 
 ---
 <!-- SECTION 03: SUMMARY -->
