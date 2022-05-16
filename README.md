@@ -22,6 +22,7 @@ It was a huge growth, I had incredible moments, and now I have a lot of friends 
 
 <div align="center">
 [![WhatsApp](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=WhatsApp)](https://api.whatsapp.com/send?phone=5537991512954)
+	.
 [![Instagram](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Instagram)](https://www.instagram.com/braian.tech/)
 </div>
 	
