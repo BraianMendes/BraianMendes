@@ -20,11 +20,9 @@ It was a huge growth, I had incredible moments, and now I have a lot of friends 
 
 <div align="center"><b>Lets connect. I'll answer very quickly.</b></div>
 
-<div align="center">
 [![WhatsApp](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=WhatsApp)](https://api.whatsapp.com/send?phone=5537991512954)
 	.
 [![Instagram](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Instagram)](https://www.instagram.com/braian.tech/)
-</div>
 	
 <div align="center">
 	<a href="https://www.linkedin.com/in/braianmendes/" target="_blank">
@@ -103,19 +101,19 @@ Some Statistics
 
 ```text
 🌞 Morning    70 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.82% 
-🌆 Daytime    149 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.77% 
+🌆 Daytime    151 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.02% 
 🌃 Evening    297 commits    █████████░░░░░░░░░░░░░░░░   37.41% 
-🌙 Night      278 commits    ████████░░░░░░░░░░░░░░░░░   35.01%
+🌙 Night      276 commits    ████████░░░░░░░░░░░░░░░░░   34.76%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       147 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.51% 
+Monday       145 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.26% 
 Tuesday      100 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.59% 
 Wednesday    77 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.7% 
 Thursday     107 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.48% 
-Friday       118 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.86% 
+Friday       120 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.11% 
 Saturday     102 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.85% 
 Sunday       143 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.01%
 
@@ -151,7 +149,7 @@ Ruby                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/05/2022 03:18:46 UTC
+ Last Updated on 16/05/2022 03:16:34 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![Braian Mendes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BraianMendes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
