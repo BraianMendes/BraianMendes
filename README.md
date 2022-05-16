@@ -3,7 +3,7 @@
 
 <!-- RETRO VISITOR COUNTER -->  
 <p align="center">   
-  <img src="https://profile-counter.glitch.me/BraianMendes/count.svg" />  
+  # of Visitors: <img src="https://profile-counter.glitch.me/BraianMendes/count.svg" />  
 </p>
 
 
