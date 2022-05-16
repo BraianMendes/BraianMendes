@@ -3,7 +3,7 @@
 
 <!-- RETRO VISITOR COUNTER -->  
 <p align="center" justify="center">   
-  # of Visitors: <img src="https://profile-counter.glitch.me/BraianMendes/count.svg" />  
+  <img src="https://profile-counter.glitch.me/BraianMendes/count.svg" />  
 </p>
 
 
@@ -13,12 +13,6 @@
 
 <h2>About Me</h2>
 
-<b>Actually I'm:</b>
-<ul>
-	<li><b>Working as a Sr FullStack Software Engineer/Tech Lead at Capitani</b></li>
-	<li><b>Finishing building my portfolio and website for initial presentation</b></li>
-	<li><b>Looking for opensource projects that I can contribute</b></li>
-</ul>
 I truly believe in helping people with technology and code. <br><br>
 My journey as a code lover began in 2012 with the first algorithm classes in college, with low-level languages
 and math stuff. Over time I moved to high-level languages, making projects, working, until 2019 and I started participating, organizing and mentoring hackatons with a wonderful team from CEU (Entrepreneurship Center) that I have been with ever since. I was able to be in dozens of marathons, lead a pre-acceleration program for startups, mentor almost a hundred startups, I worked for some others and also for an already consolidated company. Challenges in IoT, AI (both supervised and unsupervised), data science, embedded, web and mobile development, and a lot of cool stuff. <br><br>
@@ -26,7 +20,7 @@ It was a huge growth, I had incredible moments, and now I have a lot of friends 
 
 <div align="center"><b>Lets connect. I'll answer very quickly.</b></div>
 
-
+[![Instagram](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Instagram)](https://www.instagram.com/braian.tech/)
 	
 <div align="center">
 	<a href="https://www.linkedin.com/in/braianmendes/" target="_blank">
@@ -105,19 +99,19 @@ Some Statistics
 
 ```text
 🌞 Morning    70 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.82% 
-🌆 Daytime    152 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.14% 
+🌆 Daytime    153 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.27% 
 🌃 Evening    297 commits    █████████░░░░░░░░░░░░░░░░   37.41% 
-🌙 Night      275 commits    ████████░░░░░░░░░░░░░░░░░   34.63%
+🌙 Night      274 commits    ████████░░░░░░░░░░░░░░░░░   34.51%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       144 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.14% 
+Monday       143 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.01% 
 Tuesday      100 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.59% 
 Wednesday    77 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.7% 
 Thursday     107 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.48% 
-Friday       121 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.24% 
+Friday       122 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.37% 
 Saturday     102 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.85% 
 Sunday       143 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.01%
 
@@ -153,7 +147,7 @@ Ruby                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/05/2022 03:14:32 UTC
+ Last Updated on 16/05/2022 03:10:08 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![Braian Mendes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BraianMendes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
