@@ -3,13 +3,8 @@
 
 <!-- RETRO VISITOR COUNTER -->  
 <p align="center">   
-	[![Visitor Counter for BraianMendes](https://pimp-my-readme.webapp.io/pimp-my-readme/visitor-counter?page=BraianMendes)](https://pimp-my-readme.webapp.io)
-</p>
-<p align="center">   
   <img src="https://profile-counter.glitch.me/BraianMendes/count.svg" />  
 </p>
-
-
 
 
 <!-- SECTION 02: Welcome Message -->
