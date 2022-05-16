@@ -28,8 +28,10 @@ It was a huge growth, I had incredible moments, and now I have a lot of friends 
 
 <div align="center"><b>Lets connect. I'll answer very quickly.</b></div>
 
+		[![WhatsApp](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=WhatsApp)](https://api.whatsapp.com/send?phone=+5537991512954&text=YouMessage)
+
+	
 <div align="center">
-	[![WhatsApp](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=WhatsApp)](https://api.whatsapp.com/send?phone=+5537991512954&text=YouMessage)
 	
 	<a href="https://www.linkedin.com/in/braianmendes/" target="_blank">
 		<img 
