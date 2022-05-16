@@ -10,12 +10,12 @@
 <!-- SECTION 02: Welcome Message -->
 <div>
 <b>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Here you will see a little of me, a little of my history, projects, study notes, and how to call me for a chat.</b>
-<br/>
+<br/><br/>
 
 <h2>About Me</h2>
 
 I truly believe in helping people with technology and code. <br><br>
-My journey as a code lover began in 2012 with the first algorithm classes in college, with low-level languages
+My journey as a developer began in 2012 with the first algorithm classes in college, with low-level languages
 and math stuff. Over time I moved to high-level languages, making projects, working, until 2019 and I started participating, organizing and mentoring hackatons with a wonderful team from CEU (Entrepreneurship Center) that I have been with ever since. I was able to be in dozens of marathons, lead a pre-acceleration program for startups, mentor almost a hundred startups, I worked for some others and also for an already consolidated company. Challenges in IoT, AI (both supervised and unsupervised), data science, embedded, web and mobile development, and a lot of cool stuff. <br><br>
 It was a huge growth, I had incredible moments, and now I have a lot of friends that I carry as a family.
 
@@ -71,18 +71,18 @@ Some Statistics
 ```text
 🌞 Morning    70 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.82% 
 🌆 Daytime    147 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.51% 
-🌃 Evening    289 commits    █████████░░░░░░░░░░░░░░░░   36.4% 
-🌙 Night      288 commits    █████████░░░░░░░░░░░░░░░░   36.27%
+🌃 Evening    297 commits    █████████░░░░░░░░░░░░░░░░   37.41% 
+🌙 Night      280 commits    ████████░░░░░░░░░░░░░░░░░   35.26%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       157 commits    █████░░░░░░░░░░░░░░░░░░░░   19.77% 
+Monday       149 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.77% 
 Tuesday      100 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.59% 
 Wednesday    77 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.7% 
 Thursday     107 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.48% 
-Friday       108 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.6% 
+Friday       116 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.61% 
 Saturday     102 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.85% 
 Sunday       143 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.01%
 
@@ -118,7 +118,7 @@ Ruby                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/05/2022 03:31:08 UTC
+ Last Updated on 16/05/2022 03:21:31 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![Braian Mendes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BraianMendes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
