@@ -2,6 +2,7 @@
 ![Banner](https://github.com/BraianMendes/BraianMendes/blob/master/src/assets/header.png)
 
 <!-- RETRO VISITOR COUNTER -->  
+[![Visitor Counter for BraianMendes](https://pimp-my-readme.webapp.io/pimp-my-readme/visitor-counter?page=BraianMendes)}](https://pimp-my-readme.webapp.io)
 <p align="center">   
   <img src="https://profile-counter.glitch.me/BraianMendes/count.svg" />  
 </p>
