@@ -1,5 +1,5 @@
 <!-- SECTION 01: BANNER -->
-![Banner](https://github.com/BraianMendes/BraianMendes/blob/master/src/assets/banner.png)
+![Banner](https://github.com/BraianMendes/BraianMendes/blob/master/src/assets/header.png)
 
 <!-- RETRO VISITOR COUNTER -->  
 <p align="center">   
