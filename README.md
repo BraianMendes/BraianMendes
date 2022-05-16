@@ -2,7 +2,9 @@
 ![Banner](https://github.com/BraianMendes/BraianMendes/blob/master/src/assets/header.png)
 
 <!-- RETRO VISITOR COUNTER -->  
-[![Visitor Counter for BraianMendes](https://pimp-my-readme.webapp.io/pimp-my-readme/visitor-counter?page=BraianMendes)}](https://pimp-my-readme.webapp.io)
+<p align="center">   
+	[![Visitor Counter for BraianMendes](https://pimp-my-readme.webapp.io/pimp-my-readme/visitor-counter?page=BraianMendes)](https://pimp-my-readme.webapp.io)
+</p>
 <p align="center">   
   <img src="https://profile-counter.glitch.me/BraianMendes/count.svg" />  
 </p>
@@ -116,12 +118,12 @@ Some Statistics
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       140 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.63% 
+Monday       139 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.51% 
 Tuesday      100 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.59% 
 Wednesday    78 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.82% 
 Thursday     107 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.48% 
 Friday       122 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.37% 
-Saturday     104 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.1% 
+Saturday     105 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.22% 
 Sunday       143 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.01%
 
 ```
@@ -156,7 +158,7 @@ Ruby                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/05/2022 03:08:25 UTC
+ Last Updated on 16/05/2022 03:06:51 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![Braian Mendes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BraianMendes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
