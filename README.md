@@ -67,12 +67,13 @@ I'm a developer from Brazil, digital nomad and passionate about programming. I'm
 </a>
 </div>
 
+<br/>
+
 <!-- SECTION 03: SUMMARY -->
 
 <h2>Repository Summary</h2>
 
-<p>Here you can navigate between projects and repositories much more easily.</p>
-<p>Just click and you will navigate to a page where you can see the specific projects more stratified.</p>
+<p>In this section you can browse the projects and repositories I've been working on, all of which are organized and easy to access. Just click and you will navigate to a page where you can see the specific projects more stratified.</p>
 <ol>
 	<li><a href="https://github.com/BraianMendes/BraianMendes/blob/master/summary/advanced.md">Advanced Portfolio</a></li>
 	<li><a href="https://github.com/BraianMendes/BraianMendes/blob/master/summary/simple.md">Simple Portfolio</a></li>
@@ -81,6 +82,8 @@ I'm a developer from Brazil, digital nomad and passionate about programming. I'm
 	<li><a href="https://github.com/BraianMendes/BraianMendes/blob/master/summary/boilerplate.md">Boilerplates and Templates</a></li>
 </ol>
 
+<br/>
+<br/>
 
 ---
 
@@ -158,7 +161,7 @@ Ruby                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/05/2022 12:43:15 UTC
+ Last Updated on 19/05/2022 12:40:53 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![Braian Mendes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BraianMendes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
