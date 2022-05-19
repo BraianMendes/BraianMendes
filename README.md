@@ -29,7 +29,7 @@ It was a huge growth, I had incredible moments, and now I have a lot of friends 
     style="display: block; 
            margin-left: auto;
            margin-right: auto;
-           width: 20%;"
+           width: 10%;"
     src="https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=WhatsApp" 
     alt="Hire me">
 </img>
@@ -39,7 +39,7 @@ It was a huge growth, I had incredible moments, and now I have a lot of friends 
     style="display: block; 
            margin-left: auto;
            margin-right: auto;
-           width: 20%;"
+           width: 10%;"
     src="https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Instagram" 
     alt="My Portfolio">
 </img>
@@ -49,7 +49,7 @@ It was a huge growth, I had incredible moments, and now I have a lot of friends 
     style="display: block; 
            margin-left: auto;
            margin-right: auto;
-           width: 20%;"
+           width: 10%;"
     src="https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Facebook" 
     alt="My Portfolio">
 </img>
@@ -59,7 +59,7 @@ It was a huge growth, I had incredible moments, and now I have a lot of friends 
     style="display: block; 
            margin-left: auto;
            margin-right: auto;
-           width: 20%;"
+           width: 10%;"
     src="https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=LinkedIn" 
     alt="My Portfolio">
 </img>
