@@ -70,8 +70,8 @@ Some Statistics
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    93 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.8% 
-🌆 Daytime    138 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.51% 
+🌞 Morning    91 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.55% 
+🌆 Daytime    140 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.77% 
 🌃 Evening    256 commits    ████████░░░░░░░░░░░░░░░░░   32.49% 
 🌙 Night      301 commits    █████████░░░░░░░░░░░░░░░░   38.2%
 
@@ -80,9 +80,9 @@ Some Statistics
 
 ```text
 Monday       130 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.5% 
-Tuesday      96 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.18% 
-Wednesday    77 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.77% 
-Thursday     167 commits    █████░░░░░░░░░░░░░░░░░░░░   21.19% 
+Tuesday      97 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.31% 
+Wednesday    79 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.03% 
+Thursday     164 commits    █████░░░░░░░░░░░░░░░░░░░░   20.81% 
 Friday       102 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.94% 
 Saturday     87 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.04% 
 Sunday       129 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.37%
@@ -119,7 +119,7 @@ Ruby                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/05/2022 11:46:58 UTC
+ Last Updated on 19/05/2022 11:38:46 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![Braian Mendes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BraianMendes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
@@ -272,8 +272,8 @@ Want to know a little more? Some curiosities of mine:
     style="display: block; 
            margin-left: auto;
            margin-right: auto;
-           width: 20%;
-	   max-heigth: 30px"
+           width: 15%;
+	   max-heigth: 20px"
     src="https://github.com/BraianMendes/BraianMendes/blob/master/src/assets/hire-me!.svg" 
     alt="Hire me">
 </img>
@@ -284,7 +284,7 @@ Want to know a little more? Some curiosities of mine:
            margin-left: auto;
            margin-right: auto;
            width: 40%;
-	   max-heigth: 30px"
+	   max-heigth: 20px"
     src="https://github.com/BraianMendes/BraianMendes/blob/master/src/assets/-my-www-portfolio.svg" 
     alt="My Portfolio">
 </img>
