@@ -1,5 +1,6 @@
 <!-- SECTION 01: BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Braian%20Mendes&fontSize=70&fontAlignY=35&desc=Full-Stack%20Software%20Developer/Engineer&descAlignY=50" />
+
 <!-- ![Banner](https://github.com/BraianMendes/BraianMendes/blob/master/src/assets/header.png) -->
 
 <!-- RETRO VISITOR COUNTER -->  
@@ -118,7 +119,7 @@ Ruby                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/05/2022 11:33:26 UTC
+ Last Updated on 19/05/2022 11:23:57 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![Braian Mendes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BraianMendes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
@@ -265,3 +266,4 @@ Want to know a little more? Some curiosities of mine:
 </div>
 	
 
+![HireBtn](https://github.com/BraianMendes/BraianMendes/blob/master/src/assets/hire-me!.svg)
