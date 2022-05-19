@@ -70,8 +70,8 @@ Some Statistics
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    95 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.06% 
-🌆 Daytime    136 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.26% 
+🌞 Morning    91 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.55% 
+🌆 Daytime    140 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.77% 
 🌃 Evening    256 commits    ████████░░░░░░░░░░░░░░░░░   32.49% 
 🌙 Night      301 commits    █████████░░░░░░░░░░░░░░░░   38.2%
 
@@ -80,9 +80,9 @@ Some Statistics
 
 ```text
 Monday       130 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.5% 
-Tuesday      96 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.18% 
-Wednesday    75 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
-Thursday     169 commits    █████░░░░░░░░░░░░░░░░░░░░   21.45% 
+Tuesday      97 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.31% 
+Wednesday    79 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.03% 
+Thursday     164 commits    █████░░░░░░░░░░░░░░░░░░░░   20.81% 
 Friday       102 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.94% 
 Saturday     87 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.04% 
 Sunday       129 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.37%
@@ -119,7 +119,7 @@ Ruby                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/05/2022 11:48:48 UTC
+ Last Updated on 19/05/2022 11:38:46 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![Braian Mendes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BraianMendes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
@@ -234,6 +234,13 @@ Ruby                     3 repos             █░░░░░░░░░░�
 </table>
 <!--END_SECTION:top-followers-->
 
+<br>
+<br>
+
+<div  align="center" style="display: flex;  align-items: center;  justify-content: center;" >
+<a href="https://app.daily.dev/BraianMendes"><img src="https://api.daily.dev/devcards/1de7b7effad6466f9d2b83be22810ff0.png?r=8l3" width="400" alt="Braian Mendes Corrêa's Dev Card"/></a>
+</div>
+
 ---
 
 <h4 style="margin-top: 5rem">
@@ -252,17 +259,8 @@ Want to know a little more? Some curiosities of mine:
 <em><b><p> I love connecting with different people from around the world, so if you want to be my friend, feel free to <a href="https://twitter.com/braian_dev">reach out and introduce yourself</a> and don’t just say hi, tell me about yourself. </p></b></em>
 <br>
 
----
-
 <div  align="center" style="display: flex;  align-items: center;  justify-content: center;" >
 <img src="https://media.giphy.com/media/26FmQ6EOvLxp6cWyY/giphy.gif" style="margin: 0 auto" align="center">
-</div>
-
-<br>
-<br>
-
-<div  align="center" style="display: flex;  align-items: center;  justify-content: center;" >
-<a href="https://app.daily.dev/BraianMendes"><img src="https://api.daily.dev/devcards/1de7b7effad6466f9d2b83be22810ff0.png?r=8l3" width="400" alt="Braian Mendes Corrêa's Dev Card"/></a>
 </div>
 	
 
@@ -273,7 +271,7 @@ Want to know a little more? Some curiosities of mine:
            margin-left: auto;
            margin-right: auto;
            width: 20%;
-	   max-heigth: 20px"
+	   max-height: 20px"
     src="https://github.com/BraianMendes/BraianMendes/blob/master/src/assets/hire-me!.svg" 
     alt="Hire me">
 </img>
@@ -284,7 +282,7 @@ Want to know a little more? Some curiosities of mine:
            margin-left: auto;
            margin-right: auto;
            width: 40%;
-	   max-heigth: 20px"
+	   max-height: 20px"
     src="https://github.com/BraianMendes/BraianMendes/blob/master/src/assets/-my-www-portfolio.svg" 
     alt="My Portfolio">
 </img>
