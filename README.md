@@ -272,7 +272,7 @@ Want to know a little more? Some curiosities of mine:
     style="display: block; 
            margin-left: auto;
            margin-right: auto;
-           width: 15%;
+           width: 20%;
 	   max-heigth: 20px"
     src="https://github.com/BraianMendes/BraianMendes/blob/master/src/assets/hire-me!.svg" 
     alt="Hire me">
