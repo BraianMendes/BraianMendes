@@ -69,19 +69,19 @@ Some Statistics
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    89 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.29% 
+🌞 Morning    88 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.17% 
 🌆 Daytime    140 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.77% 
-🌃 Evening    257 commits    ████████░░░░░░░░░░░░░░░░░   32.61% 
+🌃 Evening    258 commits    ████████░░░░░░░░░░░░░░░░░   32.74% 
 🌙 Night      302 commits    █████████░░░░░░░░░░░░░░░░   38.32%
 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       131 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.62% 
+Monday       132 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.75% 
 Tuesday      102 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.94% 
 Wednesday    79 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.03% 
-Thursday     158 commits    █████░░░░░░░░░░░░░░░░░░░░   20.05% 
+Thursday     157 commits    █████░░░░░░░░░░░░░░░░░░░░   19.92% 
 Friday       102 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.94% 
 Saturday     87 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.04% 
 Sunday       129 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.37%
@@ -118,7 +118,7 @@ Ruby                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/05/2022 11:22:07 UTC
+ Last Updated on 19/05/2022 10:59:06 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![Braian Mendes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BraianMendes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
@@ -241,9 +241,9 @@ Want to know a little more? Some curiosities of mine:
 
 :apple: Vegan Bodybuilder
 
-:camping: Passionate Traveler
+:camping: Passionate World Traveler
 
-:video_game: RPG Player
+:video_game: Gamer
 
 ---
 
@@ -262,8 +262,6 @@ Want to know a little more? Some curiosities of mine:
 
 <div  align="center" style="display: flex;  align-items: center;  justify-content: center;" >
 <a href="https://app.daily.dev/BraianMendes"><img src="https://api.daily.dev/devcards/1de7b7effad6466f9d2b83be22810ff0.png?r=8l3" width="400" alt="Braian Mendes Corrêa's Dev Card"/></a>
-	
-[![forthebadge](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5NC45NyIgaGVpZ2h0PSIzNSIgdmlld0JveD0iMCAwIDk0Ljk3IDM1Ij48cmVjdCBjbGFzcz0ic3ZnX19yZWN0IiB4PSIwIiB5PSIwIiB3aWR0aD0iOTQuOTciIGhlaWdodD0iMzUiIGZpbGw9IiMzMUM0RjMiLz48cmVjdCBjbGFzcz0ic3ZnX19yZWN0IiB4PSI5NC45NyIgeT0iMCIgd2lkdGg9IjAiIGhlaWdodD0iMzUiIGZpbGw9IiMzODlBRDUiLz48cGF0aCBjbGFzcz0ic3ZnX190ZXh0IiBkPSJNMTUuNzAgMjJMMTQuMjIgMjJMMTQuMjIgMTMuNDdMMTUuNzAgMTMuNDdMMTUuNzAgMTcuMDJMMTkuNTEgMTcuMDJMMTkuNTEgMTMuNDdMMjAuOTkgMTMuNDdMMjAuOTkgMjJMMTkuNTEgMjJMMTkuNTEgMTguMjFMMTUuNzAgMTguMjFMMTUuNzAgMjJaTTI3LjMwIDIyTDI1LjgyIDIyTDI1LjgyIDEzLjQ3TDI3LjMwIDEzLjQ3TDI3LjMwIDIyWk0zMy41OSAyMkwzMi4xMSAyMkwzMi4xMSAxMy40N0wzNS4xMSAxMy40N1EzNi41OCAxMy40NyAzNy4zOSAxNC4xM1EzOC4xOSAxNC43OSAzOC4xOSAxNi4wNUwzOC4xOSAxNi4wNVEzOC4xOSAxNi45MCAzNy43NyAxNy40OFEzNy4zNiAxOC4wNiAzNi42MiAxOC4zN0wzNi42MiAxOC4zN0wzOC41NCAyMS45MkwzOC41NCAyMkwzNi45NSAyMkwzNS4yNCAxOC43MUwzMy41OSAxOC43MUwzMy41OSAyMlpNMzMuNTkgMTQuNjZMMzMuNTkgMTcuNTJMMzUuMTEgMTcuNTJRMzUuODYgMTcuNTIgMzYuMjggMTcuMTVRMzYuNzEgMTYuNzcgMzYuNzEgMTYuMTFMMzYuNzEgMTYuMTFRMzYuNzEgMTUuNDMgMzYuMzIgMTUuMDVRMzUuOTMgMTQuNjggMzUuMTUgMTQuNjZMMzUuMTUgMTQuNjZMMzMuNTkgMTQuNjZaTTQ4LjE2IDIyTDQyLjU4IDIyTDQyLjU4IDEzLjQ3TDQ4LjEyIDEzLjQ3TDQ4LjEyIDE0LjY2TDQ0LjA2IDE0LjY2TDQ0LjA2IDE3LjAyTDQ3LjU3IDE3LjAyTDQ3LjU3IDE4LjE5TDQ0LjA2IDE4LjE5TDQ0LjA2IDIwLjgyTDQ4LjE2IDIwLjgyTDQ4LjE2IDIyWk01OS44MSAyMkw1OC4zMyAyMkw1OC4zMyAxMy40N0w2MC4yNSAxMy40N0w2Mi43MiAyMC4wMUw2NS4xNyAxMy40N0w2Ny4wOSAxMy40N0w2Ny4wOSAyMkw2NS42MSAyMkw2NS42MSAxOS4xOUw2NS43NiAxNS40M0w2My4yNCAyMkw2Mi4xOCAyMkw1OS42NiAxNS40M0w1OS44MSAxOS4xOUw1OS44MSAyMlpNNzcuNDAgMjJMNzEuODMgMjJMNzEuODMgMTMuNDdMNzcuMzYgMTMuNDdMNzcuMzYgMTQuNjZMNzMuMzEgMTQuNjZMNzMuMzEgMTcuMDJMNzYuODEgMTcuMDJMNzYuODEgMTguMTlMNzMuMzEgMTguMTlMNzMuMzEgMjAuODJMNzcuNDAgMjAuODJMNzcuNDAgMjJaTTgxLjU3IDIxLjMzTDgxLjU3IDIxLjMzUTgxLjU3IDIwLjk5IDgxLjc5IDIwLjc3UTgyLjAwIDIwLjU1IDgyLjM4IDIwLjU1UTgyLjc1IDIwLjU1IDgyLjk3IDIwLjc3UTgzLjE5IDIwLjk5IDgzLjE5IDIxLjMzTDgzLjE5IDIxLjMzUTgzLjE5IDIxLjY1IDgyLjk4IDIxLjg3UTgyLjc3IDIyLjA4IDgyLjM4IDIyLjA4UTgxLjk5IDIyLjA4IDgxLjc4IDIxLjg3UTgxLjU3IDIxLjY1IDgxLjU3IDIxLjMzWk04MS43NSAxOS40OUw4MS42MSAxMy40N0w4My4xMSAxMy40N0w4Mi45NyAxOS40OUw4MS43NSAxOS40OVoiIGZpbGw9IiNGRkZGRkYiLz48cGF0aCBjbGFzcz0ic3ZnX190ZXh0IiBkPSIiIGZpbGw9IiNGRkZGRkYiIHg9IjEwNy45NyIvPjwvc3ZnPg==)](https://forthebadge.com)
 </div>
 	
 
