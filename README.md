@@ -23,12 +23,12 @@ It was a huge growth, I had incredible moments, and now I have a lot of friends 
 
 <div align="center"><b>Lets connect. I'll answer very quickly.</b></div>
 
-<div style="text-align: center;">
+<p style="text-align: center;">
 [![WhatsApp](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=WhatsApp)](https://api.whatsapp.com/send?phone=5537991512954)
 [![Instagram](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Instagram)](https://www.instagram.com/braian.tech/)
 [![Facebook](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Facebook)](https://www.facebook.com/braianmtech)
 [![LinkedIn](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=LinkedIn)](https://www.linkedin.com/in/braianmendes/)
-</div>
+</p>
 
 <!-- SECTION 03: SUMMARY -->
 
@@ -72,8 +72,8 @@ Some Statistics
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    98 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.44% 
-🌆 Daytime    133 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.88% 
+🌞 Morning    96 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.18% 
+🌆 Daytime    135 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.13% 
 🌃 Evening    256 commits    ████████░░░░░░░░░░░░░░░░░   32.49% 
 🌙 Night      301 commits    █████████░░░░░░░░░░░░░░░░   38.2%
 
@@ -83,8 +83,8 @@ Some Statistics
 ```text
 Monday       130 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.5% 
 Tuesday      96 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.18% 
-Wednesday    72 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.14% 
-Thursday     172 commits    █████░░░░░░░░░░░░░░░░░░░░   21.83% 
+Wednesday    74 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.39% 
+Thursday     170 commits    █████░░░░░░░░░░░░░░░░░░░░   21.57% 
 Friday       102 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.94% 
 Saturday     87 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.04% 
 Sunday       129 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.37%
@@ -121,7 +121,7 @@ Ruby                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/05/2022 11:56:14 UTC
+ Last Updated on 19/05/2022 11:51:40 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![Braian Mendes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BraianMendes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
