@@ -80,9 +80,9 @@ Some Statistics
 
 ```text
 Monday       130 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.5% 
-Tuesday      100 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.69% 
+Tuesday      101 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.82% 
 Wednesday    79 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.03% 
-Thursday     161 commits    █████░░░░░░░░░░░░░░░░░░░░   20.43% 
+Thursday     160 commits    █████░░░░░░░░░░░░░░░░░░░░   20.3% 
 Friday       102 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.94% 
 Saturday     87 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.04% 
 Sunday       129 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.37%
@@ -119,7 +119,7 @@ Ruby                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/05/2022 11:35:47 UTC
+ Last Updated on 19/05/2022 11:23:57 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![Braian Mendes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BraianMendes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
@@ -266,4 +266,12 @@ Want to know a little more? Some curiosities of mine:
 </div>
 	
 
-![HireBtn](https://github.com/BraianMendes/BraianMendes/blob/master/src/assets/hire-me!.svg)
+<!-- ![HireBtn](https://github.com/BraianMendes/BraianMendes/blob/master/src/assets/hire-me!.svg) -->
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 100%;"
+    src="https://github.com/BraianMendes/BraianMendes/blob/master/src/assets/hire-me!.svg" 
+    alt="Our logo">
+</img>
