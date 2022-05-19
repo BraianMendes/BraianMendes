@@ -23,7 +23,7 @@ It was a huge growth, I had incredible moments, and now I have a lot of friends 
 
 <div align="center"><b>Lets connect. I'll answer very quickly.</b></div>
 
-<br/><br/>
+<br/>
 
 <div  align="center" style="display: flex;  align-items: center;  justify-content: center;" >
 <a href="https://api.whatsapp.com/send?phone=5537991512954">  
