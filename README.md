@@ -271,7 +271,7 @@ Want to know a little more? Some curiosities of mine:
     style="display: block; 
            margin-left: auto;
            margin-right: auto;
-           width: 100%;"
+           width: 30%;"
     src="https://github.com/BraianMendes/BraianMendes/blob/master/src/assets/hire-me!.svg" 
     alt="Our logo">
 </img>
