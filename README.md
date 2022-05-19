@@ -119,7 +119,7 @@ Ruby                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/05/2022 11:39:32 UTC
+ Last Updated on 19/05/2022 11:38:46 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![Braian Mendes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BraianMendes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
@@ -266,12 +266,12 @@ Want to know a little more? Some curiosities of mine:
 </div>
 	
 
-<!-- ![HireBtn](https://github.com/BraianMendes/BraianMendes/blob/master/src/assets/hire-me!.svg) -->
+<div  align="center" style="display: flex;  align-items: center;  justify-content: center;" >
 <img 
     style="display: block; 
            margin-left: auto;
            margin-right: auto;
-           width: 30%;"
+           width: 20%;"
     src="https://github.com/BraianMendes/BraianMendes/blob/master/src/assets/hire-me!.svg" 
     alt="Hire me">
 </img>
@@ -283,3 +283,5 @@ Want to know a little more? Some curiosities of mine:
     src="https://github.com/BraianMendes/BraianMendes/blob/master/src/assets/-my-www-portfolio.svg" 
     alt="My Portfolio">
 </img>
+</div>
+
