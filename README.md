@@ -1,5 +1,5 @@
 <!-- SECTION 01: BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Braian%20Mendes&fontSize=70&fontAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Braian%20Mendes&fontSize=70&fontAlignY=40&desc=Full-Stack%20Software%20Developer/Engineer" />
 <!-- ![Banner](https://github.com/BraianMendes/BraianMendes/blob/master/src/assets/header.png) -->
 
 <!-- RETRO VISITOR COUNTER -->  
