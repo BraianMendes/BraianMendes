@@ -1,5 +1,6 @@
 <!-- SECTION 01: BANNER -->
-![Banner](https://github.com/BraianMendes/BraianMendes/blob/master/src/assets/header.png)
+<img src="https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=Braian%20Mendes%20render&fontSize=90" />
+<!-- ![Banner](https://github.com/BraianMendes/BraianMendes/blob/master/src/assets/header.png) -->
 
 <!-- RETRO VISITOR COUNTER -->  
 <!-- <p align="center" justify="center">   
@@ -21,12 +22,10 @@ It was a huge growth, I had incredible moments, and now I have a lot of friends 
 
 <div align="center"><b>Lets connect. I'll answer very quickly.</b></div>
 
-<div align="center">
 [![WhatsApp](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=WhatsApp)](https://api.whatsapp.com/send?phone=5537991512954)
 [![Instagram](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Instagram)](https://www.instagram.com/braian.tech/)
 [![Facebook](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Facebook)](https://www.facebook.com/braianmtech)
 [![LinkedIn](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=LinkedIn)](https://www.linkedin.com/in/braianmendes/)
-</div>
 
 <!-- SECTION 03: SUMMARY -->
 
@@ -70,22 +69,22 @@ Some Statistics
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    78 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.9% 
-🌆 Daytime    145 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.4% 
-🌃 Evening    258 commits    ████████░░░░░░░░░░░░░░░░░   32.74% 
-🌙 Night      307 commits    █████████░░░░░░░░░░░░░░░░   38.96%
+🌞 Morning    73 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.26% 
+🌆 Daytime    146 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.53% 
+🌃 Evening    280 commits    █████████░░░░░░░░░░░░░░░░   35.53% 
+🌙 Night      289 commits    █████████░░░░░░░░░░░░░░░░   36.68%
 
 ```
-📅 **I'm Most Productive on Thursday** 
+📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       137 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.39% 
+Monday       158 commits    █████░░░░░░░░░░░░░░░░░░░░   20.05% 
 Tuesday      102 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.94% 
 Wednesday    79 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.03% 
-Thursday     147 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.65% 
-Friday       102 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.94% 
-Saturday     92 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.68% 
-Sunday       129 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.37%
+Thursday     107 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.58% 
+Friday       106 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.45% 
+Saturday     102 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.94% 
+Sunday       134 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.01%
 
 ```
 
@@ -119,7 +118,7 @@ Ruby                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/05/2022 10:46:38 UTC
+ Last Updated on 19/05/2022 05:03:04 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![Braian Mendes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BraianMendes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
