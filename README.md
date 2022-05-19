@@ -34,7 +34,7 @@ It was a huge growth, I had incredible moments, and now I have a lot of friends 
     alt="Hire me">
 </img>
 </a>
-<a href="https://www.braian.tech">  
+<a href="https://www.instagram.com/braian.tech/">  
 <img 
     style="display: block; 
            margin-left: auto;
@@ -44,32 +44,27 @@ It was a huge growth, I had incredible moments, and now I have a lot of friends 
     alt="My Portfolio">
 </img>
 </a>
-<a href="https://www.braian.tech">  
+<a href="https://www.facebook.com/braianmtech">  
 <img 
     style="display: block; 
            margin-left: auto;
            margin-right: auto;
            width: 20%;"
-    src="https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Instagram" 
+    src="https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Facebook" 
     alt="My Portfolio">
 </img>
 </a>
-<a href="https://www.braian.tech">  
+<a href="https://www.linkedin.com/in/braianmendes/">  
 <img 
     style="display: block; 
            margin-left: auto;
            margin-right: auto;
            width: 20%;"
-    src="https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Instagram" 
+    src="https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=LinkedIn" 
     alt="My Portfolio">
 </img>
 </a>
 </div>
-
-[![WhatsApp](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=WhatsApp)](https://api.whatsapp.com/send?phone=5537991512954)
-[![Instagram](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Instagram)](https://www.instagram.com/braian.tech/)
-[![Facebook](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Facebook)](https://www.facebook.com/braianmtech)
-[![LinkedIn](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=LinkedIn)](https://www.linkedin.com/in/braianmendes/)
 
 <!-- SECTION 03: SUMMARY -->
 
@@ -113,8 +108,8 @@ Some Statistics
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    101 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.82% 
-🌆 Daytime    130 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.5% 
+🌞 Morning    99 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.56% 
+🌆 Daytime    132 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.75% 
 🌃 Evening    256 commits    ████████░░░░░░░░░░░░░░░░░   32.49% 
 🌙 Night      301 commits    █████████░░░░░░░░░░░░░░░░   38.2%
 
@@ -124,8 +119,8 @@ Some Statistics
 ```text
 Monday       130 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.5% 
 Tuesday      96 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.18% 
-Wednesday    69 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.76% 
-Thursday     175 commits    █████░░░░░░░░░░░░░░░░░░░░   22.21% 
+Wednesday    71 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.01% 
+Thursday     173 commits    █████░░░░░░░░░░░░░░░░░░░░   21.95% 
 Friday       102 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.94% 
 Saturday     87 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.04% 
 Sunday       129 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.37%
@@ -162,7 +157,7 @@ Ruby                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/05/2022 12:16:19 UTC
+ Last Updated on 19/05/2022 12:05:19 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![Braian Mendes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BraianMendes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
