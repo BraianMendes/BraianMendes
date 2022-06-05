@@ -245,18 +245,18 @@ Ruby                     3 repos             █░░░░░░░░░░�
       <a href="https://github.com/poldevelophardware">Paulo Rodrigues</a>  
     </td>  
     <td align="center">  
-      <a href="https://github.com/alvesa">  
-        <img src="https://avatars2.githubusercontent.com/u/29579436" width="100px;" alt="alvesa"/>  
-      </a>  
-      <br />  
-      <a href="https://github.com/alvesa">Andre Alves</a>  
-    </td>  
-    <td align="center">  
       <a href="https://github.com/akshaynarisetti">  
         <img src="https://avatars2.githubusercontent.com/u/58532023" width="100px;" alt="akshaynarisetti"/>  
       </a>  
       <br />  
       <a href="https://github.com/akshaynarisetti">Akshay Narisetti</a>  
+    </td>  
+    <td align="center">  
+      <a href="https://github.com/alvesa">  
+        <img src="https://avatars2.githubusercontent.com/u/29579436" width="100px;" alt="alvesa"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/alvesa">Andre Alves</a>  
     </td>  
     <td align="center">  
       <a href="https://github.com/walisom360">  
