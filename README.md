@@ -24,6 +24,7 @@ I'm a developer from Brazil, digital nomad and passionate about programming. I'm
 
 <br/>
 
+	
 <div  align="center" style="display: flex;  align-items: center;  justify-content: center;" >
 <a href="https://api.whatsapp.com/send?phone=5537991512954">  
 <img 
