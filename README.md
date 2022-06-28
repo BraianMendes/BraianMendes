@@ -196,18 +196,18 @@ Ruby                     3 repos             █░░░░░░░░░░�
       <a href="https://github.com/gabrieldejesus">Gabriel de Jesus</a>  
     </td>  
     <td align="center">  
-      <a href="https://github.com/misbot">  
-        <img src="https://avatars2.githubusercontent.com/u/57812173" width="100px;" alt="misbot"/>  
-      </a>  
-      <br />  
-      <a href="https://github.com/misbot">misbot</a>  
-    </td>  
-    <td align="center">  
       <a href="https://github.com/AkshatRastogi-1nC0re">  
         <img src="https://avatars2.githubusercontent.com/u/71638737" width="100px;" alt="AkshatRastogi-1nC0re"/>  
       </a>  
       <br />  
       <a href="https://github.com/AkshatRastogi-1nC0re">AKSHAT RASTOGI</a>  
+    </td>  
+    <td align="center">  
+      <a href="https://github.com/misbot">  
+        <img src="https://avatars2.githubusercontent.com/u/57812173" width="100px;" alt="misbot"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/misbot">misbot</a>  
     </td>  
     <td align="center">  
       <a href="https://github.com/BatuhanYilmazzz">  
