@@ -176,18 +176,18 @@ Ruby                     3 repos             █░░░░░░░░░░�
 <table>
   <tr>
     <td align="center">  
-      <a href="https://github.com/ahmnouira">  
-        <img src="https://avatars2.githubusercontent.com/u/31603793" width="100px;" alt="ahmnouira"/>  
-      </a>  
-      <br />  
-      <a href="https://github.com/ahmnouira">Ahmed Nouira</a>  
-    </td>  
-    <td align="center">  
       <a href="https://github.com/AkshatRastogi-1nC0re">  
         <img src="https://avatars2.githubusercontent.com/u/71638737" width="100px;" alt="AkshatRastogi-1nC0re"/>  
       </a>  
       <br />  
       <a href="https://github.com/AkshatRastogi-1nC0re">AKSHAT RASTOGI</a>  
+    </td>  
+    <td align="center">  
+      <a href="https://github.com/ahmnouira">  
+        <img src="https://avatars2.githubusercontent.com/u/31603793" width="100px;" alt="ahmnouira"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/ahmnouira">Ahmed Nouira</a>  
     </td>  
     <td align="center">  
       <a href="https://github.com/renbooo">  
