@@ -241,18 +241,18 @@ Ruby                     3 repos             █░░░░░░░░░░�
       <a href="https://github.com/Henrique523">Guilherme Henrique Lemes de Godoy</a>  
     </td>  
     <td align="center">  
-      <a href="https://github.com/VamoCodar">  
-        <img src="https://avatars2.githubusercontent.com/u/51723157" width="100px;" alt="VamoCodar"/>  
-      </a>  
-      <br />  
-      <a href="https://github.com/VamoCodar">Adriano P</a>  
-    </td>  
-    <td align="center">  
       <a href="https://github.com/poldevelophardware">  
         <img src="https://avatars2.githubusercontent.com/u/41173170" width="100px;" alt="poldevelophardware"/>  
       </a>  
       <br />  
       <a href="https://github.com/poldevelophardware">Paulo Rodrigues</a>  
+    </td>  
+    <td align="center">  
+      <a href="https://github.com/VamoCodar">  
+        <img src="https://avatars2.githubusercontent.com/u/51723157" width="100px;" alt="VamoCodar"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/VamoCodar">Adriano P</a>  
     </td>  
     <td align="center">  
       <a href="https://github.com/alvesa">  
