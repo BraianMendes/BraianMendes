@@ -234,6 +234,13 @@ Ruby                     3 repos             █░░░░░░░░░░�
       <a href="https://github.com/viniciusfinger">Vinicius Finger</a>  
     </td>  
     <td align="center">  
+      <a href="https://github.com/Rolemodel01291">  
+        <img src="https://avatars2.githubusercontent.com/u/84802341" width="100px;" alt="Rolemodel01291"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/Rolemodel01291">Full Stack | Frontend | Blockchain Engineer</a>  
+    </td>  
+    <td align="center">  
       <a href="https://github.com/Henrique523">  
         <img src="https://avatars2.githubusercontent.com/u/60272764" width="100px;" alt="Henrique523"/>  
       </a>  
@@ -267,13 +274,6 @@ Ruby                     3 repos             █░░░░░░░░░░�
       </a>  
       <br />  
       <a href="https://github.com/alvesa">Andre Alves</a>  
-    </td>  
-    <td align="center">  
-      <a href="https://github.com/themisska">  
-        <img src="https://avatars2.githubusercontent.com/u/85758424" width="100px;" alt="themisska"/>  
-      </a>  
-      <br />  
-      <a href="https://github.com/themisska">MissKatiann</a>  
     </td>  
   </tr>
 </table>
