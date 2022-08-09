@@ -231,7 +231,7 @@ Ruby                     3 repos             █░░░░░░░░░░�
         <img src="https://avatars2.githubusercontent.com/u/84802341" width="100px;" alt="Rolemodel01291"/>  
       </a>  
       <br />  
-      <a href="https://github.com/Rolemodel01291">Full Stack | Frontend | Blockchain Engineer</a>  
+      <a href="https://github.com/Rolemodel01291">Darren Lee</a>  
     </td>  
     <td align="center">  
       <a href="https://github.com/viniciusfinger">  
