@@ -218,20 +218,20 @@ Ruby                     3 repos             █░░░░░░░░░░�
       <a href="https://github.com/BatuhanYilmazzz">Ahmet Batuhan Yılmaz</a>  
     </td>  
     <td align="center">  
-      <a href="https://github.com/Oucema90">  
-        <img src="https://avatars2.githubusercontent.com/u/6604864" width="100px;" alt="Oucema90"/>  
-      </a>  
-      <br />  
-      <a href="https://github.com/Oucema90">Oucema Zitoun</a>  
-    </td>  
-  </tr>
-  <tr>
-    <td align="center">  
       <a href="https://github.com/Rolemodel01291">  
         <img src="https://avatars2.githubusercontent.com/u/84802341" width="100px;" alt="Rolemodel01291"/>  
       </a>  
       <br />  
       <a href="https://github.com/Rolemodel01291">Darren Lee</a>  
+    </td>  
+  </tr>
+  <tr>
+    <td align="center">  
+      <a href="https://github.com/Oucema90">  
+        <img src="https://avatars2.githubusercontent.com/u/6604864" width="100px;" alt="Oucema90"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/Oucema90">Oucema Zitoun</a>  
     </td>  
     <td align="center">  
       <a href="https://github.com/viniciusfinger">  
