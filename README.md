@@ -234,6 +234,13 @@ Ruby                     3 repos             █░░░░░░░░░░�
       <a href="https://github.com/Oucema90">Oucema Zitoun</a>  
     </td>  
     <td align="center">  
+      <a href="https://github.com/zyy">  
+        <img src="https://avatars2.githubusercontent.com/u/2232814" width="100px;" alt="zyy"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/zyy">yycoder</a>  
+    </td>  
+    <td align="center">  
       <a href="https://github.com/viniciusfinger">  
         <img src="https://avatars2.githubusercontent.com/u/51798742" width="100px;" alt="viniciusfinger"/>  
       </a>  
@@ -267,13 +274,6 @@ Ruby                     3 repos             █░░░░░░░░░░�
       </a>  
       <br />  
       <a href="https://github.com/alvesa">Andre Alves</a>  
-    </td>  
-    <td align="center">  
-      <a href="https://github.com/walisom360">  
-        <img src="https://avatars2.githubusercontent.com/u/45033721" width="100px;" alt="walisom360"/>  
-      </a>  
-      <br />  
-      <a href="https://github.com/walisom360">walisonmatheus</a>  
     </td>  
   </tr>
 </table>
