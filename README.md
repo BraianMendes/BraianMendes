@@ -34,7 +34,7 @@ I'm a developer from Brazil, digital nomad and passionate about programming. I'm
            margin-left: auto;
            margin-right: auto;
            width: 10%;"
-    src="https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=WhatsApp" 
+    src="https://img.shields.io/badge/-Hire%20me-blue?style=for-the-badge" 
     alt="Hire me">
 </img>
 </a>
@@ -44,8 +44,8 @@ I'm a developer from Brazil, digital nomad and passionate about programming. I'm
            margin-left: auto;
            margin-right: auto;
            width: 10%;"
-    src="https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Instagram" 
-    alt="My Portfolio">
+    src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram" 
+    alt="Instagram">
 </img>
 </a>
 <a href="https://www.facebook.com/braianmtech">  
@@ -54,8 +54,8 @@ I'm a developer from Brazil, digital nomad and passionate about programming. I'm
            margin-left: auto;
            margin-right: auto;
            width: 10%;"
-    src="https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Facebook" 
-    alt="My Portfolio">
+    src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=facebook" 
+    alt="Facebook">
 </img>
 </a>
 <a href="https://www.linkedin.com/in/braianmendes/">  
@@ -64,8 +64,8 @@ I'm a developer from Brazil, digital nomad and passionate about programming. I'm
            margin-left: auto;
            margin-right: auto;
            width: 10%;"
-    src="https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=LinkedIn" 
-    alt="My Portfolio">
+    src="https://img.shields.io/badge/-Linkedin-%230A66C2?style=for-the-badge&logo=linkedin" 
+    alt="Linkedin">
 </img>
 </a>
 </div>
