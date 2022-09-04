@@ -99,6 +99,8 @@ Some Statistics
 <!-- GitHub stats -->
 <b>⚡ My Github Statistics</b>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BraianMendes&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+
 <p>  
 <!-- GitHub Stats -->  
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BraianMendes&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
