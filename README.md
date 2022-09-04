@@ -110,7 +110,46 @@ Some Statistics
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-146%20hrs%2015%20mins-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    208 commits    █████░░░░░░░░░░░░░░░░░░░░   20.59% 
+🌆 Daytime    215 commits    █████░░░░░░░░░░░░░░░░░░░░   21.29% 
+🌃 Evening    265 commits    ██████░░░░░░░░░░░░░░░░░░░   26.24% 
+🌙 Night      322 commits    ████████░░░░░░░░░░░░░░░░░   31.88%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       240 commits    ██████░░░░░░░░░░░░░░░░░░░   23.76% 
+Tuesday      133 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.17% 
+Wednesday    73 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.23% 
+Thursday     229 commits    █████░░░░░░░░░░░░░░░░░░░░   22.67% 
+Friday       107 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.59% 
+Saturday     89 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.81% 
+Sunday       139 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.76%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
 
 **I Mostly Code in JavaScript** 
 
@@ -125,7 +164,7 @@ Ruby                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2022 15:40:24 UTC
+ Last Updated on 04/09/2022 15:42:30 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![Braian Mendes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BraianMendes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
