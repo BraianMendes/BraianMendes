@@ -55,7 +55,7 @@ I'm a developer from Brazil, digital nomad and passionate about programming. I'm
            margin-right: auto;
            width: 10%;"
     src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=facebook" 
-    alt="Facebook">
+    alt="Facebook">   
 </img>
 </a>
 <a href="https://www.linkedin.com/in/braianmendes/">  
