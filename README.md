@@ -271,11 +271,11 @@ Ruby                     3 repos             █░░░░░░░░░░�
       <a href="https://github.com/poldevelophardware">Paulo Rodrigues</a>  
     </td>  
     <td align="center">  
-      <a href="https://github.com/alvesa">  
-        <img src="https://avatars2.githubusercontent.com/u/29579436" width="100px;" alt="alvesa"/>  
+      <a href="https://github.com/walisom360">  
+        <img src="https://avatars2.githubusercontent.com/u/45033721" width="100px;" alt="walisom360"/>  
       </a>  
       <br />  
-      <a href="https://github.com/alvesa">Andre Alves</a>  
+      <a href="https://github.com/walisom360">walisonmatheus</a>  
     </td>  
   </tr>
 </table>
