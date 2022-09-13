@@ -220,20 +220,20 @@ Ruby                     3 repos             █░░░░░░░░░░�
       <a href="https://github.com/Rolemodel01291">Darren Lee</a>  
     </td>  
     <td align="center">  
-      <a href="https://github.com/BatuhanYilmazzz">  
-        <img src="https://avatars2.githubusercontent.com/u/54447779" width="100px;" alt="BatuhanYilmazzz"/>  
-      </a>  
-      <br />  
-      <a href="https://github.com/BatuhanYilmazzz">Ahmet Batuhan Yılmaz</a>  
-    </td>  
-  </tr>
-  <tr>
-    <td align="center">  
       <a href="https://github.com/zyy">  
         <img src="https://avatars2.githubusercontent.com/u/2232814" width="100px;" alt="zyy"/>  
       </a>  
       <br />  
       <a href="https://github.com/zyy">yycoder</a>  
+    </td>  
+  </tr>
+  <tr>
+    <td align="center">  
+      <a href="https://github.com/BatuhanYilmazzz">  
+        <img src="https://avatars2.githubusercontent.com/u/54447779" width="100px;" alt="BatuhanYilmazzz"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/BatuhanYilmazzz">Ahmet Batuhan Yılmaz</a>  
     </td>  
     <td align="center">  
       <a href="https://github.com/Oucema90">  
