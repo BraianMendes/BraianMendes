@@ -206,18 +206,18 @@ Ruby                     3 repos             █░░░░░░░░░░�
       <a href="https://github.com/gabrieldejesus">Gabriel de Jesus</a>  
     </td>  
     <td align="center">  
-      <a href="https://github.com/Rolemodel01291">  
-        <img src="https://avatars2.githubusercontent.com/u/84802341" width="100px;" alt="Rolemodel01291"/>  
-      </a>  
-      <br />  
-      <a href="https://github.com/Rolemodel01291">Darren Lee</a>  
-    </td>  
-    <td align="center">  
       <a href="https://github.com/misbot">  
         <img src="https://avatars2.githubusercontent.com/u/57812173" width="100px;" alt="misbot"/>  
       </a>  
       <br />  
       <a href="https://github.com/misbot">misbot</a>  
+    </td>  
+    <td align="center">  
+      <a href="https://github.com/Rolemodel01291">  
+        <img src="https://avatars2.githubusercontent.com/u/84802341" width="100px;" alt="Rolemodel01291"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/Rolemodel01291">Darren Lee</a>  
     </td>  
     <td align="center">  
       <a href="https://github.com/zyy">  
