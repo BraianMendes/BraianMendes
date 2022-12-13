@@ -196,7 +196,7 @@ Ruby                     3 repos             █░░░░░░░░░░�
         <img src="https://avatars2.githubusercontent.com/u/16249870" width="100px;" alt="renbooo"/>  
       </a>  
       <br />  
-      <a href="https://github.com/renbooo">未来</a>  
+      <a href="https://github.com/renbooo">水無月 MINAZUKI</a>  
     </td>  
     <td align="center">  
       <a href="https://github.com/gabrieldejesus">  
