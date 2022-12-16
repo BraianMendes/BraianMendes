@@ -220,21 +220,14 @@ Ruby                     3 repos             █░░░░░░░░░░�
       <a href="https://github.com/misbot">misbot</a>  
     </td>  
     <td align="center">  
-      <a href="https://github.com/zyy">  
-        <img src="https://avatars2.githubusercontent.com/u/2232814" width="100px;" alt="zyy"/>  
-      </a>  
-      <br />  
-      <a href="https://github.com/zyy">yycoder</a>  
-    </td>  
-  </tr>
-  <tr>
-    <td align="center">  
       <a href="https://github.com/BatuhanYilmazzz">  
         <img src="https://avatars2.githubusercontent.com/u/54447779" width="100px;" alt="BatuhanYilmazzz"/>  
       </a>  
       <br />  
       <a href="https://github.com/BatuhanYilmazzz">Ahmet Batuhan Yılmaz</a>  
     </td>  
+  </tr>
+  <tr>
     <td align="center">  
       <a href="https://github.com/Oucema90">  
         <img src="https://avatars2.githubusercontent.com/u/6604864" width="100px;" alt="Oucema90"/>  
@@ -276,6 +269,13 @@ Ruby                     3 repos             █░░░░░░░░░░�
       </a>  
       <br />  
       <a href="https://github.com/poldevelophardware">Paulo Rodrigues</a>  
+    </td>  
+    <td align="center">  
+      <a href="https://github.com/alvesa">  
+        <img src="https://avatars2.githubusercontent.com/u/29579436" width="100px;" alt="alvesa"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/alvesa">Andre Alves</a>  
     </td>  
   </tr>
 </table>
