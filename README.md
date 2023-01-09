@@ -178,13 +178,6 @@ Ruby                     3 repos             █░░░░░░░░░░�
 <table>
   <tr>
     <td align="center">  
-      <a href="https://github.com/AkshatRastogi-1nC0re">  
-        <img src="https://avatars2.githubusercontent.com/u/71638737" width="100px;" alt="AkshatRastogi-1nC0re"/>  
-      </a>  
-      <br />  
-      <a href="https://github.com/AkshatRastogi-1nC0re">AKSHAT RASTOGI</a>  
-    </td>  
-    <td align="center">  
       <a href="https://github.com/ahmnouira">  
         <img src="https://avatars2.githubusercontent.com/u/31603793" width="100px;" alt="ahmnouira"/>  
       </a>  
@@ -226,8 +219,6 @@ Ruby                     3 repos             █░░░░░░░░░░�
       <br />  
       <a href="https://github.com/BatuhanYilmazzz">Ahmet Batuhan Yılmaz</a>  
     </td>  
-  </tr>
-  <tr>
     <td align="center">  
       <a href="https://github.com/Oucema90">  
         <img src="https://avatars2.githubusercontent.com/u/6604864" width="100px;" alt="Oucema90"/>  
@@ -235,6 +226,8 @@ Ruby                     3 repos             █░░░░░░░░░░�
       <br />  
       <a href="https://github.com/Oucema90">Oucema Zitoun</a>  
     </td>  
+  </tr>
+  <tr>
     <td align="center">  
       <a href="https://github.com/viniciusfinger">  
         <img src="https://avatars2.githubusercontent.com/u/51798742" width="100px;" alt="viniciusfinger"/>  
@@ -276,6 +269,13 @@ Ruby                     3 repos             █░░░░░░░░░░�
       </a>  
       <br />  
       <a href="https://github.com/alvesa">Andre Alves</a>  
+    </td>  
+    <td align="center">  
+      <a href="https://github.com/themisska">  
+        <img src="https://avatars2.githubusercontent.com/u/85758424" width="100px;" alt="themisska"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/themisska">MissKatiann</a>  
     </td>  
   </tr>
 </table>
