@@ -199,6 +199,13 @@ Go                       2 repos             ░░░░░░░░░░░�
       <a href="https://github.com/gabrieldejesus">Gabriel de Jesus</a>  
     </td>  
     <td align="center">  
+      <a href="https://github.com/edglaz">  
+        <img src="https://avatars2.githubusercontent.com/u/48146403" width="100px;" alt="edglaz"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/edglaz">edglaz</a>  
+    </td>  
+    <td align="center">  
       <a href="https://github.com/Rolemodel01291">  
         <img src="https://avatars2.githubusercontent.com/u/84802341" width="100px;" alt="Rolemodel01291"/>  
       </a>  
@@ -219,6 +226,8 @@ Go                       2 repos             ░░░░░░░░░░░�
       <br />  
       <a href="https://github.com/BatuhanYilmazzz">Ahmet Batuhan Yılmaz</a>  
     </td>  
+  </tr>
+  <tr>
     <td align="center">  
       <a href="https://github.com/Oucema90">  
         <img src="https://avatars2.githubusercontent.com/u/6604864" width="100px;" alt="Oucema90"/>  
@@ -226,8 +235,6 @@ Go                       2 repos             ░░░░░░░░░░░�
       <br />  
       <a href="https://github.com/Oucema90">Oucema Zitoun</a>  
     </td>  
-  </tr>
-  <tr>
     <td align="center">  
       <a href="https://github.com/viniciusfinger">  
         <img src="https://avatars2.githubusercontent.com/u/51798742" width="100px;" alt="viniciusfinger"/>  
@@ -269,13 +276,6 @@ Go                       2 repos             ░░░░░░░░░░░�
       </a>  
       <br />  
       <a href="https://github.com/alvesa">Andre Alves</a>  
-    </td>  
-    <td align="center">  
-      <a href="https://github.com/themisska">  
-        <img src="https://avatars2.githubusercontent.com/u/85758424" width="100px;" alt="themisska"/>  
-      </a>  
-      <br />  
-      <a href="https://github.com/themisska">MissKatiann</a>  
     </td>  
   </tr>
 </table>
