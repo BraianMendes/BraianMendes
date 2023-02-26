@@ -27,49 +27,20 @@ I'm a developer from Brazil, digital nomad and passionate about programming. I'm
 <br/>
 
 	
-<div  align="center" style="display: flex;  align-items: center;  justify-content: center;" >
-<a href="https://api.whatsapp.com/send?phone=5537991512954">  
-<img 
-    style="display: block; 
-           margin-left: auto;
-           margin-right: auto;
-           width: 10%;"
-    src="https://img.shields.io/badge/-Hire%20me-blue?style=for-the-badge" 
-    alt="Hire me">
-</img>
-</a>
-<a href="https://www.instagram.com/braian.tech/">  
-<img 
-    style="display: block; 
-           margin-left: auto;
-           margin-right: auto;
-           width: 10%;"
-    src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram" 
-    alt="Instagram">
-</img>
-</a>
-<a href="https://www.facebook.com/braianmtech">  
-<img 
-    style="display: block; 
-           margin-left: auto;
-           margin-right: auto;
-           width: 10%;"
-    src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=facebook" 
-    alt="Facebook">   
-</img>
-</a>
-<a href="https://www.linkedin.com/in/braianmendes/">  
-<img 
-    style="display: block; 
-           margin-left: auto;
-           margin-right: auto;
-           width: 10%;"
-    src="https://img.shields.io/badge/-Linkedin-%230A66C2?style=for-the-badge&logo=linkedin" 
-    alt="Linkedin">
-</img>
-</a>
+<div align="center" style="display: flex; align-items: center; justify-content: center;">
+  <a href="https://api.whatsapp.com/send?phone=5537991512954">
+    <img style="display: block; margin: 0 10px; width: 10%;" src="https://img.shields.io/badge/-Hire%20me-blue?style=for-the-badge" alt="Hire me">
+  </a>
+  <a href="https://www.instagram.com/braian.tech/">
+    <img style="display: block; margin: 0 10px; width: 10%;" src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram" alt="Instagram">
+  </a>
+  <a href="https://www.facebook.com/braianmtech">
+    <img style="display: block; margin: 0 10px; width: 10%;" src="https://img.shields.io/badge/-Facebook-%231877F2?style=for-the-badge&logo=facebook" alt="Facebook">
+  </a>
+  <a href="https://www.linkedin.com/in/braianmendes/">
+    <img style="display: block; margin: 0 10px; width: 10%;" src="https://img.shields.io/badge/-Linkedin-%230A66C2?style=for-the-badge&logo=linkedin" alt="Linkedin">
+  </a>
 </div>
-
 <br/>
 
 <!-- SECTION 03: SUMMARY -->
