@@ -18,9 +18,15 @@
 
 <h2>About Me</h2>
 
-<!-- I truly believe in helping people with technology and code. <br><br> -->
-I'm a developer from Brazil, digital nomad and passionate about programming. I'm a full-stack developer focused on web and mobile. But I also work as an IoT, AI and Blockchain developer. I study in depth in these areas of work, and I have currently started higher education courses for cybersecurity and game development. I position myself as a digital solutions engineer not being tied to a language or technology, even though I have specialized in Javascript and Python technologies, but any challenge I will be willing to dedicate myself to studying, overcoming and creating amazing things. <br><br>
-<!-- It was a huge growth, I had incredible moments, and now I have a lot of friends that I carry as a family. -->
+I'm a dynamic and versatile digital nomad developer from Brazil with a strong passion for programming. My expertise lies in full-stack development, with a focus on web and mobile applications. However, I also excel in developing cutting-edge solutions using IoT, AI, and Blockchain technologies.
+
+In addition to my existing skill set, I'm always eager to expand my knowledge in the ever-evolving field of software engineering. Currently, I'm pursuing higher education courses in cybersecurity and game development to stay ahead of the curve.
+
+As a digital solutions engineer, I approach every project with a unique perspective and never limit myself to a specific language or technology. Although I have a deep understanding of Javascript and Python technologies, I'm always willing to take on new challenges, overcome hurdles, and create exceptional outcomes for my clients.
+
+With my vast experience in the engineering and architecture industry, I can offer innovative solutions that cater to my client's unique business needs. My expertise in the development and deployment of scalable, secure, and efficient applications is unmatched, ensuring that my clients receive only the best solutions.
+
+In summary, I'm a result-driven, adaptable, and resourceful developer who is always looking to push the boundaries of what's possible with technology. Whether it's building a cutting-edge web application or developing a revolutionary AI solution, I'm confident in my ability to deliver exceptional results that exceed my client's expectations.
 
 <div align="center"><b>Lets connect. I'll answer very quickly.</b></div>
 
