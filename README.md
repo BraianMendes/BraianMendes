@@ -6,7 +6,7 @@
 <div>
 <b>Hello there! Here you will see a little of me, a little of my history, projects, study notes, and how to call me for a chat.</b>
 <br/>
-
+  
 <h2>About Me</h2>
 
 I'm a dynamic and versatile digital nomad developer from Brazil with a strong passion for programming. My expertise lies in full-stack development, with a focus on web and mobile applications. However, I also excel in developing cutting-edge solutions using IoT, AI, and Blockchain technologies.
