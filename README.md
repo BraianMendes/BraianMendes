@@ -9,7 +9,7 @@
   
 <h2>About Me</h2>
 
-	
+I'm a software engineer and developer with a passion for coding since 2012. I specialize in web and mobile development, as well as artificial intelligence, IoT and blockchain projects. With a broad range of skills and experience, I have worked on projects ranging from small mobile apps to large-scale enterprise solutions. My expertise includes a variety of programming languages, frameworks, and tools. I'm always eager to learn and expand my knowledge to take on new challenges and create innovative solutions.
 	
 <div align="center"><b>Lets connect. I'll answer very quickly.</b></div>
 
