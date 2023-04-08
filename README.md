@@ -14,7 +14,6 @@ I'm a software engineer and developer with a passion for coding since 2012. I sp
 <div align="center"><b>Lets connect. I'll answer very quickly.</b></div>
 
 <br/>
-
 	
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
   <a href="https://api.whatsapp.com/send?phone=5537991512954">
