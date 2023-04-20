@@ -32,8 +32,6 @@ I'm a software engineer and developer with a passion for coding since 2012. I sp
   </a>
 </div>
 
-
-
 <!-- SECTION 03: SUMMARY -->
 
 <h2>Repository Summary</h2>
