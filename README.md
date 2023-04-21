@@ -45,9 +45,7 @@ I'm a software engineer and developer with a passion for coding since 2012. I sp
 
 <br/>
 <br/>
-
 ---
-
 <h2>
 Some Statistics
 </h2>
