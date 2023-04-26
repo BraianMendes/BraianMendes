@@ -49,8 +49,6 @@ I'm a software engineer and developer with a passion for coding since 2012. I sp
 Some Statistics
 </h2>
 
-
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-146%20hrs%2015%20mins-blue)
 
