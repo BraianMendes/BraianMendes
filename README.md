@@ -14,10 +14,6 @@
 6. [Achievements](#achievements)
 7. [Hobbies & Interests](#hobbies-interests)
 8. [Contact](#contact)
-  
-<h2>About Me</h2>
-
-I'm a software engineer and developer with a passion for coding since 2012. I specialize in web and mobile development, as well as artificial intelligence, IoT and blockchain projects. With a broad range of skills and experience, I have worked on projects ranging from small mobile apps to large-scale enterprise solutions. My expertise includes a variety of programming languages, frameworks, and tools. I'm always eager to learn and expand my knowledge to take on new challenges and create innovative solutions.
 
 ## Introduction
 Hello, I'm Braian Mendes 👋. I have been in the tech industry for over 8 years, specializing as a full-stack developer. My passion lies in creating robust, high-quality software solutions and optimizing systems for efficiency and performance. 💻🚀
