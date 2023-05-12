@@ -1,13 +1,12 @@
 <!-- SECTION 01: BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Braian%20Mendes&fontSize=70&fontAlignY=35&desc=Full-Stack%20Software%20Developer/Engineer&descAlignY=50" />
-     
-<!-- SECTION 02: Welcome Message -->
+     	
+## Table of Contents
 <div>
 <b>Hello there! Here you will see a little of me, a little of my history, projects, study notes, and how to call me for a chat.</b>
 <br/>
-	
-## Table of Contents
-1. [Introduction](#introduction)
+
+1. [About Me](#introduction)
 2. [Skills](#skills)
 3. [Experience](#experience)
 4. [Education](#education)
@@ -19,6 +18,19 @@
 <h2>About Me</h2>
 
 I'm a software engineer and developer with a passion for coding since 2012. I specialize in web and mobile development, as well as artificial intelligence, IoT and blockchain projects. With a broad range of skills and experience, I have worked on projects ranging from small mobile apps to large-scale enterprise solutions. My expertise includes a variety of programming languages, frameworks, and tools. I'm always eager to learn and expand my knowledge to take on new challenges and create innovative solutions.
+
+## Introduction
+Hello, I'm Braian Mendes 👋. I have been in the tech industry for over 8 years, specializing as a full-stack developer. My passion lies in creating robust, high-quality software solutions and optimizing systems for efficiency and performance. 💻🚀
+
+Throughout my career, I have had the privilege to contribute to a multitude of projects across diverse industries. Some highlights include my work as a developer for IoT projects for a GovTech, being one of the first jobs I could dedicate. Where I worked both on the backend and frontend, modeling the database, creating the codes for the business rules, and even the entire user interface. We were few developers, and I did everything. Including personally visiting factories and the places where the projects would be used to do requirements engineering. And several backend support projects with both Ruby on Rails and Javascript and Node.js, and still working with Kafka and RabbitMQ, taking care of test and quality engineering and also monitoring everything and following the results and improvements. These experiences have enriched my toolbox with a broad array of technologies, such as technologies in several languages, both for frontend, backend, software engineering in all your low-level applications, also for high-level architecture, and tools and deep learning from the first moment discussing requirements engineering and how it works in practice innovation , through to final delivery and ongoing monitoring, support, and post development. 🛠️
+
+In my pursuit of professional growth, I have earned certifications in create AI projects for MIT during the fight against the coronavirus. Additionally, I have had the honor of receiving awards in various competitions and hackathons in both AI, IoT and tech innovation which further testify to my commitment and proficiency in the tech sphere. 🎓🏆
+
+Being an active participant in the tech community, I frequently contribute to help other developers and colleagues in the area to grow their careers, have more access to new opportunities and help whenever they need it. I believe in the power of knowledge sharing and continual learning. 🌐
+
+Moreover, I have developed strong leadership skills and successfully led teams in of large startups in the capital of São Paulo in Brazil. I was in front of the engineering and architecture of the main projects of these startups, coding with colleagues and helping to have an ever better team, deliveries and work experiences. My focus as a leader is not only on the technical side of things but also on fostering a supportive and collaborative environment. 🙌
+
+I'm always on the lookout for new challenges and opportunities to grow. Feel free to connect if you'd like to collaborate or discuss the exciting world of technology. 📫
 	
 <div align="center"><b>Lets connect. I'll answer very quickly.</b></div>
 
