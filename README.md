@@ -5,6 +5,16 @@
 <div>
 <b>Hello there! Here you will see a little of me, a little of my history, projects, study notes, and how to call me for a chat.</b>
 <br/>
+	
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Skills](#skills)
+3. [Experience](#experience)
+4. [Education](#education)
+5. [Certifications](#certifications)
+6. [Achievements](#achievements)
+7. [Hobbies & Interests](#hobbies-interests)
+8. [Contact](#contact)
   
 <h2>About Me</h2>
 
