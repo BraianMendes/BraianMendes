@@ -6,14 +6,15 @@
 <b>Hello there! Here you will see a little of me, a little of my history, projects, study notes, and how to call me for a chat.</b>
 <br/>
 
-1. [About Me](#introduction)
+<!-- 1. [About Me](#introduction)
 2. [Skills](#skills)
 3. [Experience](#experience)
 4. [Education](#education)
 5. [Certifications](#certifications)
 6. [Achievements](#achievements)
 7. [Hobbies & Interests](#hobbies-interests)
-8. [Contact](#contact)
+8. [Contact](#contact) 
+-->
 
 ## Introduction
 Hello, I'm Braian Mendes 👋. I have been in the tech industry for over 8 years, specializing as a full-stack developer. My passion lies in creating robust, high-quality software solutions and optimizing systems for efficiency and performance. 💻🚀
@@ -28,7 +29,7 @@ Moreover, I have developed strong leadership skills and successfully led teams a
 
 I'm always on the lookout for new challenges and opportunities to grow. Feel free to connect if you'd like to collaborate or discuss the exciting world of technology. 📫
     
-	<div align="center"><b>Let's connect. I'll respond very quickly.</b></div>
+<div align="center"><b>Let's connect. I'll respond very quickly.</b></div>
 	
 <br/>
 	
@@ -62,7 +63,6 @@ I'm always on the lookout for new challenges and opportunities to grow. Feel fre
 
 <br/>
 <br/>
----
 <h2>
 Some Statistics
 </h2>
@@ -259,7 +259,7 @@ Want to know a little more? Some curiosities of mine:
 For more about my work and experiences, you can check out the following links:
 
 <!-- - **Personal Blog:** [Your Blog Name](URL) -->
-# - **Personal Website:** [My Website Portfolio](www.braian.tech)
+- **Personal Website:** [My Website Portfolio](www.braian.tech)
 <!-- # - **Dribbble:** [Your Dribbble Profile](URL) -->
 <!-- # - **Behance:** [Your Behance Profile](URL) -->
 <!-- # - **Medium:** [Your Medium Profile](URL) -->
