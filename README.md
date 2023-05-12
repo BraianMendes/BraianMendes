@@ -247,7 +247,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 Want to know a little more? Some curiosities of mine:
 </h4>
 
-:apple: Vegan Bodybuilder
+:apple: Bodybuilder
 
 :camping: Passionate World Traveler
 
@@ -258,6 +258,15 @@ Want to know a little more? Some curiosities of mine:
 <br>
 <em><b><p> I love connecting with different people from around the world, so if you want to be my friend, feel free to <a href="https://twitter.com/braian_dev">reach out and introduce yourself</a> and don’t just say hi, tell me about yourself. </p></b></em>
 <br>
+	
+## 🌐 Work Related Links
+For more about my work and experiences, you can check out the following links:
+
+# - **Personal Blog:** [Your Blog Name](URL)
+# - **Personal Website:** [My Website Portfolio](www.braian.tech)
+# - **Dribbble:** [Your Dribbble Profile](URL)
+# - **Behance:** [Your Behance Profile](URL)
+# - **Medium:** [Your Medium Profile](URL)
 
 <div  align="center" style="display: flex;  align-items: center;  justify-content: center;" >
 <img src="https://media.giphy.com/media/26FmQ6EOvLxp6cWyY/giphy.gif" style="margin: 0 auto" align="center">
