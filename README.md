@@ -28,11 +28,8 @@ Moreover, I have developed strong leadership skills and successfully led teams a
 
 I'm always on the lookout for new challenges and opportunities to grow. Feel free to connect if you'd like to collaborate or discuss the exciting world of technology. 📫
     
-<div align="center"><b>Let's connect. I'll respond very quickly.</b></div>
-
+	<div align="center"><b>Let's connect. I'll respond very quickly.</b></div>
 	
-<div align="center"><b>Lets connect. I'll answer very quickly.</b></div>
-
 <br/>
 	
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
