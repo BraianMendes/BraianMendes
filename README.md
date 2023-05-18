@@ -224,11 +224,11 @@ Lua                      1 repo              ░░░░░░░░░░░�
       <a href="https://github.com/poldevelophardware">Paulo Rodrigues</a>  
     </td>  
     <td align="center">  
-      <a href="https://github.com/themisska">  
-        <img src="https://avatars2.githubusercontent.com/u/85758424" width="100px;" alt="themisska"/>  
+      <a href="https://github.com/mrncstt">  
+        <img src="https://avatars2.githubusercontent.com/u/14565450" width="100px;" alt="mrncstt"/>  
       </a>  
       <br />  
-      <a href="https://github.com/themisska">MissKatiann</a>  
+      <a href="https://github.com/mrncstt">Mariana Costa</a>  
     </td>  
   </tr>
 </table>
