@@ -299,8 +299,3 @@ For more about my work and experiences, you can check out the following links:
 </img>
 </a>
 </div>
-
-
-
-
-
