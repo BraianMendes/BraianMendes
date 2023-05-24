@@ -5,7 +5,6 @@
 <div>
 <b>Hello there! Here you will see a little of me, a little of my history, projects, study notes, and how to call me for a chat.</b>
 <br/>
-
 	
 <!-- 1. [About Me](#introduction)
 2. [Skills](#skills)
