@@ -51,7 +51,6 @@ I'm always on the lookout for new challenges and opportunities to grow. Feel fre
 <!-- SECTION 03: SUMMARY -->
 
 <h2>Repository Summary</h2>
-
 <p>In this section you can browse the projects and repositories I've been working on, all of which are organized and easy to access. Just click and you will navigate to a page where you can see the specific projects more stratified.</p>
 <ol>
 	<li><a href="https://github.com/BraianMendes/BraianMendes/blob/master/summary/advanced.md">Advanced Portfolio</a></li>
