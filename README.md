@@ -209,18 +209,18 @@ Lua                      1 repo              ░░░░░░░░░░░�
       <a href="https://github.com/walisom360">walisonmatheus</a>  
     </td>  
     <td align="center">  
-      <a href="https://github.com/alvesa">  
-        <img src="https://avatars2.githubusercontent.com/u/29579436" width="100px;" alt="alvesa"/>  
-      </a>  
-      <br />  
-      <a href="https://github.com/alvesa">Andre Alves</a>  
-    </td>  
-    <td align="center">  
       <a href="https://github.com/poldevelophardware">  
         <img src="https://avatars2.githubusercontent.com/u/41173170" width="100px;" alt="poldevelophardware"/>  
       </a>  
       <br />  
       <a href="https://github.com/poldevelophardware">Paulo Rodrigues</a>  
+    </td>  
+    <td align="center">  
+      <a href="https://github.com/alvesa">  
+        <img src="https://avatars2.githubusercontent.com/u/29579436" width="100px;" alt="alvesa"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/alvesa">Andre Alves</a>  
     </td>  
     <td align="center">  
       <a href="https://github.com/mrncstt">  
