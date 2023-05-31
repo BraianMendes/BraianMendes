@@ -265,9 +265,7 @@ For more about my work and experiences, you can check out the following links:
 
 	
 <br>
-	
 <em><b><p> I love connecting with different people from around the world, so if you want to be my friend, feel free to <a href="https://twitter.com/braian_dev">reach out and introduce yourself</a> and don’t just say hi, tell me about yourself. </p></b></em>
-	
 <br>	
 	
 <div  align="center" style="display: flex;  align-items: center;  justify-content: center;" >
