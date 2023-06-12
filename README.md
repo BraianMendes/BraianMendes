@@ -46,7 +46,7 @@ I'm always on the lookout for new challenges and opportunities to grow. Feel fre
   <a href="https://www.linkedin.com/in/braianmendes/">
     <img style="display: block; margin: 0 10px; width: auto; height: 35px;" src="https://img.shields.io/badge/-Linkedin-%230A66C2?style=for-the-badge" alt="Linkedin">
   </a>
-</div>
+</div>  
 
 <!-- SECTION 03: SUMMARY -->
 
