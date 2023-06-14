@@ -17,7 +17,7 @@
 -->
 
 ## Introduction
-Hello, I'm Braian Mendes 👋. I have been in the tech industry for over 8 years, specializing as a full-stack developer. My passion lies in creating robust, high-quality software solutions and optimizing systems for efficiency and performance. 💻🚀
+Hello, I'm Braian Mendes 👋. I have been in the tech industry for over 8 years, specializing as a full-stack developer. My passion lies in creating robust, high-quality software solutions and optimizing systems for efficiency and performance. 💻🚀 
 
 Throughout my career, I've contributed to a multitude of projects across diverse industries. Some highlights include my work as a developer for IoT projects for GovTech, which was one of the first jobs I devoted myself to. There, I worked on both the backend and frontend, modeled the database, wrote the business rules, and even developed the entire user interface. We were a small team of developers, and I did it all. I even personally visited factories and the locations where the projects would be implemented to conduct requirements engineering. In addition, I've worked on several backend support projects using Ruby on Rails, Javascript, Node.js, Kafka, and RabbitMQ. I've handled test and quality engineering, monitored everything, and tracked results and improvements. These experiences have broadened my skillset, equipping me with a wide array of technologies and a deep understanding of software engineering, from low-level applications to high-level architecture, from initial requirements engineering to post-development support. 🛠️
 
