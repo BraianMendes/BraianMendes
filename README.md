@@ -299,3 +299,28 @@ For more about my work and experiences, you can check out the following links:
 </img>
 </a>
 </div>
+
+<!-- Notes
+
+Engenheiro de software apaixonado por inovação. Foco em desenvolvimento web e mobile. Também desenvolvedor de IA, IoT e Blockchain. Codando desde 2012. Desde então tenho dedicado todo o meu tempo a constante aprendizado e evolução. Atualmente iniciei cursos superiores de cibersegurança e desenvolvimento de blockchain. Eu me posiciono como um engenheiro de soluções digitais não preso a uma
+linguagem ou tecnologia. Um apaixonado por inovação e impacto através de novas tecnologias, vivo para isso e respiro o dia inteiro, todos os dias, em todas semanas do ano. 
+
+Onde pode conhecer meu portfólio
+* Github: https://github.com/BraianMendes
+* Site pessoal: www.braian.tech
+
+Outras plataformas onde pode me encontrar e conhecer meu trabalho
+* HackerRank: https://www.hackerrank.com/BraianMendes
+* Leetcode: https://leetcode.com/BraianMendes/
+* Topcoder: https://www.topcoder.com/members/BraianMendes
+* HackerEarth: https://www.hackerearth.com/@00.braian.dev
+* GeeksForGeeks: https://auth.geeksforgeeks.org/user/00braiandev/
+* Codewars: https://www.codewars.com/users/BraianMendes
+* Coderbyte: https://coderbyte.com/profile/BraianMendes
+* Codesignal: https://app.codesignal.com/profile/braianmendes
+* CodeChef: https://www.codechef.com/users/braianmendes
+* Codersrank: https://profile.codersrank.io/user/braianmendes
+
+Saving the world one algorith at a time!
+
+-->
