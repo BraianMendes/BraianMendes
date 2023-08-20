@@ -17,17 +17,9 @@
 -->
 
 ## Introduction
-Hello, I'm Braian Mendes 👋. I have been in the tech industry for over 8 years, specializing as a full-stack developer. My passion lies in creating robust, high-quality software solutions and optimizing systems for efficiency and performance. 💻🚀 
+Hello, I'm Braian Mendes 👋! Since 2012, I've been navigating the intricate realms of software development, weaving my journey from the depths of IoT projects for GovTech to being at the forefront of startups in São Paulo, Brazil 🌆💻. My adventures aren't just technical; they're stories of collaboration, leadership, and an undying commitment to excellence. 🚀🛠️
 
-Throughout my career, I've contributed to a multitude of projects across diverse industries. Some highlights include my work as a developer for IoT projects for GovTech, which was one of the first jobs I devoted myself to. There, I worked on both the backend and frontend, modeled the database, wrote the business rules, and even developed the entire user interface. We were a small team of developers, and I did it all. I even personally visited factories and the locations where the projects would be implemented to conduct requirements engineering. In addition, I've worked on several backend support projects using Ruby on Rails, Javascript, Node.js, Kafka, and RabbitMQ. I've handled test and quality engineering, monitored everything, and tracked results and improvements. These experiences have broadened my skillset, equipping me with a wide array of technologies and a deep understanding of software engineering, from low-level applications to high-level architecture, from initial requirements engineering to post-development support. 🛠️
-
-In my pursuit of professional growth, I have earned certifications in creating AI projects for MIT during the fight against the coronavirus. Additionally, I have had the honor of receiving awards in various competitions and hackathons in AI, IoT, and tech innovation, which further testify to my commitment and proficiency in the tech sphere. 🎓🏆
-
-As an active participant in the tech community, I frequently contribute to helping other developers and colleagues grow their careers, access new opportunities, and provide help when they need it. I believe in the power of knowledge sharing and continual learning. 🌐
-
-Moreover, I have developed strong leadership skills and successfully led teams at large startups in the capital of São Paulo in Brazil. I was at the forefront of the engineering and architecture of the startups' main projects, coding with colleagues and striving to constantly improve our team, deliveries, and work experiences. My focus as a leader is not only on the technical side of things, but also on fostering a supportive and collaborative environment. 🙌
-
-I'm always on the lookout for new challenges and opportunities to grow. Feel free to connect if you'd like to collaborate or discuss the exciting world of technology. 📫
+Whether it's through my AI initiatives during the COVID-19 crisis with MIT or my active participation in aiding fellow developers, my belief in continuous learning and sharing remains unwavering 🎓🌐. If you share my passion for innovation and growth or are just curious about the tech world, let's connect! 📫🙌
     
 <div align="center"><b>Let's connect. I'll respond very quickly.</b></div>
 	
