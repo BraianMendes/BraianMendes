@@ -29,7 +29,7 @@ Whether it's through my AI initiatives during the COVID-19 crisis with MIT or my
   <a href="https://api.whatsapp.com/send?phone=5537991512954">
     <img style="display: block; margin: 0 10px; width: auto; height: 35px;" src="https://img.shields.io/badge/-Hire%20me-blue?style=for-the-badge" alt="Hire me">
   </a>
-  <a href="https://www.instagram.com/braian.tech/">
+  <a href="https://www.instagram.com/uaibraian/">
     <img style="display: block; margin: 0 10px; width: auto; height: 35px;" src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge" alt="Instagram">
   </a>
   <a href="https://www.facebook.com/braianmtech">
