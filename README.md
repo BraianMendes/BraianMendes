@@ -143,13 +143,6 @@ Lua                      1 repo              ░░░░░░░░░░░�
       <a href="https://github.com/Rolemodel01291">Darren Lee</a>  
     </td>  
     <td align="center">  
-      <a href="https://github.com/georgeguimaraes">  
-        <img src="https://avatars2.githubusercontent.com/u/2929" width="100px;" alt="georgeguimaraes"/>  
-      </a>  
-      <br />  
-      <a href="https://github.com/georgeguimaraes">George Guimarães</a>  
-    </td>  
-    <td align="center">  
       <a href="https://github.com/misbot">  
         <img src="https://avatars2.githubusercontent.com/u/57812173" width="100px;" alt="misbot"/>  
       </a>  
@@ -170,8 +163,6 @@ Lua                      1 repo              ░░░░░░░░░░░�
       <br />  
       <a href="https://github.com/BatuhanYilmazzz">Ahmet Batuhan Yılmaz</a>  
     </td>  
-  </tr>
-  <tr>
     <td align="center">  
       <a href="https://github.com/viniciusfinger">  
         <img src="https://avatars2.githubusercontent.com/u/51798742" width="100px;" alt="viniciusfinger"/>  
@@ -179,6 +170,8 @@ Lua                      1 repo              ░░░░░░░░░░░�
       <br />  
       <a href="https://github.com/viniciusfinger">Vinicius Finger</a>  
     </td>  
+  </tr>
+  <tr>
     <td align="center">  
       <a href="https://github.com/Henrique523">  
         <img src="https://avatars2.githubusercontent.com/u/60272764" width="100px;" alt="Henrique523"/>  
@@ -187,18 +180,18 @@ Lua                      1 repo              ░░░░░░░░░░░�
       <a href="https://github.com/Henrique523">Guilherme Henrique Lemes de Godoy</a>  
     </td>  
     <td align="center">  
-      <a href="https://github.com/walisom360">  
-        <img src="https://avatars2.githubusercontent.com/u/45033721" width="100px;" alt="walisom360"/>  
-      </a>  
-      <br />  
-      <a href="https://github.com/walisom360">walisonmatheus</a>  
-    </td>  
-    <td align="center">  
       <a href="https://github.com/VamoCodar">  
         <img src="https://avatars2.githubusercontent.com/u/51723157" width="100px;" alt="VamoCodar"/>  
       </a>  
       <br />  
       <a href="https://github.com/VamoCodar">Adriano P</a>  
+    </td>  
+    <td align="center">  
+      <a href="https://github.com/walisom360">  
+        <img src="https://avatars2.githubusercontent.com/u/45033721" width="100px;" alt="walisom360"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/walisom360">walisonmatheus</a>  
     </td>  
     <td align="center">  
       <a href="https://github.com/develophardware">  
@@ -220,6 +213,13 @@ Lua                      1 repo              ░░░░░░░░░░░�
       </a>  
       <br />  
       <a href="https://github.com/themisska">MissKatiann</a>  
+    </td>  
+    <td align="center">  
+      <a href="https://github.com/mrncstt">  
+        <img src="https://avatars2.githubusercontent.com/u/14565450" width="100px;" alt="mrncstt"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/mrncstt">Mariana Costa</a>  
     </td>  
   </tr>
 </table>
