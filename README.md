@@ -59,44 +59,6 @@ Some Statistics
 </h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-146%20hrs%2015%20mins-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                16836 commits       ███████░░░░░░░░░░░░░░░░░░   27.65 % 
-🌆 Daytime                22890 commits       █████████░░░░░░░░░░░░░░░░   37.59 % 
-🌃 Evening                13253 commits       █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
-🌙 Night                  7907 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   16768 commits       ███████░░░░░░░░░░░░░░░░░░   27.54 % 
-Tuesday                  5507 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
-Wednesday                9864 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
-Thursday                 15448 commits       ██████░░░░░░░░░░░░░░░░░░░   25.37 % 
-Friday                   4606 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-Saturday                 5045 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-Sunday                   3648 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -110,7 +72,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/12/2023 19:56:28 UTC
+ Last Updated on 06/12/2023 18:55:57 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![Braian Mendes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BraianMendes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
