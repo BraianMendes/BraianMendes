@@ -215,11 +215,11 @@ Lua                      1 repo              ░░░░░░░░░░░�
       <a href="https://github.com/mrncstt">Mariana Costa</a>  
     </td>  
     <td align="center">  
-      <a href="https://github.com/themisska">  
-        <img src="https://avatars2.githubusercontent.com/u/85758424" width="100px;" alt="themisska"/>  
+      <a href="https://github.com/MarlonJerold">  
+        <img src="https://avatars2.githubusercontent.com/u/63025001" width="100px;" alt="MarlonJerold"/>  
       </a>  
       <br />  
-      <a href="https://github.com/themisska">MissKatiann</a>  
+      <a href="https://github.com/MarlonJerold">Marlon Jerold Moura Martins</a>  
     </td>  
   </tr>
 </table>
