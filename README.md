@@ -208,18 +208,18 @@ Lua                      1 repo              ░░░░░░░░░░░�
       <a href="https://github.com/alvesa">Andre Alves</a>  
     </td>  
     <td align="center">  
-      <a href="https://github.com/mrncstt">  
-        <img src="https://avatars2.githubusercontent.com/u/14565450" width="100px;" alt="mrncstt"/>  
-      </a>  
-      <br />  
-      <a href="https://github.com/mrncstt">Mariana Costa</a>  
-    </td>  
-    <td align="center">  
       <a href="https://github.com/MarlonJerold">  
         <img src="https://avatars2.githubusercontent.com/u/63025001" width="100px;" alt="MarlonJerold"/>  
       </a>  
       <br />  
       <a href="https://github.com/MarlonJerold">Marlon Jerold Moura Martins</a>  
+    </td>  
+    <td align="center">  
+      <a href="https://github.com/mrncstt">  
+        <img src="https://avatars2.githubusercontent.com/u/14565450" width="100px;" alt="mrncstt"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/mrncstt">Mariana Costa</a>  
     </td>  
   </tr>
 </table>
