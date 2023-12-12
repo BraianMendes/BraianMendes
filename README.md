@@ -194,18 +194,18 @@ Lua                      1 repo              ░░░░░░░░░░░�
       <a href="https://github.com/walisom360">walisonmatheus</a>  
     </td>  
     <td align="center">  
-      <a href="https://github.com/develophardware">  
-        <img src="https://avatars2.githubusercontent.com/u/41173170" width="100px;" alt="develophardware"/>  
-      </a>  
-      <br />  
-      <a href="https://github.com/develophardware">Paulo Rodrigues</a>  
-    </td>  
-    <td align="center">  
       <a href="https://github.com/MarlonJerold">  
         <img src="https://avatars2.githubusercontent.com/u/63025001" width="100px;" alt="MarlonJerold"/>  
       </a>  
       <br />  
       <a href="https://github.com/MarlonJerold">Marlon Jerold Moura Martins</a>  
+    </td>  
+    <td align="center">  
+      <a href="https://github.com/develophardware">  
+        <img src="https://avatars2.githubusercontent.com/u/41173170" width="100px;" alt="develophardware"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/develophardware">Paulo Rodrigues</a>  
     </td>  
     <td align="center">  
       <a href="https://github.com/alvesa">  
