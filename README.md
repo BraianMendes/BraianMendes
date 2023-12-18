@@ -140,7 +140,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
         <img src="https://avatars2.githubusercontent.com/u/84802341" width="100px;" alt="Rolemodel01291"/>  
       </a>  
       <br />  
-      <a href="https://github.com/Rolemodel01291">Darren Lee</a>  
+      <a href="https://github.com/Rolemodel01291">Ramon Carrion</a>  
     </td>  
     <td align="center">  
       <a href="https://github.com/misbot">  
@@ -180,6 +180,13 @@ Lua                      1 repo              ░░░░░░░░░░░�
       <a href="https://github.com/Henrique523">Guilherme Henrique Lemes de Godoy</a>  
     </td>  
     <td align="center">  
+      <a href="https://github.com/MarlonJerold">  
+        <img src="https://avatars2.githubusercontent.com/u/63025001" width="100px;" alt="MarlonJerold"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/MarlonJerold">Marlon Jerold Moura Martins</a>  
+    </td>  
+    <td align="center">  
       <a href="https://github.com/VamoCodar">  
         <img src="https://avatars2.githubusercontent.com/u/51723157" width="100px;" alt="VamoCodar"/>  
       </a>  
@@ -192,13 +199,6 @@ Lua                      1 repo              ░░░░░░░░░░░�
       </a>  
       <br />  
       <a href="https://github.com/walisom360">walisonmatheus</a>  
-    </td>  
-    <td align="center">  
-      <a href="https://github.com/MarlonJerold">  
-        <img src="https://avatars2.githubusercontent.com/u/63025001" width="100px;" alt="MarlonJerold"/>  
-      </a>  
-      <br />  
-      <a href="https://github.com/MarlonJerold">Marlon Jerold Moura Martins</a>  
     </td>  
     <td align="center">  
       <a href="https://github.com/develophardware">  
