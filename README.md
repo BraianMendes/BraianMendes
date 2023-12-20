@@ -171,18 +171,18 @@ Lua                      1 repo              ░░░░░░░░░░░�
   </tr>
   <tr>
     <td align="center">  
-      <a href="https://github.com/Henrique523">  
-        <img src="https://avatars2.githubusercontent.com/u/60272764" width="100px;" alt="Henrique523"/>  
-      </a>  
-      <br />  
-      <a href="https://github.com/Henrique523">Guilherme Henrique Lemes de Godoy</a>  
-    </td>  
-    <td align="center">  
       <a href="https://github.com/MarlonJerold">  
         <img src="https://avatars2.githubusercontent.com/u/63025001" width="100px;" alt="MarlonJerold"/>  
       </a>  
       <br />  
       <a href="https://github.com/MarlonJerold">Marlon Jerold Moura Martins</a>  
+    </td>  
+    <td align="center">  
+      <a href="https://github.com/Henrique523">  
+        <img src="https://avatars2.githubusercontent.com/u/60272764" width="100px;" alt="Henrique523"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/Henrique523">Guilherme Henrique Lemes de Godoy</a>  
     </td>  
     <td align="center">  
       <a href="https://github.com/VamoCodar">  
