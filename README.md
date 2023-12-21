@@ -180,13 +180,6 @@ Lua                      1 repo              ░░░░░░░░░░░�
       <a href="https://github.com/MarlonJerold">Marlon Jerold Moura Martins</a>  
     </td>  
     <td align="center">  
-      <a href="https://github.com/Henrique523">  
-        <img src="https://avatars2.githubusercontent.com/u/60272764" width="100px;" alt="Henrique523"/>  
-      </a>  
-      <br />  
-      <a href="https://github.com/Henrique523">Guilherme Henrique Lemes de Godoy</a>  
-    </td>  
-    <td align="center">  
       <a href="https://github.com/VamoCodar">  
         <img src="https://avatars2.githubusercontent.com/u/51723157" width="100px;" alt="VamoCodar"/>  
       </a>  
@@ -220,6 +213,13 @@ Lua                      1 repo              ░░░░░░░░░░░�
       </a>  
       <br />  
       <a href="https://github.com/mrncstt">Mariana Costa</a>  
+    </td>  
+    <td align="center">  
+      <a href="https://github.com/themisska">  
+        <img src="https://avatars2.githubusercontent.com/u/85758424" width="100px;" alt="themisska"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/themisska">MissKatiann</a>  
     </td>  
   </tr>
 </table>
