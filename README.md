@@ -180,18 +180,18 @@ Lua                      1 repo              ░░░░░░░░░░░�
       <a href="https://github.com/MarlonJerold">Marlon Jerold Moura Martins</a>  
     </td>  
     <td align="center">  
-      <a href="https://github.com/walisom360">  
-        <img src="https://avatars2.githubusercontent.com/u/45033721" width="100px;" alt="walisom360"/>  
-      </a>  
-      <br />  
-      <a href="https://github.com/walisom360">walisonmatheus</a>  
-    </td>  
-    <td align="center">  
       <a href="https://github.com/VamoCodar">  
         <img src="https://avatars2.githubusercontent.com/u/51723157" width="100px;" alt="VamoCodar"/>  
       </a>  
       <br />  
       <a href="https://github.com/VamoCodar">Adriano P</a>  
+    </td>  
+    <td align="center">  
+      <a href="https://github.com/walisom360">  
+        <img src="https://avatars2.githubusercontent.com/u/45033721" width="100px;" alt="walisom360"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/walisom360">walisonmatheus</a>  
     </td>  
     <td align="center">  
       <a href="https://github.com/develophardware">  
