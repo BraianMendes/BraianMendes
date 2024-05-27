@@ -194,6 +194,13 @@ Lua                      1 repo              ░░░░░░░░░░░�
       <a href="https://github.com/walisom360">walisonmatheus</a>  
     </td>  
     <td align="center">  
+      <a href="https://github.com/GylanSalih">  
+        <img src="https://avatars2.githubusercontent.com/u/129703706" width="100px;" alt="GylanSalih"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/GylanSalih">Gylan</a>  
+    </td>  
+    <td align="center">  
       <a href="https://github.com/develophardware">  
         <img src="https://avatars2.githubusercontent.com/u/41173170" width="100px;" alt="develophardware"/>  
       </a>  
@@ -213,13 +220,6 @@ Lua                      1 repo              ░░░░░░░░░░░�
       </a>  
       <br />  
       <a href="https://github.com/themisska">MissKatiann</a>  
-    </td>  
-    <td align="center">  
-      <a href="https://github.com/mrncstt">  
-        <img src="https://avatars2.githubusercontent.com/u/14565450" width="100px;" alt="mrncstt"/>  
-      </a>  
-      <br />  
-      <a href="https://github.com/mrncstt">Mariana Costa</a>  
     </td>  
   </tr>
 </table>
