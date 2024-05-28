@@ -173,18 +173,18 @@ Lua                      1 repo              ░░░░░░░░░░░�
   </tr>
   <tr>
     <td align="center">  
-      <a href="https://github.com/MarlonJerold">  
-        <img src="https://avatars2.githubusercontent.com/u/63025001" width="100px;" alt="MarlonJerold"/>  
-      </a>  
-      <br />  
-      <a href="https://github.com/MarlonJerold">Marlon Jerold Moura Martins</a>  
-    </td>  
-    <td align="center">  
       <a href="https://github.com/GylanSalih">  
         <img src="https://avatars2.githubusercontent.com/u/129703706" width="100px;" alt="GylanSalih"/>  
       </a>  
       <br />  
       <a href="https://github.com/GylanSalih">Gylan</a>  
+    </td>  
+    <td align="center">  
+      <a href="https://github.com/MarlonJerold">  
+        <img src="https://avatars2.githubusercontent.com/u/63025001" width="100px;" alt="MarlonJerold"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/MarlonJerold">Marlon Jerold Moura Martins</a>  
     </td>  
     <td align="center">  
       <a href="https://github.com/VamoCodar">  
