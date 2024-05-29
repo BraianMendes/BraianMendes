@@ -164,20 +164,20 @@ Lua                      1 repo              ░░░░░░░░░░░�
       <a href="https://github.com/BatuhanYilmazzz">Ahmet Batuhan Yılmaz</a>  
     </td>  
     <td align="center">  
-      <a href="https://github.com/viniciusfinger">  
-        <img src="https://avatars2.githubusercontent.com/u/51798742" width="100px;" alt="viniciusfinger"/>  
-      </a>  
-      <br />  
-      <a href="https://github.com/viniciusfinger">Vinicius Finger</a>  
-    </td>  
-  </tr>
-  <tr>
-    <td align="center">  
       <a href="https://github.com/GylanSalih">  
         <img src="https://avatars2.githubusercontent.com/u/129703706" width="100px;" alt="GylanSalih"/>  
       </a>  
       <br />  
       <a href="https://github.com/GylanSalih">Gylan</a>  
+    </td>  
+  </tr>
+  <tr>
+    <td align="center">  
+      <a href="https://github.com/viniciusfinger">  
+        <img src="https://avatars2.githubusercontent.com/u/51798742" width="100px;" alt="viniciusfinger"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/viniciusfinger">Vinicius Finger</a>  
     </td>  
     <td align="center">  
       <a href="https://github.com/MarlonJerold">  
