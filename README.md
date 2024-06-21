@@ -164,20 +164,20 @@ Java                     2 repos             █░░░░░░░░░░�
       <a href="https://github.com/Oucema90">Oucema Zitoun</a>  
     </td>  
     <td align="center">  
-      <a href="https://github.com/BatuhanYilmazzz">  
-        <img src="https://avatars2.githubusercontent.com/u/54447779" width="100px;" alt="BatuhanYilmazzz"/>  
-      </a>  
-      <br />  
-      <a href="https://github.com/BatuhanYilmazzz">Ahmet Batuhan Yılmaz</a>  
-    </td>  
-  </tr>
-  <tr>
-    <td align="center">  
       <a href="https://github.com/viniciusfinger">  
         <img src="https://avatars2.githubusercontent.com/u/51798742" width="100px;" alt="viniciusfinger"/>  
       </a>  
       <br />  
       <a href="https://github.com/viniciusfinger">Vinicius Finger</a>  
+    </td>  
+  </tr>
+  <tr>
+    <td align="center">  
+      <a href="https://github.com/BatuhanYilmazzz">  
+        <img src="https://avatars2.githubusercontent.com/u/54447779" width="100px;" alt="BatuhanYilmazzz"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/BatuhanYilmazzz">Ahmet Batuhan Yılmaz</a>  
     </td>  
     <td align="center">  
       <a href="https://github.com/MarlonJerold">  
