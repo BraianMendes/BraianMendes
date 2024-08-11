@@ -150,13 +150,6 @@ Java                     2 repos             █░░░░░░░░░░�
       <a href="https://github.com/misbot">misbot</a>  
     </td>  
     <td align="center">  
-      <a href="https://github.com/GylanSalih">  
-        <img src="https://avatars2.githubusercontent.com/u/129703706" width="100px;" alt="GylanSalih"/>  
-      </a>  
-      <br />  
-      <a href="https://github.com/GylanSalih">Gylan Salih</a>  
-    </td>  
-    <td align="center">  
       <a href="https://github.com/viniciusfinger">  
         <img src="https://avatars2.githubusercontent.com/u/51798742" width="100px;" alt="viniciusfinger"/>  
       </a>  
@@ -170,8 +163,6 @@ Java                     2 repos             █░░░░░░░░░░�
       <br />  
       <a href="https://github.com/Oucema90">Oucema Zitoun</a>  
     </td>  
-  </tr>
-  <tr>
     <td align="center">  
       <a href="https://github.com/BatuhanYilmazzz">  
         <img src="https://avatars2.githubusercontent.com/u/54447779" width="100px;" alt="BatuhanYilmazzz"/>  
@@ -179,6 +170,8 @@ Java                     2 repos             █░░░░░░░░░░�
       <br />  
       <a href="https://github.com/BatuhanYilmazzz">Ahmet Batuhan Yılmaz</a>  
     </td>  
+  </tr>
+  <tr>
     <td align="center">  
       <a href="https://github.com/MarlonJerold">  
         <img src="https://avatars2.githubusercontent.com/u/63025001" width="100px;" alt="MarlonJerold"/>  
@@ -220,6 +213,13 @@ Java                     2 repos             █░░░░░░░░░░�
       </a>  
       <br />  
       <a href="https://github.com/mrncstt">Mariana Costa</a>  
+    </td>  
+    <td align="center">  
+      <a href="https://github.com/alvesa">  
+        <img src="https://avatars2.githubusercontent.com/u/29579436" width="100px;" alt="alvesa"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/alvesa">Andre Alves</a>  
     </td>  
   </tr>
 </table>
