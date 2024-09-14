@@ -215,11 +215,11 @@ Java                     2 repos             █░░░░░░░░░░�
       <a href="https://github.com/mrncstt">Mariana Costa</a>  
     </td>  
     <td align="center">  
-      <a href="https://github.com/alvesa">  
-        <img src="https://avatars2.githubusercontent.com/u/29579436" width="100px;" alt="alvesa"/>  
+      <a href="https://github.com/diegojunio">  
+        <img src="https://avatars2.githubusercontent.com/u/18354403" width="100px;" alt="diegojunio"/>  
       </a>  
       <br />  
-      <a href="https://github.com/alvesa">Andre Alves</a>  
+      <a href="https://github.com/diegojunio">Diego Junio</a>  
     </td>  
   </tr>
 </table>
