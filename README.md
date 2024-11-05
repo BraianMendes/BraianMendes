@@ -120,6 +120,20 @@ Dockerfile               2 repos             █░░░░░░░░░░�
 <table>
   <tr>
     <td align="center">  
+      <a href="https://github.com/idimetrix">  
+        <img src="https://avatars2.githubusercontent.com/u/6536323" width="100px;" alt="idimetrix"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/idimetrix">Dmitry Selikhov</a>  
+    </td>  
+    <td align="center">  
+      <a href="https://github.com/flaviopavim">  
+        <img src="https://avatars2.githubusercontent.com/u/15269375" width="100px;" alt="flaviopavim"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/flaviopavim">Flávio Pavim</a>  
+    </td>  
+    <td align="center">  
       <a href="https://github.com/ahmnouira">  
         <img src="https://avatars2.githubusercontent.com/u/31603793" width="100px;" alt="ahmnouira"/>  
       </a>  
@@ -154,6 +168,8 @@ Dockerfile               2 repos             █░░░░░░░░░░�
       <br />  
       <a href="https://github.com/viniciusfinger">Vinicius Finger</a>  
     </td>  
+  </tr>
+  <tr>
     <td align="center">  
       <a href="https://github.com/Oucema90">  
         <img src="https://avatars2.githubusercontent.com/u/6604864" width="100px;" alt="Oucema90"/>  
@@ -168,8 +184,6 @@ Dockerfile               2 repos             █░░░░░░░░░░�
       <br />  
       <a href="https://github.com/BatuhanYilmazzz">Ahmet Batuhan Yılmaz</a>  
     </td>  
-  </tr>
-  <tr>
     <td align="center">  
       <a href="https://github.com/MarlonJerold">  
         <img src="https://avatars2.githubusercontent.com/u/63025001" width="100px;" alt="MarlonJerold"/>  
@@ -204,20 +218,6 @@ Dockerfile               2 repos             █░░░░░░░░░░�
       </a>  
       <br />  
       <a href="https://github.com/mrncstt">Mariana Costa</a>  
-    </td>  
-    <td align="center">  
-      <a href="https://github.com/develophardware">  
-        <img src="https://avatars2.githubusercontent.com/u/41173170" width="100px;" alt="develophardware"/>  
-      </a>  
-      <br />  
-      <a href="https://github.com/develophardware">Paulo Rodrigues</a>  
-    </td>  
-    <td align="center">  
-      <a href="https://github.com/themisska">  
-        <img src="https://avatars2.githubusercontent.com/u/85758424" width="100px;" alt="themisska"/>  
-      </a>  
-      <br />  
-      <a href="https://github.com/themisska">MissKatiann</a>  
     </td>  
   </tr>
 </table>
