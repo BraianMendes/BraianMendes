@@ -187,13 +187,6 @@ Dockerfile               2 repos             █░░░░░░░░░░�
       <a href="https://github.com/BatuhanYilmazzz">Ahmet Batuhan Yılmaz</a>  
     </td>  
     <td align="center">  
-      <a href="https://github.com/thegithubmenace">  
-        <img src="https://avatars2.githubusercontent.com/u/154518541" width="100px;" alt="thegithubmenace"/>  
-      </a>  
-      <br />  
-      <a href="https://github.com/thegithubmenace">thegithubmenace</a>  
-    </td>  
-    <td align="center">  
       <a href="https://github.com/MarlonJerold">  
         <img src="https://avatars2.githubusercontent.com/u/63025001" width="100px;" alt="MarlonJerold"/>  
       </a>  
@@ -220,6 +213,13 @@ Dockerfile               2 repos             █░░░░░░░░░░�
       </a>  
       <br />  
       <a href="https://github.com/diegojunio">Diego Junio</a>  
+    </td>  
+    <td align="center">  
+      <a href="https://github.com/develophardware">  
+        <img src="https://avatars2.githubusercontent.com/u/41173170" width="100px;" alt="develophardware"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/develophardware">Paulo Rodrigues</a>  
     </td>  
   </tr>
 </table>
