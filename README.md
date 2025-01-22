@@ -215,11 +215,11 @@ Dockerfile               2 repos             █░░░░░░░░░░�
       <a href="https://github.com/diegojunio">Diego Junio</a>  
     </td>  
     <td align="center">  
-      <a href="https://github.com/themisska">  
-        <img src="https://avatars2.githubusercontent.com/u/85758424" width="100px;" alt="themisska"/>  
+      <a href="https://github.com/develophardware">  
+        <img src="https://avatars2.githubusercontent.com/u/41173170" width="100px;" alt="develophardware"/>  
       </a>  
       <br />  
-      <a href="https://github.com/themisska">MissKatiann</a>  
+      <a href="https://github.com/develophardware">Paulo Rodrigues</a>  
     </td>  
   </tr>
 </table>
