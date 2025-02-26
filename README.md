@@ -136,13 +136,6 @@ Dockerfile               2 repos             █░░░░░░░░░░�
       <a href="https://github.com/idimetrix">Dmitry Selikhov</a>  
     </td>  
     <td align="center">  
-      <a href="https://github.com/XiaomingX">  
-        <img src="https://avatars2.githubusercontent.com/u/5387930" width="100px;" alt="XiaomingX"/>  
-      </a>  
-      <br />  
-      <a href="https://github.com/XiaomingX">Y11</a>  
-    </td>  
-    <td align="center">  
       <a href="https://github.com/ahmnouira">  
         <img src="https://avatars2.githubusercontent.com/u/31603793" width="100px;" alt="ahmnouira"/>  
       </a>  
@@ -170,8 +163,6 @@ Dockerfile               2 repos             █░░░░░░░░░░�
       <br />  
       <a href="https://github.com/misbot">misbot</a>  
     </td>  
-  </tr>
-  <tr>
     <td align="center">  
       <a href="https://github.com/viniciusfinger">  
         <img src="https://avatars2.githubusercontent.com/u/51798742" width="100px;" alt="viniciusfinger"/>  
@@ -179,6 +170,8 @@ Dockerfile               2 repos             █░░░░░░░░░░�
       <br />  
       <a href="https://github.com/viniciusfinger">Vinicius Finger</a>  
     </td>  
+  </tr>
+  <tr>
     <td align="center">  
       <a href="https://github.com/Oucema90">  
         <img src="https://avatars2.githubusercontent.com/u/6604864" width="100px;" alt="Oucema90"/>  
@@ -220,6 +213,13 @@ Dockerfile               2 repos             █░░░░░░░░░░�
       </a>  
       <br />  
       <a href="https://github.com/diegojunio">Diego Junio</a>  
+    </td>  
+    <td align="center">  
+      <a href="https://github.com/mrncstt">  
+        <img src="https://avatars2.githubusercontent.com/u/14565450" width="100px;" alt="mrncstt"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/mrncstt">Mariana Costa</a>  
     </td>  
   </tr>
 </table>
