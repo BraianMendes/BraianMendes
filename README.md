@@ -138,7 +138,7 @@ Dockerfile               2 repos             █░░░░░░░░░░�
         <img src="https://avatars2.githubusercontent.com/u/31603793" width="100px;" alt="ahmnouira"/>  
       </a>  
       <br />  
-      <a href="https://github.com/ahmnouira">ahmnouira</a>  
+      <a href="https://github.com/ahmnouira">Ahmed Nouira</a>  
     </td>  
     <td align="center">  
       <a href="https://github.com/renbooo">  
