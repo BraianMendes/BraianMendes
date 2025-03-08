@@ -48,8 +48,6 @@ Whether it's through my AI initiatives during the COVID-19 crisis with MIT or my
 	<li><a href="https://github.com/BraianMendes/BraianMendes/blob/master/summary/advanced.md">Advanced Portfolio</a></li>
 	<li><a href="https://github.com/BraianMendes/BraianMendes/blob/master/summary/simple.md">Simple Portfolio</a></li>
 	<li><a href="https://github.com/BraianMendes/BraianMendes/blob/master/summary/hackaton.md">Hackaton Projects</a></li>
-	<li><a href="https://github.com/BraianMendes/BraianMendes/blob/master/summary/study.md">Study Notebooks</a></li>
-	<li><a href="https://github.com/BraianMendes/BraianMendes/blob/master/summary/boilerplate.md">Boilerplates and Templates</a></li>
 </ol>
 
 <br/>
@@ -234,31 +232,22 @@ Dockerfile               2 repos             █░░░░░░░░░░�
 
 ---
 
-<h4 style="margin-top: 5rem">
-Want to know a little more? Some curiosities of mine:
-</h4>
-
-:apple: Bodybuilder
-
-:camping: Passionate World Traveler
-
-:video_game: Gamer and Game Dev
-
----
-	
+<!--
 ## 🌐 Work Related Links
 For more about my work and experiences, you can check out the following links:
+-->
 
 <!-- - **Personal Blog:** [Your Blog Name](URL) -->
-- **Personal Website:** [My Website Portfolio](www.braian.tech)
+<!-- - **Personal Website:** [My Website Portfolio](www.braian.tech) -->
 <!-- # - **Dribbble:** [Your Dribbble Profile](URL) -->
 <!-- # - **Behance:** [Your Behance Profile](URL) -->
 <!-- # - **Medium:** [Your Medium Profile](URL) -->
 
-	
+<!--	
 <br>
 <em><b><p> I love connecting with different people from around the world, so if you want to be my friend, feel free to <a href="https://twitter.com/braian_dev">reach out and introduce yourself</a> and don’t just say hi, tell me about yourself. </p></b></em>
-<br>	
+<br>
+-->
 	
 <div  align="center" style="display: flex;  align-items: center;  justify-content: center;" >
 <img src="https://media.giphy.com/media/26FmQ6EOvLxp6cWyY/giphy.gif" style="margin: 0 auto" align="center">
