@@ -17,7 +17,7 @@ I’m **Braian Mendes**, a Software Architect, SRE specialist and Engineer based
 	
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
   <a href="https://api.whatsapp.com/send?phone=5537991512954">
-    <img style="display: block; margin: 0 10px; width: auto; height: 35px;" src="https://img.shields.io/badge/-Hire%20me-blue?style=for-the-badge" alt="Hire me">
+    <img style="display: block; margin: 0 10px; width: auto; height: 35px;" src="https://img.shields.io/badge/-Contact%20me-blue?style=for-the-badge" alt="Hire me">
   </a>
   <a href="https://www.instagram.com/uaibraian/">
     <img style="display: block; margin: 0 10px; width: auto; height: 35px;" src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge" alt="Instagram">
