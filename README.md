@@ -17,11 +17,7 @@
 -->
 
 ## Introduction
-Hello, I'm Braian Mendes 👋! Since 2012, I've been navigating the intricate realms of software development, weaving my journey from the depths of IoT projects for GovTech to being at the forefront of startups in São Paulo, Brazil 🌆💻. My adventures aren't just technical; they're stories of collaboration, leadership, and an undying commitment to excellence. 🚀🛠️
-
-Whether it's through my AI initiatives during the COVID-19 crisis with MIT or my active participation in aiding fellow developers, my belief in continuous learning and sharing remains unwavering 🎓🌐. If you share my passion for innovation and growth or are just curious about the tech world, let's connect! 📫🙌
-    
-<div align="center"><b>Let's connect. I'll respond very quickly.</b></div>
+I’m **Braian Mendes**, a Software Architect, SRE specialist and Engineer based in Minas Gerais, Brazil. Since 2012, I’ve designed and delivered distributed microservices, end-to-end web and mobile applications, and high-availability IoT platforms for GovTech and startups. With AI/ML expertise predating 2019—including healthcare models built in partnership with MIT during the COVID-19 crisis—I blend architectural rigor, reliability engineering and innovation to solve complex, real-world challenges.  
 	
 <br/>
 	
@@ -32,9 +28,9 @@ Whether it's through my AI initiatives during the COVID-19 crisis with MIT or my
   <a href="https://www.instagram.com/uaibraian/">
     <img style="display: block; margin: 0 10px; width: auto; height: 35px;" src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge" alt="Instagram">
   </a>
-  <a href="https://www.facebook.com/braianmtech">
+<!--   <a href="https://www.facebook.com/braianmtech">
     <img style="display: block; margin: 0 10px; width: auto; height: 35px;" src="https://img.shields.io/badge/-Facebook-%231877F2?style=for-the-badge" alt="Facebook">
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/braianmendes/">
     <img style="display: block; margin: 0 10px; width: auto; height: 35px;" src="https://img.shields.io/badge/-Linkedin-%230A66C2?style=for-the-badge" alt="Linkedin">
   </a>
@@ -42,6 +38,7 @@ Whether it's through my AI initiatives during the COVID-19 crisis with MIT or my
 
 <!-- SECTION 03: SUMMARY -->
 
+<!-- 
 <h2>Repository Summary</h2>
 <p>In this section you can browse the projects and repositories I've been working on, all of which are organized and easy to access. Just click and you will navigate to a page where you can see the specific projects more stratified.</p>
 <ol>
@@ -49,6 +46,7 @@ Whether it's through my AI initiatives during the COVID-19 crisis with MIT or my
 	<li><a href="https://github.com/BraianMendes/BraianMendes/blob/master/summary/simple.md">Simple Portfolio</a></li>
 	<li><a href="https://github.com/BraianMendes/BraianMendes/blob/master/summary/hackaton.md">Hackaton Projects</a></li>
 </ol>
+-->
 
 <br/>
 <br/>
@@ -231,23 +229,6 @@ Dockerfile               2 repos             █░░░░░░░░░░�
 </div>
 
 ---
-
-<!--
-## 🌐 Work Related Links
-For more about my work and experiences, you can check out the following links:
--->
-
-<!-- - **Personal Blog:** [Your Blog Name](URL) -->
-<!-- - **Personal Website:** [My Website Portfolio](www.braian.tech) -->
-<!-- # - **Dribbble:** [Your Dribbble Profile](URL) -->
-<!-- # - **Behance:** [Your Behance Profile](URL) -->
-<!-- # - **Medium:** [Your Medium Profile](URL) -->
-
-<!--	
-<br>
-<em><b><p> I love connecting with different people from around the world, so if you want to be my friend, feel free to <a href="https://twitter.com/braian_dev">reach out and introduce yourself</a> and don’t just say hi, tell me about yourself. </p></b></em>
-<br>
--->
 	
 <div  align="center" style="display: flex;  align-items: center;  justify-content: center;" >
 <img src="https://media.giphy.com/media/26FmQ6EOvLxp6cWyY/giphy.gif" style="margin: 0 auto" align="center">
@@ -265,7 +246,7 @@ For more about my work and experiences, you can check out the following links:
            width: 20%;
 	   max-height: 20px"
     src="https://github.com/BraianMendes/BraianMendes/blob/master/src/assets/hire-me!.svg" 
-    alt="Hire me">
+    alt="Contact Me">
 </img>
 </a>
 <a href="https://www.braian.tech">  
@@ -276,7 +257,7 @@ For more about my work and experiences, you can check out the following links:
            width: 46%;
 	   max-height: 20px"
     src="https://github.com/BraianMendes/BraianMendes/blob/master/src/assets/-my-www-portfolio.svg" 
-    alt="My Portfolio">
+    alt="My Website Portfolio">
 </img>
 </a>
 </div>
