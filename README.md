@@ -231,31 +231,6 @@ Dockerfile               2 repos             █░░░░░░░░░░�
 <br>
 <br>	
 
-<div  align="center" style="display: flex;  align-items: center;  justify-content: center;" >
-<!-- <a href="https://api.whatsapp.com/send?phone=5537991512954">  
-<img 
-    style="display: block; 
-           margin-left: auto;
-           margin-right: auto;
-           width: 20%;
-	   max-height: 20px"
-    src="https://github.com/BraianMendes/BraianMendes/blob/master/src/assets/hire-me!.svg" 
-    alt="Contact Me">
-</img>
-</a> -->
-<!-- <a href="https://www.braian.tech">  
-<img 
-    style="display: block; 
-           margin-left: auto;
-           margin-right: auto;
-           width: 46%;
-	   max-height: 20px"
-    src="https://github.com/BraianMendes/BraianMendes/blob/master/src/assets/-my-www-portfolio.svg" 
-    alt="My Website Portfolio">
-</img> -->
-<!-- </a> -->
-</div>
-
 <!-- Notes
 
 Engenheiro de software apaixonado por inovação. Foco em desenvolvimento web e mobile. Também desenvolvedor de IA, IoT e Blockchain. Codando desde 2012. Desde então tenho dedicado todo o meu tempo a constante aprendizado e evolução. Atualmente iniciei cursos superiores de cibersegurança e desenvolvimento de blockchain. Eu me posiciono como um engenheiro de soluções digitais não preso a uma
