@@ -1,11 +1,7 @@
 <!-- SECTION 01: BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Braian%20Mendes&fontSize=70&fontAlignY=35&desc=Full-Stack%20Software%20Developer/Engineer&descAlignY=50" />
      	
-<!-- ## Table of Contents -->
-<div>
-<b>Hello there! Here you will see a little of me, a little of my history, projects, study notes, and how to call me for a chat.</b>
-<br/>
-	 
+<!-- ## Table of Contents --> 
 <!-- 1. [About Me](#introduction)
 2. [Skills](#skills)
 3. [Experience](#experience)
@@ -15,8 +11,6 @@
 7. [Hobbies & Interests](#hobbies-interests)
 8. [Contact](#contact) 
 -->
-
-## Introduction
 I’m **Braian Mendes**, a Software Architect, SRE specialist and Engineer based in Minas Gerais, Brazil. Since 2012, I’ve designed and delivered distributed microservices, end-to-end web and mobile applications, and high-availability IoT platforms for GovTech and startups. With AI/ML expertise predating 2019—including healthcare models built in partnership with MIT during the COVID-19 crisis—I blend architectural rigor, reliability engineering and innovation to solve complex, real-world challenges.  
 	
 <br/>
@@ -238,7 +232,7 @@ Dockerfile               2 repos             █░░░░░░░░░░�
 <br>	
 
 <div  align="center" style="display: flex;  align-items: center;  justify-content: center;" >
-<a href="https://api.whatsapp.com/send?phone=5537991512954">  
+<!-- <a href="https://api.whatsapp.com/send?phone=5537991512954">  
 <img 
     style="display: block; 
            margin-left: auto;
@@ -248,8 +242,8 @@ Dockerfile               2 repos             █░░░░░░░░░░�
     src="https://github.com/BraianMendes/BraianMendes/blob/master/src/assets/hire-me!.svg" 
     alt="Contact Me">
 </img>
-</a>
-<a href="https://www.braian.tech">  
+</a> -->
+<!-- <a href="https://www.braian.tech">  
 <img 
     style="display: block; 
            margin-left: auto;
@@ -258,8 +252,8 @@ Dockerfile               2 repos             █░░░░░░░░░░�
 	   max-height: 20px"
     src="https://github.com/BraianMendes/BraianMendes/blob/master/src/assets/-my-www-portfolio.svg" 
     alt="My Website Portfolio">
-</img>
-</a>
+</img> -->
+<!-- </a> -->
 </div>
 
 <!-- Notes
