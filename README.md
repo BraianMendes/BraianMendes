@@ -6,7 +6,7 @@
 2. [Skills](#skills)
 3. [Experience](#experience)
 4. [Education](#education)
-5. [Certifications](#certifications)
+5. [Certifications](#certifications) 
 6. [Achievements](#achievements)
 7. [Hobbies & Interests](#hobbies-interests)
 8. [Contact](#contact) 
