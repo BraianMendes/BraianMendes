@@ -1,7 +1,7 @@
 <!-- SECTION 01: BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Braian%20Mendes&fontSize=70&fontAlignY=35&desc=Full-Stack%20Software%20Developer/Engineer&descAlignY=50" /> 
      	  
-<!-- ## Table of Contents --> 
+<!-- ## Table of Contents -->  
 <!-- 1. [About Me](#introduction)  
 2. [Skills](#skills)
 3. [Experience](#experience)
