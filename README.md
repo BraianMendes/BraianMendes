@@ -8,7 +8,7 @@
 4. [Education](#education)
 5. [Certifications](#certifications)   
 6. [Achievements](#achievements)
-7. [Hobbies & Interests](#hobbies-interests)
+7. [Hobbies & Interests](#hobbies-interests) 
 8. [Contact](#contact) 
 -->
 I’m **Braian Mendes**, a Software Architect, SRE specialist and Engineer based in Minas Gerais, Brazil. Since 2012, I’ve designed and delivered distributed microservices, end-to-end web and mobile applications, and high-availability IoT platforms for GovTech and startups. With AI/ML expertise predating 2019—including healthcare models built in partnership with MIT during the COVID-19 crisis—I blend architectural rigor, reliability engineering and innovation to solve complex, real-world challenges.   
