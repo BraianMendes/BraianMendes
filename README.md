@@ -116,6 +116,13 @@ Lua                      1 repo              █░░░░░░░░░░�
       <a href="https://github.com/idimetrix">Dmitry Selikhov</a>  
     </td>  
     <td align="center">  
+      <a href="https://github.com/mahdi-eth">  
+        <img src="https://avatars2.githubusercontent.com/u/99660553" width="100px;" alt="mahdi-eth"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/mahdi-eth">Mahdi Ettehadnejad</a>  
+    </td>  
+    <td align="center">  
       <a href="https://github.com/ahmnouira">  
         <img src="https://avatars2.githubusercontent.com/u/31603793" width="100px;" alt="ahmnouira"/>  
       </a>  
@@ -143,6 +150,8 @@ Lua                      1 repo              █░░░░░░░░░░�
       <br />  
       <a href="https://github.com/misbot">misbot</a>  
     </td>  
+  </tr>
+  <tr>
     <td align="center">  
       <a href="https://github.com/viniciusfinger">  
         <img src="https://avatars2.githubusercontent.com/u/51798742" width="100px;" alt="viniciusfinger"/>  
@@ -150,8 +159,6 @@ Lua                      1 repo              █░░░░░░░░░░�
       <br />  
       <a href="https://github.com/viniciusfinger">Vinicius Finger</a>  
     </td>  
-  </tr>
-  <tr>
     <td align="center">  
       <a href="https://github.com/Oucema90">  
         <img src="https://avatars2.githubusercontent.com/u/6604864" width="100px;" alt="Oucema90"/>  
@@ -193,13 +200,6 @@ Lua                      1 repo              █░░░░░░░░░░�
       </a>  
       <br />  
       <a href="https://github.com/mrncstt">Mariana Costa</a>  
-    </td>  
-    <td align="center">  
-      <a href="https://github.com/diegojunio">  
-        <img src="https://avatars2.githubusercontent.com/u/18354403" width="100px;" alt="diegojunio"/>  
-      </a>  
-      <br />  
-      <a href="https://github.com/diegojunio">Diego Junio</a>  
     </td>  
   </tr>
 </table>
