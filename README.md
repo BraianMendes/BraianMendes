@@ -21,19 +21,6 @@ I’m **Braian Mendes**, a Software Architect and Engineer based in Minas Gerais
 </div>  
 
 <!-- SECTION 03: SUMMARY -->
-
-<!-- 
-<h2>Repository Summary</h2>
-<p>In this section you can browse the projects and repositories I've been working on, all of which are organized and easy to access. Just click and you will navigate to a page where you can see the specific projects more stratified.</p>
-<ol>
-	<li><a href="https://github.com/BraianMendes/BraianMendes/blob/master/summary/advanced.md">Advanced Portfolio</a></li>
-	<li><a href="https://github.com/BraianMendes/BraianMendes/blob/master/summary/simple.md">Simple Portfolio</a></li>
-	<li><a href="https://github.com/BraianMendes/BraianMendes/blob/master/summary/hackaton.md">Hackaton Projects</a></li>
-</ol>
--->
-
-<br/>
-<br/>
 <h2>
 Some Statistics
 </h2>
