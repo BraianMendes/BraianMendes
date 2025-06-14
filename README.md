@@ -80,7 +80,6 @@ Lua                      1 repo              █░░░░░░░░░░�
  Last Updated on 13/06/2025 20:04:26 UTC
 <!--END_SECTION:waka-->
 
-<!-- ![Braian Mendes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BraianMendes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
 
 ---
 
@@ -209,9 +208,6 @@ Lua                      1 repo              █░░░░░░░░░░�
 <br>	
 
 <!-- Notes
-
-Engenheiro de software apaixonado por inovação. Foco em desenvolvimento web e mobile. Também desenvolvedor de IA, IoT e Blockchain. Codando desde 2012. Desde então tenho dedicado todo o meu tempo a constante aprendizado e evolução. Atualmente iniciei cursos superiores de cibersegurança e desenvolvimento de blockchain. Eu me posiciono como um engenheiro de soluções digitais não preso a uma
-linguagem ou tecnologia. Um apaixonado por inovação e impacto através de novas tecnologias, vivo para isso e respiro o dia inteiro, todos os dias, em todas semanas do ano. 
 
 Onde pode conhecer meu portfólio
 * Github: https://github.com/BraianMendes
