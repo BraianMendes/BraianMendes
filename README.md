@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Braian%20Mendes&fontSize=70&fontAlignY=35&desc=Full-Stack%20Software%20Developer/Engineer&descAlignY=50" />             
 
 I’m **Braian Mendes**, a Software Architect and Engineer based in Minas Gerais, Brazil. Since 2012, I’ve designed and delivered distributed microservices, end-to-end web and mobile applications, and high-availability IoT platforms for GovTech and startups.   
-	
+	   
 <br/>
 	
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
