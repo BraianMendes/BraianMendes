@@ -3,7 +3,7 @@
 
 I’m **Braian Mendes**, a Software Architect and Engineer based in Minas Gerais, Brazil. Since 2012, I’ve designed and delivered distributed microservices, end-to-end web and mobile applications, and high-availability IoT platforms for GovTech and startups.   
 	   
-<br/>
+<br/> 
 	
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
   <a href="https://api.whatsapp.com/send?phone=5537991512954">
