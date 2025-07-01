@@ -26,6 +26,8 @@ Some Statistics
 </h2>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-146%20hrs%2015%20mins-blue)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -75,7 +77,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/07/2025 18:44:58 UTC
+ Last Updated on 01/07/2025 18:48:39 UTC
 <!--END_SECTION:waka-->
 
 
