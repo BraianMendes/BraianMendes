@@ -19,6 +19,26 @@ I’m **Braian Mendes**, a Software Architect and Engineer based in Minas Gerais
 
 ---
 
+## � GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/BraianMendes">
+    <img src="https://github-readme-stats.vercel.app/api?username=BraianMendes&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=FFFFFF&border_radius=10" alt="Braian's GitHub Stats" />
+  </a>
+</div>
+
+<br>
+
+## �🔥 GitHub Streak Stats
+
+<div align="center">
+  <a href="https://github.com/BraianMendes">
+    <img src="https://streak-stats.demolab.com/?user=BraianMendes&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" alt="Braian's GitHub Streak" />
+  </a>
+</div>
+
+<br>
+
 <h2> My top followers  </h2>
 <!--START_SECTION:top-followers-->
 <table>
