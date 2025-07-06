@@ -12,74 +12,10 @@ I’m **Braian Mendes**, a Software Architect and Engineer based in Minas Gerais
   <a href="https://www.instagram.com/uaibraian/">
     <img style="display: block; margin: 0 10px; width: auto; height: 35px;" src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge" alt="Instagram">
   </a>
-<!--   <a href="https://www.facebook.com/braianmtech">
-    <img style="display: block; margin: 0 10px; width: auto; height: 35px;" src="https://img.shields.io/badge/-Facebook-%231877F2?style=for-the-badge" alt="Facebook">
-  </a> -->
   <a href="https://www.linkedin.com/in/braianmendes/">
     <img style="display: block; margin: 0 10px; width: auto; height: 35px;" src="https://img.shields.io/badge/-Linkedin-%230A66C2?style=for-the-badge" alt="Linkedin">
   </a>
 </div>  
-
-<!-- SECTION 03: SUMMARY -->
-<h2>
-Some Statistics
-</h2>
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-146%20hrs%2015%20mins-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                170 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-🌆 Daytime                226 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
-🌃 Evening                943 commits         ███████████████░░░░░░░░░░   61.71 % 
-🌙 Night                  189 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   183 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-Tuesday                  428 commits         ███████░░░░░░░░░░░░░░░░░░   28.01 % 
-Wednesday                88 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
-Thursday                 174 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-Friday                   79 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
-Saturday                 88 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
-Sunday                   488 commits         ████████░░░░░░░░░░░░░░░░░   31.94 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               9 repos             ██████████░░░░░░░░░░░░░░░   40.91 % 
-JavaScript               8 repos             █████████░░░░░░░░░░░░░░░░   36.36 % 
-Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Dockerfile               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-```
-
-
-
-
- Last Updated on 06/07/2025 18:41:16 UTC
-<!--END_SECTION:waka-->
-
 
 ---
 
@@ -191,13 +127,6 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 </table>
 <!--END_SECTION:top-followers-->
 
-<br>
-<br>
-
-<div  align="center" style="display: flex;  align-items: center;  justify-content: center;" >
-<a href="https://app.daily.dev/BraianMendes"><img src="https://api.daily.dev/devcards/1de7b7effad6466f9d2b83be22810ff0.png?r=8l3" width="400" alt="Braian Mendes Corrêa's Dev Card"/></a>
-</div>
-
 ---
 	
 <div  align="center" style="display: flex;  align-items: center;  justify-content: center;" >
@@ -209,11 +138,6 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- Notes
 
-Onde pode conhecer meu portfólio
-* Github: https://github.com/BraianMendes
-* Site pessoal: www.braian.tech
-
-Outras plataformas onde pode me encontrar e conhecer meu trabalho
 * HackerRank: https://www.hackerrank.com/BraianMendes
 * Leetcode: https://leetcode.com/BraianMendes/
 * Topcoder: https://www.topcoder.com/members/BraianMendes
@@ -225,6 +149,5 @@ Outras plataformas onde pode me encontrar e conhecer meu trabalho
 * CodeChef: https://www.codechef.com/users/braianmendes
 * Codersrank: https://profile.codersrank.io/user/braianmendes
 
-Saving the world one algorith at a time!
 
 -->
