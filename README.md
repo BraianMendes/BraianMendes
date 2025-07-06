@@ -1,7 +1,11 @@
 <!-- SECTION 01: BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Braian%20Mendes&fontSize=70&fontAlignY=35&desc=Full-Stack%20Software%20Developer/Engineer&descAlignY=50" />             
 
-I’m **Braian Mendes**, a Software Architect and Engineer based in Minas Gerais, Brazil. Since 2012, I’ve designed and delivered distributed microservices, end-to-end web and mobile applications, and high-availability IoT platforms for GovTech and startups.   
+I’m **Braian Mendes**. Coding since 2012, I started my journey at university working on diverse projects. I’ve been a Fullstack Software Developer since 2016, a Senior Fullstack Software Engineer since 2021, and a Full Stack AI Engineer and Senior AI Engineer since 2023. I’m also a certified Data Scientist by AgroAdvance, working in the field since 2021. Since 2021, I have worked as a Solutions Architect and Software Architect, specializing in System Design and the development of distributed microservices, as well as end-to-end web and mobile applications for GovTech and startups.
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Full-Stack+Software+Engineer;AI+Engineer+%26+Solutions+Architect;Data+Scientist+%26+System+Designer;Building+the+Future+with+Code!" />
+</div>
 	     
 <br/> 
 	
@@ -19,17 +23,8 @@ I’m **Braian Mendes**, a Software Architect and Engineer based in Minas Gerais
 
 ---
 
-## � GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/BraianMendes">
-    <img src="https://github-readme-stats.vercel.app/api?username=BraianMendes&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=FFFFFF&border_radius=10" alt="Braian's GitHub Stats" />
-  </a>
-</div>
-
-<br>
-
-## �🔥 GitHub Streak Stats
+## 🔥 GitHub Streak Stats
 
 <div align="center">
   <a href="https://github.com/BraianMendes">
