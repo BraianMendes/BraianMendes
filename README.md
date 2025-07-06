@@ -4,7 +4,7 @@
 I’m **Braian Mendes**. Coding since 2012, I started my journey at university working on diverse projects. I’ve been a Fullstack Software Developer since 2016, a Senior Fullstack Software Engineer since 2021, and a Full Stack AI Engineer and Senior AI Engineer since 2023. I’m also a certified Data Scientist by AgroAdvance, working in the field since 2021. Since 2021, I have worked as a Solutions Architect and Software Architect, specializing in System Design and the development of distributed microservices, as well as end-to-end web and mobile applications for GovTech and startups.
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Full-Stack+Software+Engineer;AI+Engineer+%26+Solutions+Architect;Data+Scientist+%26+System+Designer;Building+the+Future+with+Code!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Full-Stack+Software+Engineer;AI+Engineer+and+Solutions+Architect;Data+Scientist+and+System+Designer;Building+the+Future+with+Code!" />
 </div>
 	     
 <br/> 
@@ -30,6 +30,14 @@ I’m **Braian Mendes**. Coding since 2012, I started my journey at university w
   <a href="https://github.com/BraianMendes">
     <img src="https://streak-stats.demolab.com/?user=BraianMendes&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" alt="Braian's GitHub Streak" />
   </a>
+</div>
+
+<br>
+
+## 💻 Top Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BraianMendes&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF&icon_color=7C3AED" alt="Top Languages" />
 </div>
 
 <br>
@@ -141,6 +149,13 @@ I’m **Braian Mendes**. Coding since 2012, I started my journey at university w
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
+
+---
+
+## 💬 Random Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
 
 ---
 	
