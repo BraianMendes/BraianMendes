@@ -136,11 +136,11 @@ I’m **Braian Mendes**. Coding since 2012. I’ve been a Fullstack Software Dev
       <a href="https://github.com/mrncstt">Mariana Costa</a>  
     </td>  
     <td align="center">  
-      <a href="https://github.com/develophardware">  
-        <img src="https://avatars2.githubusercontent.com/u/41173170" width="100px;" alt="develophardware"/>  
+      <a href="https://github.com/diegojunio">  
+        <img src="https://avatars2.githubusercontent.com/u/18354403" width="100px;" alt="diegojunio"/>  
       </a>  
       <br />  
-      <a href="https://github.com/develophardware">Paulo Rodrigues</a>  
+      <a href="https://github.com/diegojunio">Diego Junio</a>  
     </td>  
   </tr>
 </table>
