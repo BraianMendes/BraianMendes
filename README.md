@@ -20,12 +20,18 @@ I’m **Braian Mendes**. Coding since 2012. I’ve been a Fullstack Software Dev
 ---
 
 
+## � GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BraianMendes&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF&icon_color=7C3AED" alt="Braian's GitHub Stats" />
+</div>
+
+<br>
+
 ## 🔥 GitHub Streak Stats
 
 <div align="center">
-  <a href="https://github.com/BraianMendes">
-    <img src="https://streak-stats.demolab.com/?user=BraianMendes&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" alt="Braian's GitHub Streak" />
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=BraianMendes&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" alt="Braian's GitHub Streak" />
 </div>
 
 <br>
@@ -33,7 +39,7 @@ I’m **Braian Mendes**. Coding since 2012. I’ve been a Fullstack Software Dev
 ## 💻 Top Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BraianMendes&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF&icon_color=7C3AED" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BraianMendes&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF&icon_color=7C3AED&langs_count=8" alt="Top Languages" />
 </div>
 
 <br>
