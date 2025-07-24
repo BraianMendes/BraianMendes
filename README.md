@@ -7,7 +7,7 @@ I’m **Braian Mendes**. Coding since 2012. I’ve been a Fullstack Software Dev
 	
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
   <a href="https://api.whatsapp.com/send?phone=5537991512954">
-    <img style="display: block; margin: 0 10px; width: auto; height: 35px;" src="https://img.shields.io/badge/-Contact%20me-blue?style=for-the-badge" alt="Hire me">
+    <img style="display: block; margin: 0 10px; width: auto; height: 35px;" src="https://img.shields.io/badge/-Contact%20me-blue?style=for-the-badge" alt="Contact me">
   </a>
   <a href="https://www.instagram.com/uaibraian/">
     <img style="display: block; margin: 0 10px; width: auto; height: 35px;" src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge" alt="Instagram">
@@ -19,19 +19,12 @@ I’m **Braian Mendes**. Coding since 2012. I’ve been a Fullstack Software Dev
 
 ---
 
-
-## � GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BraianMendes&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF&icon_color=7C3AED" alt="Braian's GitHub Stats" />
-</div>
-
 <br>
 
 ## 🔥 GitHub Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=BraianMendes&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" alt="Braian's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=BraianMendes&theme=dark&hide_border=true&stroke=000000&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" alt="Braian's GitHub Streak" />
 </div>
 
 <br>
@@ -44,7 +37,7 @@ I’m **Braian Mendes**. Coding since 2012. I’ve been a Fullstack Software Dev
 
 <br>
 
-<h2> My top followers  </h2>
+## 👥 My Top Followers
 <!--START_SECTION:top-followers-->
 <table>
   <tr>
