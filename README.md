@@ -24,7 +24,7 @@ I’m **Braian Mendes**. Coding since 2012. I’ve been a Fullstack Software Dev
 ## 🔥 GitHub Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=BraianMendes&theme=dark&hide_border=true&stroke=000000&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" alt="Braian's GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=BraianMendes&theme=dark&hide_border=true&stroke=000000&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" alt="Braian's GitHub Streak" />
 </div>
 
 <br>
