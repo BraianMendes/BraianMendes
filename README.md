@@ -17,8 +17,6 @@ I’m **Braian Mendes**. Coding since 2012. I’ve been a Fullstack Software Dev
   </a>
 </div>  
 
----
-
 <br>
 
 ## 🔥 GitHub Streak Stats
