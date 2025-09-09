@@ -54,6 +54,13 @@ I’m **Braian Mendes**. Coding since 2012. I’ve been a Fullstack Software Dev
       <a href="https://github.com/idimetrix">Dmitry Selikhov</a>  
     </td>  
     <td align="center">  
+      <a href="https://github.com/motanelson">  
+        <img src="https://avatars2.githubusercontent.com/u/118323821" width="100px;" alt="motanelson"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/motanelson">nelson jr mota</a>  
+    </td>  
+    <td align="center">  
       <a href="https://github.com/ahmnouira">  
         <img src="https://avatars2.githubusercontent.com/u/31603793" width="100px;" alt="ahmnouira"/>  
       </a>  
@@ -81,6 +88,8 @@ I’m **Braian Mendes**. Coding since 2012. I’ve been a Fullstack Software Dev
       <br />  
       <a href="https://github.com/misbot">misbot</a>  
     </td>  
+  </tr>
+  <tr>
     <td align="center">  
       <a href="https://github.com/viniciusfinger">  
         <img src="https://avatars2.githubusercontent.com/u/51798742" width="100px;" alt="viniciusfinger"/>  
@@ -88,8 +97,6 @@ I’m **Braian Mendes**. Coding since 2012. I’ve been a Fullstack Software Dev
       <br />  
       <a href="https://github.com/viniciusfinger">Vinicius Finger</a>  
     </td>  
-  </tr>
-  <tr>
     <td align="center">  
       <a href="https://github.com/Oucema90">  
         <img src="https://avatars2.githubusercontent.com/u/6604864" width="100px;" alt="Oucema90"/>  
@@ -131,13 +138,6 @@ I’m **Braian Mendes**. Coding since 2012. I’ve been a Fullstack Software Dev
       </a>  
       <br />  
       <a href="https://github.com/diegojunio">Diego Junio</a>  
-    </td>  
-    <td align="center">  
-      <a href="https://github.com/mrncstt">  
-        <img src="https://avatars2.githubusercontent.com/u/14565450" width="100px;" alt="mrncstt"/>  
-      </a>  
-      <br />  
-      <a href="https://github.com/mrncstt">Mariana Costa</a>  
     </td>  
   </tr>
 </table>
