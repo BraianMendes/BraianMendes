@@ -3,7 +3,7 @@
 I’m **Braian Mendes**. Coding since 2012. I’ve been a Fullstack Software Developer since 2016, a Senior Fullstack Software Engineer since 2021, and a Full Stack AI Engineer since 2023. I’m also a certified Data Scientist by AgroAdvance, working in the field since 2021. Since 2021, I have worked as a Solutions Architect and Software Architect, specializing in System Design and the development of distributed microservices, as well as end-to-end web and mobile applications for GovTech and startups.
 	      
 <br/>   
-	
+	  
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
   <a href="https://api.whatsapp.com/send?phone=5537991512954">
     <img style="display: block; margin: 0 10px; width: auto; height: 35px;" src="https://img.shields.io/badge/-Contact%20me-blue?style=for-the-badge" alt="Contact me">
