@@ -1,4 +1,3 @@
-<!-- SECTION 01: BANNER -->                  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Braian%20Mendes&fontSize=70&fontAlignY=35&desc=Full-Stack%20Software%20Developer/Engineer&descAlignY=50" />               
      
 I’m **Braian Mendes**. Coding since 2012. I’ve been a Fullstack Software Developer since 2016, a Senior Fullstack Software Engineer since 2021, and a Full Stack AI Engineer since 2023. I’m also a certified Data Scientist by AgroAdvance, working in the field since 2021. Since 2021, I have worked as a Solutions Architect and Software Architect, specializing in System Design and the development of distributed microservices, as well as end-to-end web and mobile applications for GovTech and startups.
