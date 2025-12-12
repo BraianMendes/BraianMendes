@@ -125,18 +125,18 @@ I’m **Braian Mendes**. Coding since 2012. I’ve been a Fullstack Software Dev
       <a href="https://github.com/walisom360">walisonmatheus</a>  
     </td>  
     <td align="center">  
-      <a href="https://github.com/VamoCodar">  
-        <img src="https://avatars2.githubusercontent.com/u/51723157" width="100px;" alt="VamoCodar"/>  
-      </a>  
-      <br />  
-      <a href="https://github.com/VamoCodar">Adriano P</a>  
-    </td>  
-    <td align="center">  
       <a href="https://github.com/diegojunio">  
         <img src="https://avatars2.githubusercontent.com/u/18354403" width="100px;" alt="diegojunio"/>  
       </a>  
       <br />  
       <a href="https://github.com/diegojunio">Diego Junio</a>  
+    </td>  
+    <td align="center">  
+      <a href="https://github.com/VamoCodar">  
+        <img src="https://avatars2.githubusercontent.com/u/51723157" width="100px;" alt="VamoCodar"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/VamoCodar">Adriano P</a>  
     </td>  
   </tr>
 </table>
