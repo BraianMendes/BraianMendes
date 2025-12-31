@@ -118,6 +118,13 @@ I’m **Braian Mendes**. Coding since 2012. I’ve been a Fullstack Software Dev
       <a href="https://github.com/MarlonJerold">Marlon Jerold</a>  
     </td>  
     <td align="center">  
+      <a href="https://github.com/bvoris">  
+        <img src="https://avatars2.githubusercontent.com/u/40213182" width="100px;" alt="bvoris"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/bvoris">Brad Voris</a>  
+    </td>  
+    <td align="center">  
       <a href="https://github.com/VamoCodar">  
         <img src="https://avatars2.githubusercontent.com/u/51723157" width="100px;" alt="VamoCodar"/>  
       </a>  
@@ -130,13 +137,6 @@ I’m **Braian Mendes**. Coding since 2012. I’ve been a Fullstack Software Dev
       </a>  
       <br />  
       <a href="https://github.com/walisom360">walisonmatheus</a>  
-    </td>  
-    <td align="center">  
-      <a href="https://github.com/diegojunio">  
-        <img src="https://avatars2.githubusercontent.com/u/18354403" width="100px;" alt="diegojunio"/>  
-      </a>  
-      <br />  
-      <a href="https://github.com/diegojunio">Diego Junio</a>  
     </td>  
   </tr>
 </table>
